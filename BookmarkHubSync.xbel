@@ -1530,9 +1530,6 @@
       <bookmark href="https://floccus.org/" id="897">
         <title>Floccus | Bookmarks Syncing</title>
       </bookmark>
-      <bookmark href="https://github.com/0xJonasDev" id="898">
-        <title>Github</title>
-      </bookmark>
     </folder>
     <folder id="205">
       <title>Stealth Tools</title>
@@ -1842,6 +1839,9 @@
           </bookmark>
           <bookmark href="https://www.epochconverter.com/#code" id="823">
             <title>Epoch Converter - Unix Timestamp Converter</title>
+          </bookmark>
+          <bookmark href="https://github.com/0xJonasDev" id="898">
+            <title>Github</title>
           </bookmark>
         </folder>
         <folder id="584">
