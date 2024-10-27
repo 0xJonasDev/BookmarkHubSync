@@ -1,0 +1,2694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :896: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <bookmark href="https://www.google.com/" id="3">
+    <title>Google</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/maps?authuser=0" id="4">
+    <title>Google Maps</title>
+  </bookmark>
+  <bookmark href="https://www.icloud.com/" id="5">
+    <title>iCloud</title>
+  </bookmark>
+  <bookmark href="http://www.youtube.com/" id="6">
+    <title>YouTube</title>
+  </bookmark>
+  <folder id="7">
+    <title>Accounts</title>
+    <folder id="14">
+      <title>Church</title>
+      <bookmark href="https://www.mountainoffire.org/resources/prayer-points" id="56">
+        <title>Prayer Points | MFM </title>
+      </bookmark>
+      <bookmark href="https://maxlucado.com/daily-devotional/" id="57">
+        <title>Daily Devotional - Max Lucado</title>
+      </bookmark>
+      <bookmark href="https://www.bible.com/" id="58">
+        <title>The Bible</title>
+      </bookmark>
+      <bookmark href="https://www.mountainoffire.org/give/paypal" id="59">
+        <title>MFM Ministries </title>
+      </bookmark>
+      <bookmark href="https://thewisdomcenter.tv/" id="60">
+        <title>The Wisdom Center</title>
+      </bookmark>
+    </folder>
+    <folder id="15">
+      <title>Consumer</title>
+      <bookmark href="https://reg.usps.com/login?app=Payment&amp;appURL=https%3A%2F%2Fpay.usps.com%2Fpayment%2FCheckout_input" id="61">
+        <title>USPS.com®</title>
+      </bookmark>
+      <bookmark href="https://customer.stamps.com/Store/account/profile/V2/?_requestid=224617" id="62">
+        <title>Stamps.com</title>
+      </bookmark>
+    </folder>
+    <folder id="16">
+      <title>Finance</title>
+      <folder id="63">
+        <title>Banking</title>
+        <bookmark href="https://www.westernunion.com/us/en/account/app/history?canceltransfer=true&amp;s_tnt=98615:0:0&amp;adobe_mc_ref=https:%2F%2Fwww.westernunion.com%2Fus%2Fen%2Fsend-money%2Fapp%2Flogin&amp;adobe_mc_sdid=SDID%3D05B4EAA37E67601C-664906C05F2575DE%7CMCORGID%3DAACD3BC75245B4940A490D4D%2540AdobeOrg" id="225">
+          <title>Western Union</title>
+        </bookmark>
+        <bookmark href="https://www.usaa.com/inet/ent_logon/Logon" id="226">
+          <title>USAA</title>
+        </bookmark>
+        <bookmark href="https://www.paypal.com/" id="227">
+          <title>Paypal</title>
+        </bookmark>
+        <bookmark href="https://www.navyfederal.org/" id="228">
+          <title>Navy Federal Credit Union</title>
+        </bookmark>
+        <bookmark href="https://www.cutx.org/" id="229">
+          <title>Credit Union of Texas</title>
+        </bookmark>
+        <bookmark href="https://www.accessbankplc.com/" id="230">
+          <title>Access Bank Group</title>
+        </bookmark>
+        <bookmark href="https://www.usbankreliacard.com/" id="231">
+          <title>US Bank | ReliaCard</title>
+        </bookmark>
+        <bookmark href="https://connect.stripe.com/app/express#taxes" id="232">
+          <title>Stripe Express</title>
+        </bookmark>
+        <bookmark href="https://www.wunetspendprepaid.com/account/login" id="233">
+          <title>Western Union Netspend Prepaid Account</title>
+        </bookmark>
+        <bookmark href="https://www.xe.com/" id="234">
+          <title>Exchange Rates and International Money Transfer</title>
+        </bookmark>
+      </folder>
+      <folder id="64">
+        <title>Investments</title>
+        <bookmark href="http://u-ediv.investoreducation.gov.ng/?limit=50&amp;page=10" id="235">
+          <title>Daddy&apos;s Shares</title>
+        </bookmark>
+        <bookmark href="https://www.fidelity.com/" id="236">
+          <title>Fidelity Investments</title>
+        </bookmark>
+        <bookmark href="https://financialissues.org/" id="237">
+          <title>Financial Issues With Dan Celia</title>
+        </bookmark>
+        <bookmark href="https://www.betterment.com/?segment=brand&amp;gclid=EAIaIQobChMI68XX35Tw5QIVRvbjBx0ccgmpEAAYASAAEgKDQPD_BwE" id="238">
+          <title>Betterment | The Smart Money Manager</title>
+        </bookmark>
+        <bookmark href="https://fundrise.com/acq-plus/start?utm_source=thepennyhoarder&amp;utm_medium=cpa&amp;utm_content=get-past-overdrafting&amp;tph=102e60122e60c289014862bebace5c" id="239">
+          <title>Fundrise | Real estate investing</title>
+        </bookmark>
+        <bookmark href="https://www.nerdwallet.com/" id="240">
+          <title>NerdWallet | Finance Resource</title>
+        </bookmark>
+        <bookmark href="https://diversyfund.com/" id="241">
+          <title>Diversyfund | Real Estate Growth REIT</title>
+        </bookmark>
+      </folder>
+      <folder id="65">
+        <title>Monthly Bills</title>
+        <bookmark href="https://newconceptproperty.appfolio.com/connect/" id="242">
+          <title>New Concept Property Management</title>
+        </bookmark>
+        <bookmark href="https://www.tep.com/" id="243">
+          <title>Tucson Electric Power</title>
+        </bookmark>
+        <bookmark href="https://ipn2.paymentus.com/cp/twaz" id="244">
+          <title>Tucson utilities | Water &amp; Trash</title>
+        </bookmark>
+        <bookmark href="https://www.spectrum.com/mobile" id="245">
+          <title>Spectrum Mobile</title>
+        </bookmark>
+      </folder>
+      <folder id="66">
+        <title>Mortgage</title>
+        <bookmark href="https://residentdirect.appliancewhse.com/" id="246">
+          <title>Appliance Rental | Appliance Warehouse</title>
+        </bookmark>
+        <bookmark href="https://www.pepperviner.com/" id="247">
+          <title>Pepper Viner Homes</title>
+        </bookmark>
+        <bookmark href="https://www.mycccu.com/" id="248">
+          <title>Christian Community Credit Union</title>
+        </bookmark>
+        <bookmark href="https://www.americanfinancing.net/" id="249">
+          <title>American Financing | Mortgage</title>
+        </bookmark>
+        <bookmark href="https://www.naca.com/" id="250">
+          <title>NACA | Neighborhood Assistance Corporation of America</title>
+        </bookmark>
+        <bookmark href="https://blackislandco.com/" id="251">
+          <title>Black Island Co | Minority Home Ownership Program</title>
+        </bookmark>
+        <bookmark href="https://www.dallascad.org/" id="252">
+          <title>Dallas Central Appraisal District</title>
+        </bookmark>
+        <bookmark href="https://prestigedallashomes.com/thank-you/" id="253">
+          <title>THANK YOU! | Lauer Real Estate</title>
+        </bookmark>
+      </folder>
+      <folder id="67">
+        <title>Taxes</title>
+        <bookmark href="https://connect.stripe.com/express_login#taxes" id="254">
+          <title>DoorDash Tax Docs | Stripe Express</title>
+        </bookmark>
+        <bookmark href="https://www.irs.gov/payments/view-your-tax-account" id="255">
+          <title>Internal Revenue Service</title>
+        </bookmark>
+        <bookmark href="https://file.1040.com/1040/login" id="256">
+          <title>1040.com</title>
+        </bookmark>
+        <bookmark href="http://www.freetaxusa.com/" id="257">
+          <title>FreeTaxUSA</title>
+        </bookmark>
+      </folder>
+      <folder id="68">
+        <title>Loans</title>
+        <bookmark href="https://nelnet.studentaid.gov/welcome" id="258">
+          <title>Nelnet Studentaid</title>
+        </bookmark>
+        <bookmark href="https://studentaid.gov/dashboard/" id="259">
+          <title>Federal Student Aid</title>
+        </bookmark>
+      </folder>
+      <folder id="69">
+        <title>Lotto</title>
+        <bookmark href="http://www.megamillions.com/" id="260">
+          <title>Mega Millions</title>
+        </bookmark>
+        <bookmark href="https://www.pch.com/" id="261">
+          <title>PCH.com</title>
+        </bookmark>
+      </folder>
+      <folder id="70">
+        <title>Credit Reports</title>
+        <bookmark href="https://www.experian.com/" id="262">
+          <title>Experian</title>
+        </bookmark>
+        <bookmark href="https://www.equifax.com/personal/" id="263">
+          <title>Equifax</title>
+        </bookmark>
+        <bookmark href="https://www.transunion.com/" id="264">
+          <title>TransUnion</title>
+        </bookmark>
+        <bookmark href="https://login10.fisglobal.com/idp/ChexSystems/?response_type=code&amp;client_id=chexsystems&amp;state=QW4xNU1peDlMS3NnZGN0eHpVUmR2T056MnR1SW15SFp6NnlLfmlQRk5tenZ2&amp;redirect_uri=https%3A%2F%2Fchexsystems.eto.fiscloudservices.com&amp;scope=openid%20profile&amp;code_challenge=AtySbY-yzHGMQvnoBeen_Ktf9KVrgsCJ0Goi86nuX0A&amp;code_challenge_method=S256&amp;nonce=QW4xNU1peDlMS3NnZGN0eHpVUmR2T056MnR1SW15SFp6NnlLfmlQRk5tenZ2" id="265">
+          <title>ChexSystems</title>
+        </bookmark>
+        <bookmark href="https://www.creditkarma.com/" id="266">
+          <title>Credit Karma</title>
+        </bookmark>
+        <bookmark href="https://www.creditsesame.com/" id="267">
+          <title>Credit Sesame </title>
+        </bookmark>
+        <bookmark href="http://www.nfcc.org/" id="268">
+          <title>Credit Counseling</title>
+        </bookmark>
+        <bookmark href="https://christiancreditcounselors.org/" id="269">
+          <title>Christian Credit Counselors | Free Debt Analysis</title>
+        </bookmark>
+        <bookmark href="https://www.nerdwallet.com/article/finance/how-to-freeze-credit" id="270">
+          <title>NerdWallet | How to Freeze Your Credit</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=fg_AvV7ISUE&amp;t=468s" id="271">
+          <title>(773) How I Fixed Credit Fast: Removed Collections, Charge-off, and Adverse Accounts - 30 Days - Secret! - YouTube</title>
+        </bookmark>
+      </folder>
+      <folder id="71">
+        <title>Crowd Funding</title>
+        <bookmark href="https://www.kickstarter.com/" id="272">
+          <title>Kickstarter</title>
+        </bookmark>
+        <bookmark href="https://www.indiegogo.com/" id="273">
+          <title>Indiegogo | Crowdfund Innovations</title>
+        </bookmark>
+        <bookmark href="https://www.gofundme.com/?route=category/marketing&amp;r=1&amp;v=1&amp;pc=thrive_google_search_branded-u_general_usa_213881657417__kwd-296198581808__42238199222_895198733_gofundme_e_c_g__9026927___1t1&amp;gclid=EAIaIQobChMIi-38zYeG1wIVBEGGCh1sbAweEAAYASAAEgLGn_D_BwE" id="274">
+          <title>GoFundMe Online Fundraising</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="17">
+      <title>Legal</title>
+      <bookmark href="https://www.tidc.texas.gov/my-rights/" id="72">
+        <title>My Rights | Texas Indigent Defense Commission</title>
+      </bookmark>
+      <bookmark href="https://store.nolo.com/products/" id="73">
+        <title>Nolo | Legal Affairs</title>
+      </bookmark>
+      <bookmark href="https://www.upcounsel.com/how-much-does-a-patent-cost" id="74">
+        <title>UpCounsel | Patent Costs</title>
+      </bookmark>
+      <bookmark href="https://courtsportal.dallascounty.org/DALLASPROD/?clearSession=True" id="75">
+        <title>Dallas County, Texas Courts Portal</title>
+      </bookmark>
+      <bookmark href="https://courtcasefinder.com/" id="76">
+        <title>Court Case Finder</title>
+      </bookmark>
+    </folder>
+    <folder id="18">
+      <title>Health</title>
+      <bookmark href="https://mychart.parklandhealth.org/MyChart/Authentication/Login?action=logout" id="77">
+        <title>MyChart | Parkland</title>
+      </bookmark>
+      <bookmark href="https://mychart.minuteclinic.com/MyChartPRD/Authentication/Login?action=logout" id="78">
+        <title>MyChart | Minute Clinic</title>
+      </bookmark>
+      <bookmark href="https://members.hcsc.net/wps/portal/bam" id="79">
+        <title>Blue Cross Blue Shield - Login</title>
+      </bookmark>
+      <bookmark href="https://mycw115.ecwcloud.com/portal15907/jsp/100mp/login_otp.jsp" id="80">
+        <title>Healthcare Associates of Texas</title>
+      </bookmark>
+      <bookmark href="https://www.asmeinsurance.com/" id="81">
+        <title>ASME | Insurance</title>
+      </bookmark>
+      <bookmark href="https://tddctx.mygportal.com/PP6-1-10/Account/LogOn" id="82">
+        <title>GI Alliance</title>
+      </bookmark>
+      <bookmark href="https://myhealthone.com/mh1/public/mh1/Login/#/login-form" id="83">
+        <title>MyHealthOne</title>
+      </bookmark>
+      <bookmark href="https://envision.simpleepay.com/app/login" id="84">
+        <title>Envision | Simpleepay</title>
+      </bookmark>
+      <bookmark href="https://hca.epayhealthcare.com/EPAY_PATIENT/#/user-login/F283B60F-41EF-4248-88F6-C32CEE3650A3" id="85">
+        <title>ePay Patient Portal</title>
+      </bookmark>
+      <bookmark href="https://www.1800contacts.com/" id="86">
+        <title>1-800 CONTACTS</title>
+      </bookmark>
+      <bookmark href="https://www.discountcontacts.com/login" id="459">
+        <title>Discount Contacts</title>
+      </bookmark>
+      <bookmark href="https://stresscenter.com/" id="460">
+        <title>Midwest Center | Stress &amp; Anxiety</title>
+      </bookmark>
+      <bookmark href="https://anticipatejoy.com/about/" id="461">
+        <title>Anticipate Joy | Online Counseling and Therapy</title>
+      </bookmark>
+      <bookmark href="http://newpathwaystx.com/" id="462">
+        <title>New Pathways Counseling</title>
+      </bookmark>
+    </folder>
+    <folder id="19">
+      <title>Travel</title>
+      <folder id="87">
+        <title>Air Travel</title>
+        <bookmark href="https://www.aa.com/homePage.do?anchorLocation=DirectURL&amp;title=AAdvantage" id="275">
+          <title>American Airlines</title>
+        </bookmark>
+        <bookmark href="https://www.southwest.com/" id="276">
+          <title>Southwest Airlines</title>
+        </bookmark>
+        <bookmark href="https://www.flyfrontier.com/" id="277">
+          <title>Frontier Airlines</title>
+        </bookmark>
+        <bookmark href="https://www.spirit.com/" id="278">
+          <title>Spirit Airlines</title>
+        </bookmark>
+        <bookmark href="https://www.allegiantair.com/" id="279">
+          <title>Allegiant Air</title>
+        </bookmark>
+        <bookmark href="https://www.skyharbor.com/parking/" id="280">
+          <title>Parking | Phoenix Sky Harbor International Airport</title>
+        </bookmark>
+      </folder>
+      <folder id="88">
+        <title>Auto Travel</title>
+        <bookmark href="https://www.sixt.com/#/" id="281">
+          <title>Sixt | Car Rental</title>
+        </bookmark>
+        <bookmark href="https://www.dollar.com/?" id="282">
+          <title>Dollar Rentals | Dollar Car Rental</title>
+        </bookmark>
+        <bookmark href="https://www.shareyourride.net/carpool/USA/" id="283">
+          <title>Rideshare in USA</title>
+        </bookmark>
+        <bookmark href="https://www.ntta.org/Pages/default.aspx" id="284">
+          <title>NTTA | Tolls</title>
+        </bookmark>
+        <bookmark href="https://www.expresslanedefensivedriving.com/" id="285">
+          <title>ExpressLane | Defensive Driving</title>
+        </bookmark>
+        <bookmark href="https://www.paymycite.com/payCite.aspx" id="286">
+          <title>PayMyCite.com</title>
+        </bookmark>
+      </folder>
+      <folder id="89">
+        <title>Travel Documents</title>
+        <bookmark href="https://ttp.dhs.gov/" id="287">
+          <title>Global Entry | Department of Homeland Security</title>
+        </bookmark>
+        <bookmark href="https://www.onlineexpeditors.com/" id="288">
+          <title>Expedited U.S. Online Passport Processing | OnlineExpeditors.com</title>
+        </bookmark>
+      </folder>
+      <folder id="90">
+        <title>Travel Guides</title>
+        <bookmark href="https://www.thrillist.com/" id="289">
+          <title>Thrillist | Travel Guide</title>
+        </bookmark>
+        <bookmark href="https://www.visittucson.org/?gclid=Cj0KCQjw8qmhBhClARIsANAtboeiUCIX4rdDI48gmPOZYIisl1mnlNKNMqSmsNAabhgBoO7u3yDO6-8aArHpEALw_wcB" id="290">
+          <title>Arizona | Hotels, Restaurants &amp; Things To Do</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="20">
+      <title>Shopping</title>
+      <folder id="91">
+        <title>Auto</title>
+        <bookmark href="https://www.givemethevin.com/" id="291">
+          <title>GiveMeTheVin | Car Sales</title>
+        </bookmark>
+        <bookmark href="https://www.lso.cc/" id="292">
+          <title>LSOauctions</title>
+        </bookmark>
+        <bookmark href="https://vincheck.info/check/vin-check.php" id="293">
+          <title>Free VIN Check Reports and VIN Check</title>
+        </bookmark>
+        <bookmark href="https://www.copart.com/" id="294">
+          <title>Copart USA</title>
+        </bookmark>
+        <bookmark href="https://www.iaai.com/" id="295">
+          <title>IAA | Insurance Auto Auctions</title>
+        </bookmark>
+        <bookmark href="https://login.auctionaccess.com/" id="296">
+          <title>AuctionACCESS</title>
+        </bookmark>
+        <bookmark href="https://www.truckpaper.com/" id="297">
+          <title>TruckPaper | Commercial Truck &amp; Trailer</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://www.amazon.com/" id="92">
+        <title>Amazon</title>
+      </bookmark>
+      <bookmark href="https://www.ebay.com/" id="93">
+        <title>eBay</title>
+      </bookmark>
+      <bookmark href="https://www.pinterest.com/#top" id="94">
+        <title>Pinterest</title>
+      </bookmark>
+      <bookmark href="http://orangecounty.craigslist.org/" id="95">
+        <title>Craigslist</title>
+      </bookmark>
+      <bookmark href="http://get.furniture/living-room.html?p=2" id="96">
+        <title>GET.Furniture</title>
+      </bookmark>
+      <bookmark href="https://www.costco.com/" id="97">
+        <title>Costco Wholesale</title>
+      </bookmark>
+      <bookmark href="https://www.facebook.com/marketplace/dallas/?ref=bookmark" id="98">
+        <title>Facebook Marketplace</title>
+      </bookmark>
+      <bookmark href="https://wikibuy.com/capitalone?utm_source=pony&amp;utm_campaign=batch&amp;utm_term=namedont1&amp;utm_date=06242019" id="99">
+        <title>Wikibuy | Coupon Hunter</title>
+      </bookmark>
+      <bookmark href="https://www.wayfair.com/Get-The-Look?page=13" id="100">
+        <title>Wayfair | Furniture</title>
+      </bookmark>
+      <bookmark href="http://www.clark.com/" id="463">
+        <title>Clark Howard | Consumer Advice</title>
+      </bookmark>
+      <bookmark href="http://www.cnet.com/" id="464">
+        <title>CNET | Tech Product Reviews</title>
+      </bookmark>
+      <bookmark href="https://www.producthunt.com/" id="465">
+        <title>Product Hunt | Tech Product Reviews</title>
+      </bookmark>
+      <bookmark href="https://www.groupon.com/" id="466">
+        <title>Groupon | Deals and Coupons</title>
+      </bookmark>
+      <bookmark href="https://www.t-mobile.com/benefits" id="467">
+        <title>T-Mobile Phone Plan Benefits</title>
+      </bookmark>
+      <bookmark href="https://camelcamelcamel.com/" id="468">
+        <title>CamelCamelCamel | Amazon price tracker</title>
+      </bookmark>
+      <bookmark href="https://www.whistleout.com/" id="469">
+        <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.accountkiller.com/en" id="21">
+      <title>Account Killer</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>Business</title>
+    <folder id="22">
+      <title>BUCO Steel Technologies</title>
+      <bookmark href="https://www.upwork.com/" id="101">
+        <title>Upwork</title>
+      </bookmark>
+      <bookmark href="https://www.freelancer.com/" id="102">
+        <title>Freelancer</title>
+      </bookmark>
+      <bookmark href="https://www.fiverr.com/search/gigs?query=cad&amp;source=main_banner&amp;search_in=everywhere&amp;search-autocomplete-original-term=cad" id="103">
+        <title>Fiverr</title>
+      </bookmark>
+    </folder>
+    <folder id="23">
+      <title>Endy Golden Global, Inc</title>
+      <folder id="104">
+        <title>Nigerian Imports</title>
+        <bookmark href="https://www.napams.org/" id="298">
+          <title>NAFDAC Product e-Registration</title>
+        </bookmark>
+        <bookmark href="https://trade.gov.ng/en/" id="299">
+          <title>Nigeria Trade Portal</title>
+        </bookmark>
+      </folder>
+      <folder id="105">
+        <title>Prospective Suppliers</title>
+        <bookmark href="https://www.katsarosdistillery.gr/project/ouzo-katsaros/?lang=en" id="300">
+          <title>Katsaros Distillery – Ouzo</title>
+        </bookmark>
+        <bookmark href="http://www.sazerac.com/Jobs.aspx" id="301">
+          <title>Sazerac Company</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="24">
+      <title>Domains</title>
+      <bookmark href="https://dcc.godaddy.com/domains" id="106">
+        <title>GoDaddy Domain</title>
+      </bookmark>
+      <bookmark href="https://accounts.zoho.com/u/h#setting/preference" id="107">
+        <title>Zoho Accounts</title>
+      </bookmark>
+      <bookmark href="https://www.wix.com/dashboard/5817b648-605c-4b81-8094-f9da0da26e60/home/" id="108">
+        <title>Wix.com | Dashboard</title>
+      </bookmark>
+      <bookmark href="https://www.wix.com/logo/maker/esh/dashboard/my-logos?logoId=b3284dab-8d4b-4c7b-8da0-58f7c63d2e00" id="109">
+        <title>Wix Logo Maker</title>
+      </bookmark>
+    </folder>
+    <folder id="25">
+      <title>Office Tools</title>
+      <bookmark href="https://us04web.zoom.us/" id="110">
+        <title>Zoom</title>
+      </bookmark>
+      <bookmark href="https://www.freeconferencecallhd.com/" id="111">
+        <title>FreeConferenceCallHD</title>
+      </bookmark>
+      <bookmark href="http://faxzero.com/" id="112">
+        <title>Free Internet Faxing</title>
+      </bookmark>
+      <bookmark href="http://www.myfax.com/free/" id="113">
+        <title>Fax | Free Internet Faxing</title>
+      </bookmark>
+      <bookmark href="https://www.vistaprint.com/?mk=vista+print&amp;ad=e&amp;crtv=222886731351&amp;device=c&amp;psloc=9026927&amp;pstid=kwd-96406912&amp;psite=mkwid%7c4xy0H6kI&amp;iv_=__iv_p_1_a_1935593_g_483316519_w_kwd-96406912_h_9026927_ii__d_c_v__n_g_c_222886731351_k_vista+print_m_e_l__t__e__r_1t1_vi__&amp;gclid=EAIaIQobChMIq-K8i46G1wIVBEGGCh1sbAweEAAYASAAEgJ6AvD_BwE&amp;GP=10%2f23%2f2017+02%3a25%3a01&amp;GPS=4553455802&amp;GNF=0&amp;rd=1" id="114">
+        <title>Vistaprint | Business Cards</title>
+      </bookmark>
+      <bookmark href="https://www.pdffiller.com/en/forms/dashboard" id="115">
+        <title>PDFfiller | On-line PDF Editor</title>
+      </bookmark>
+    </folder>
+    <folder id="26">
+      <title>Resources</title>
+      <bookmark href="http://doneforyouplan.com/" id="116">
+        <title>Business Plan Examples</title>
+      </bookmark>
+      <bookmark href="https://nondisclosureagreement.com/#NDA_Standard_Template" id="117">
+        <title>Non-Disclosure Agreement (NDA) Template</title>
+      </bookmark>
+      <bookmark href="https://www.applecapitalgroup.com/" id="118">
+        <title>Asset Based Lending Solution</title>
+      </bookmark>
+      <bookmark href="https://www.investopedia.com/corporate-finance-and-accounting-4689821" id="119">
+        <title>Corporate Finance &amp; Accounting Introduction</title>
+      </bookmark>
+      <bookmark href="https://fitsmallbusiness.com/sba-form-413/" id="120">
+        <title>SBA Form 413: I Personal Financial Statement Instructions</title>
+      </bookmark>
+    </folder>
+    <folder id="27">
+      <title>Corporate Taxes</title>
+      <bookmark href="https://www.eftps.gov/eftps/" id="121">
+        <title>EFTPS</title>
+      </bookmark>
+      <bookmark href="https://mycpa.cpa.state.tx.us/securitymp1portal/displayLoginUser.do" id="122">
+        <title>TxComptroller eSystems</title>
+      </bookmark>
+      <bookmark href="https://comptroller.texas.gov/" id="123">
+        <title>Comptroller.Texas.Gov</title>
+      </bookmark>
+      <bookmark href="https://nsbe.org/" id="124">
+        <title>NSBE | Supporting Black Engineers and Scientists | National Society of Black Engineers</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.zoho.com/mail/" id="28">
+      <title>Zoho Mail</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>Career</title>
+    <folder id="29">
+      <title>Societies &amp; Networking</title>
+      <bookmark href="http://www.asme.org/" id="125">
+        <title>American Society Of Mechanical Engineers | ASME</title>
+      </bookmark>
+      <bookmark href="https://www.nsbe.org/" id="126">
+        <title>National Society of Black Engineers | NSBE</title>
+      </bookmark>
+      <bookmark href="http://www.order-of-the-engineer.org/" id="127">
+        <title>Order Of The Engineer</title>
+      </bookmark>
+      <bookmark href="http://www.blackenterprise.com/" id="128">
+        <title>Black Enterprise</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/" id="129">
+        <title>LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://my.solidworks.com/#_ga=2.64129961.768363763.1573773651-53478b80-072a-11ea-8583-432aba0b6680" id="130">
+        <title>MySolidWorks</title>
+      </bookmark>
+      <bookmark href="https://knowledge.autodesk.com/" id="131">
+        <title>Autodesk Knowledge Network</title>
+      </bookmark>
+      <bookmark href="https://fgceset2000.blogspot.com/" id="132">
+        <title>FGC Enugu Alumni</title>
+      </bookmark>
+    </folder>
+    <folder id="30">
+      <title>Engineering</title>
+      <folder id="133">
+        <title>RTX</title>
+        <bookmark href="https://rtx.myonboarding.com/#/login/customloginconfig?u=P3JlZGlyZWN0X3VyaT1odHRwcyUzQSUyRiUyRnJ0eC5teW9uYm9hcmRpbmcuY29tJTJGJTIzJTJGbG9naW4lMkZjYWxsYmFjaw%253D%253D" id="302">
+          <title>Employee Portal</title>
+        </bookmark>
+        <bookmark href="https://online.adp.com/signin/v1/?APPID=RDBX&amp;productId=80e309c3-70c6-bae1-e053-3505430b5495&amp;returnURL=https://my.adp.com/&amp;callingAppId=RDBX&amp;TARGET=-SM-https://my.adp.com/" id="303">
+          <title>ADP - Payroll</title>
+        </bookmark>
+        <bookmark href="https://rtx.benefithub.com/Account/Login?ReturnUrl=%2f" id="304">
+          <title>RTX Savings</title>
+        </bookmark>
+        <bookmark href="https://sleepio.com/sleepio/RTX/147#1/1" id="305">
+          <title>Onboarding Sleep Test - Sleepio</title>
+        </bookmark>
+        <bookmark href="https://www.dcsa.mil/Personnel-Security/Background-Investigations-for-Applicants/Access-Your-Records/" id="306">
+          <title>Security Clearance | DCASA</title>
+        </bookmark>
+      </folder>
+      <folder id="134">
+        <title>CAD Software DL</title>
+        <bookmark href="https://www.3ds.com/products-services/catia/products/v5/portfolio/?woc=%7B%22category%22%3A%5B%22category%2Fchampions%22%5D%7D&amp;wockw=card_content_cta_1_url%3A%22https%3A%2F%2Fblogs.3ds.com%2Fcatia%2F%22" id="307">
+          <title>CATIA™ V5 Portfolio - Dassault Systèmes® 3D Software</title>
+        </bookmark>
+        <bookmark href="https://www.solidworks.com/domain/design-engineering" id="308">
+          <title>SOLIDWORKS | Design/Engineering</title>
+        </bookmark>
+        <bookmark href="https://www.autodesk.com/collections/product-design-manufacturing/overview?term=1-YEAR" id="309">
+          <title>Autodesk | Product Design &amp; Manufacturing Collection</title>
+        </bookmark>
+        <bookmark href="https://www.ptc.com/en/products/creo/packages" id="310">
+          <title>PTC Creo | Packages </title>
+        </bookmark>
+        <bookmark href="https://www.keyshot.com/features/whats-new/" id="311">
+          <title>KeyShot | Rendering</title>
+        </bookmark>
+        <bookmark href="https://www.plm.automation.siemens.com/" id="312">
+          <title>NX | Siemens Digital Industries Software</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://www.wolframalpha.com/" id="135">
+        <title>Wolfram Alpha | Computation Engine</title>
+      </bookmark>
+      <bookmark href="https://sourceforge.net/" id="136">
+        <title>SourceForge | Open Source Software</title>
+      </bookmark>
+      <bookmark href="https://www.lucidchart.com/documents#docs?folder_id=home&amp;browser=icon&amp;sort=saved-desc" id="137">
+        <title>LucidChart | Charts</title>
+      </bookmark>
+      <bookmark href="https://grabcad.com/library" id="138">
+        <title>GrabCAD | 3D CAD Model Library</title>
+      </bookmark>
+      <bookmark href="http://matweb.com/" id="139">
+        <title>MatWeb | Materials Resource</title>
+      </bookmark>
+      <bookmark href="https://www.mcmaster.com/" id="140">
+        <title>McMaster-Carr | Hardware Resource</title>
+      </bookmark>
+      <bookmark href="https://www.robotshop.com/" id="141">
+        <title>RobotShop | Everything Robots</title>
+      </bookmark>
+      <bookmark href="https://instrumental.com/product?rdt_cid=3404368873057808365&amp;utm_campaign=3-min-video&amp;utm_group=&amp;utm_medium=Advertisement&amp;utm_source=Reddit+-+Paid&amp;utm_subgroup=" id="142">
+        <title>Instrumental | Find and fix manufacturing issues from anywhere</title>
+      </bookmark>
+    </folder>
+    <folder id="31">
+      <title>AI &amp; ML</title>
+      <folder id="143">
+        <title>Great Learning</title>
+        <bookmark href="https://olympus.greatlearning.in/dashboard" id="313">
+          <title>Great Learning</title>
+        </bookmark>
+        <bookmark href="https://olympus.greatlearning.in/courses/13357" id="314">
+          <title>Getting Started with HTML | Great Learning</title>
+        </bookmark>
+        <bookmark href="https://program.mygreatlearning.com/alumniservices/" id="315">
+          <title>Alumni Services | Great Learning</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=OlY1Xl9fGsM" id="316">
+          <title>Financial Analytics | Robust Portfolio Optimization</title>
+        </bookmark>
+      </folder>
+      <folder id="144">
+        <title>Python Resources</title>
+        <folder id="317">
+          <title>Educational Articles</title>
+          <bookmark href="https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123" id="470">
+            <title>Canny Edge Detection Step by Step in Python — Computer Vision | by Sofiane Sahir | Towards Data Science</title>
+          </bookmark>
+          <bookmark href="https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/" id="471">
+            <title>Gradient Boosting | Hyperparameter Tuning Python</title>
+          </bookmark>
+          <bookmark href="https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/" id="472">
+            <title>Gradient Boosting with Scikit-Learn, XGBoost, LightGBM, and CatBoost</title>
+          </bookmark>
+          <bookmark href="https://www.skynettoday.com/overviews/neural-net-history" id="473">
+            <title>A Brief History of Neural Nets and Deep Learning – Skynet Today</title>
+          </bookmark>
+          <bookmark href="https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8" id="474">
+            <title>Deep Learning: Which Loss and Activation Functions should I use? | by Stacey Ronaghan | Towards Data Science</title>
+          </bookmark>
+          <bookmark href="https://medium.com/@ashwin8april/dimensionality-reduction-and-visualization-using-pca-principal-component-analysis-8489b46c2ae0" id="475">
+            <title>Dimensionality reduction using PCA</title>
+          </bookmark>
+          <bookmark href="https://medium.com/@sygong/k-means-clustering-for-customer-segmentations-a-practical-real-world-example-196a10323b9f" id="476">
+            <title>K-means Clustering for Customer Segmentations: A Practical Real-world Example</title>
+          </bookmark>
+          <bookmark href="https://towardsdatascience.com/image-processing-with-python-blurring-and-sharpening-for-beginners-3bcebec0583a" id="477">
+            <title>Image Processing with Python — Blurring and Sharpening for Beginners | by Tonichi Edeza | Towards Data Science</title>
+          </bookmark>
+          <bookmark href="https://towardsdatascience.com/introduction-of-image-processing-with-python-image-filtering-193e9108ea1d" id="478">
+            <title>Introduction to Image Processing with Python — Image Filtering | by Tonichi Edeza | Towards Data Science</title>
+          </bookmark>
+          <bookmark href="https://www.mygreatlearning.com/blog/ensemble-learning/#sh4" id="479">
+            <title>Ensemble learning with Stacking and Blending</title>
+          </bookmark>
+        </folder>
+        <folder id="318">
+          <title>Educational Videos</title>
+          <bookmark href="https://www.youtube.com/watch?v=9OPLC5OJjC8" id="480">
+            <title>Python Programming Series (Loops 1): The while loop - YouTube</title>
+          </bookmark>
+          <bookmark href="https://www.youtube.com/watch?v=OlY1Xl9fGsM" id="481">
+            <title>Financial Analytics - Robust Portfolio Optimization - YouTube</title>
+          </bookmark>
+        </folder>
+        <folder id="319">
+          <title>Tutorials</title>
+          <bookmark href="https://docs.python.org/3/tutorial/" id="482">
+            <title>The Python Tutorial</title>
+          </bookmark>
+          <bookmark href="https://pythonprogramming.net/" id="483">
+            <title>Python Programming Tutorials</title>
+          </bookmark>
+          <bookmark href="https://www.w3schools.com/" id="484">
+            <title>W3Schools Online Web Tutorials</title>
+          </bookmark>
+          <bookmark href="https://wellsr.com/python/" id="485">
+            <title>Wellsr | Python Tutorials Blog</title>
+          </bookmark>
+          <bookmark href="https://runestone.academy/ns/books/published/thinkcspy/index.html" id="486">
+            <title>How to Think like a Computer Scientist</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://anandology.com/python-practice-book/" id="320">
+          <title>Python Practice Book</title>
+        </bookmark>
+        <bookmark href="https://developers.google.com/edu/python/" id="321">
+          <title>Google&apos;s Python Class</title>
+        </bookmark>
+        <bookmark href="https://python.swaroopch.com/" id="322">
+          <title>A Byte of Python - GitBook</title>
+        </bookmark>
+        <bookmark href="https://www.mygreatlearning.com/blog/python-pandas-tutorial/?highlight=python%20pandas" id="323">
+          <title>Introduction of Pandas | Data Analysis</title>
+        </bookmark>
+        <bookmark href="https://developers.google.com/edu/python" id="324">
+          <title>Google&apos;s Python Class  |  Python Education</title>
+        </bookmark>
+        <bookmark href="https://github.com/ajaymache/data-analysis-using-python" id="325">
+          <title>Data Analysis using Python - GitHub</title>
+        </bookmark>
+        <bookmark href="https://microsoft.github.io/PTVS/" id="326">
+          <title>Python Tools for Visual Studio</title>
+        </bookmark>
+        <bookmark href="https://archive.ics.uci.edu/ml/index.php" id="653">
+          <title>UCI Machine Learning Repository</title>
+        </bookmark>
+        <bookmark href="https://s3.amazonaws.com/assets.datacamp.com/production/course_15192/slides/chapter4.pdf" id="654">
+          <title>Chart customizations</title>
+        </bookmark>
+        <bookmark href="https://www.mathsisfun.com/calculus/derivative-plotter.html" id="655">
+          <title>Derivative Plotter</title>
+        </bookmark>
+        <bookmark href="https://www.python.org/dev/peps/pep-0008/" id="656">
+          <title>Style Guide for Python Code | PEP 8</title>
+        </bookmark>
+        <bookmark href="https://docs.python.org/3.0/reference/lexical_analysis.html#id8" id="657">
+          <title>Lexical analysis - Reserved Keywords in Python</title>
+        </bookmark>
+        <bookmark href="https://diveintopython3.net/" id="658">
+          <title>Dive Into Python 3 - Syntax and  Datatypes</title>
+        </bookmark>
+        <bookmark href="https://nbviewer.jupyter.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb" id="659">
+          <title>Plotting &amp; Visualization</title>
+        </bookmark>
+        <bookmark href="https://blog.finxter.com/how-to-execute-multiple-lines-in-a-single-line-python-from-command-line/" id="812">
+          <title>Freelance Wisdom | Finxter</title>
+        </bookmark>
+        <bookmark href="http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html" id="813">
+          <title>Jupyter Python Notebook Keyboard Shortcuts and Text Snippets</title>
+        </bookmark>
+      </folder>
+      <folder id="145">
+        <title>Documentations</title>
+        <bookmark href="https://scikit-learn.org/stable/index.html" id="327">
+          <title>Scikit-learn 0.23.2 documentation</title>
+        </bookmark>
+        <bookmark href="https://www.python.org/doc/" id="328">
+          <title>Python.org  | Documentation</title>
+        </bookmark>
+        <bookmark href="https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html" id="329">
+          <title>ML Glossary documentation</title>
+        </bookmark>
+        <bookmark href="https://pandas.pydata.org/pandas-docs/stable/index.html" id="330">
+          <title>Pandas 1.2.4 documentation</title>
+        </bookmark>
+        <bookmark href="https://www.tensorflow.org/guide" id="331">
+          <title>TensorFlow Core | Guide</title>
+        </bookmark>
+        <bookmark href="https://keras.io/" id="332">
+          <title>Keras: the Python deep learning API</title>
+        </bookmark>
+        <bookmark href="https://lightgbm.readthedocs.io/en/latest/index.html" id="333">
+          <title>LightGBM 3.2.1.99 documentation</title>
+        </bookmark>
+        <bookmark href="https://xgboost.readthedocs.io/en/latest/index.html#" id="334">
+          <title>XGBoost 1.5.0-SNAPSHOT documentation</title>
+        </bookmark>
+        <bookmark href="https://www.nltk.org/" id="335">
+          <title>Natural Language Toolkit 3.5 documentation</title>
+        </bookmark>
+        <bookmark href="https://docs.python.org/3/library/exceptions.html" id="336">
+          <title>Built-in Exceptions — Python 3.10.0 documentation</title>
+        </bookmark>
+      </folder>
+      <folder id="146">
+        <title>Disciplines</title>
+        <folder id="337">
+          <title>Machine Learning</title>
+          <bookmark href="https://github.com/ageron/handson-ml" id="487">
+            <title>ML using Python Scikit-Learn and TensorFlow - GitHub</title>
+          </bookmark>
+          <bookmark href="https://datasetsearch.research.google.com/" id="488">
+            <title>Dataset Search - Google</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/keras/classification" id="489">
+            <title>TensorFlow Core - ML</title>
+          </bookmark>
+          <bookmark href="https://towardsdatascience.com/the-simple-math-behind-3-decision-tree-splitting-criterions-85d4de2a75fe" id="490">
+            <title>The Simple Math behind 3 Decision Tree Splitting criterions</title>
+          </bookmark>
+        </folder>
+        <folder id="338">
+          <title>Deep Learning</title>
+          <bookmark href="https://github.com/fchollet/deep-learning-with-python-notebooks" id="491">
+            <title>Deep Learning with Python - GitHub</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/" id="492">
+            <title>TensorFlow Core Tutorials  | Beginners</title>
+          </bookmark>
+          <bookmark href="http://www.nltk.org/book/" id="493">
+            <title>Natural Language Processing with Python</title>
+          </bookmark>
+          <bookmark href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.70007&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false" id="494">
+            <title>A Neural Network Playground</title>
+          </bookmark>
+          <bookmark href="https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html" id="495">
+            <title>Activation Functions — ML Glossary documentation</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/guide/" id="496">
+            <title>Guide  |  TensorFlow Core</title>
+          </bookmark>
+          <bookmark href="https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/" id="497">
+            <title>Artificial Neural Network | Fundamentals of Deep Learning</title>
+          </bookmark>
+          <bookmark href="https://www.youtube.com/watch?v=9RN2Wr8xvro&amp;feature=emb_logo" id="498">
+            <title>Neural Networks Explained from Scratch using Python - YouTube</title>
+          </bookmark>
+          <bookmark href="https://medium.com/pythonland/30-python-language-tricks-that-will-make-you-a-better-coder-f08f811a7b0f" id="499">
+            <title>30 Python Language Tricks</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/install/pip" id="500">
+            <title>Install TensorFlow with pip</title>
+          </bookmark>
+        </folder>
+        <folder id="339">
+          <title>Computer Vision</title>
+          <bookmark href="https://techtutorialsx.com/2018/06/02/python-opencv-converting-an-image-to-gray-scale/" id="501">
+            <title>Python OpenCV: Converting an image to gray scale - techtutorialsx</title>
+          </bookmark>
+          <bookmark href="https://arxiv.org/pdf/1403.6382.pdf" id="502">
+            <title>CNN Features off-the-shelf: an Astounding Baseline for Recognition</title>
+          </bookmark>
+          <bookmark href="https://arxiv.org/pdf/1812.07997.pdf" id="503">
+            <title>Explanatory Graphs for CNNs</title>
+          </bookmark>
+          <bookmark href="http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf" id="504">
+            <title>LearningOpenCV.pdf</title>
+          </bookmark>
+          <bookmark href="https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html" id="505">
+            <title>ConvNetJS MNIST demo</title>
+          </bookmark>
+          <bookmark href="https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html" id="506">
+            <title>ConvNetJS CIFAR-10 demo</title>
+          </bookmark>
+          <bookmark href="https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html" id="507">
+            <title>ConvNetJS demo: Classify toy 2D data</title>
+          </bookmark>
+          <bookmark href="https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf" id="508">
+            <title>ImageNet Classification with Deep Convolutional Neural Networks</title>
+          </bookmark>
+          <bookmark href="https://www.deeplearningbook.org/" id="509">
+            <title>Deep Learning | An MIT Press Book</title>
+          </bookmark>
+          <bookmark href="https://leonardoaraujosantos.gitbook.io/artificial-inteligence/machine_learning/deep_learning/convolutional_neural_networks" id="510">
+            <title>Convolutional Neural Networks - Artificial Inteligence</title>
+          </bookmark>
+          <bookmark href="https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV" id="777">
+            <title>GitHub - jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV: Full tutorial of computer vision and machine learning basics with OpenCV and Keras in Python.</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/images/classification" id="778">
+            <title>Image classification  |  TensorFlow Core</title>
+          </bookmark>
+        </folder>
+        <folder id="340">
+          <title>Natural Language Processing</title>
+          <bookmark href="https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html" id="511">
+            <title>Stemming and lemmatization</title>
+          </bookmark>
+          <bookmark href="https://www.nltk.org/api/nltk.tokenize.html#module-nltk.tokenize" id="512">
+            <title>nltk.tokenize package — NLTK 3.5 documentation</title>
+          </bookmark>
+          <bookmark href="https://medium.com/biaslyai/beginners-guide-to-text-preprocessing-in-python-2cbeafbf5f44" id="513">
+            <title>Beginner’s Guide to Text Preprocessing in Python | by Yasmeen Hitti | Medium</title>
+          </bookmark>
+          <bookmark href="https://www.mygreatlearning.com/blog/natural-language-processing-tutorial/" id="514">
+            <title>NLP (Natural Language Processing) Tutorial</title>
+          </bookmark>
+          <bookmark href="https://medium.com/greyatom/an-introduction-to-bag-of-words-in-nlp-ac967d43b428" id="515">
+            <title>An Introduction to Bag-of-Words in NLP | by Jocelyn D&apos;Souza | GreyAtom | Medium</title>
+          </bookmark>
+          <bookmark href="https://medium.com/@bedigunjit/simple-guide-to-text-classification-nlp-using-svm-and-naive-bayes-with-python-421db3a72d34" id="516">
+            <title>A guide to Text Classification(NLP) using SVM and Naive Bayes with Python | by Gunjit Bedi | Medium</title>
+          </bookmark>
+          <bookmark href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/" id="517">
+            <title>Understanding LSTM Networks -- colah&apos;s blog</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/text/text_generation" id="518">
+            <title>Text generation with an RNN  |  TensorFlow Core</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/guide/keras/rnn" id="519">
+            <title>Recurrent Neural Networks (RNN) with Keras  |  TensorFlow Core</title>
+          </bookmark>
+          <bookmark href="https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/" id="520">
+            <title>Introduction to Recurrent Neural Network - GeeksforGeeks</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/keras/text_classification_with_hub" id="779">
+            <title>Text classification with TensorFlow Hub: Movie reviews</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/text/text_classification_rnn" id="780">
+            <title>Text classification with an RNN  |  TensorFlow Core</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/tutorials/keras/text_classification" id="781">
+            <title>Basic text classification  |  TensorFlow Core</title>
+          </bookmark>
+          <bookmark href="https://www.tensorflow.org/hub/tutorials/tf2_text_classification" id="782">
+            <title>Text Classification with Movie Reviews  |  TensorFlow Hub</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="147">
+        <title>Splunk</title>
+        <bookmark href="https://www.endace.com/splunk.html" id="341">
+          <title>Host Splunk - Endace</title>
+        </bookmark>
+        <bookmark href="https://www.splunk.com/" id="342">
+          <title>Splunk</title>
+        </bookmark>
+      </folder>
+      <folder id="148">
+        <title>Kaggle Competitions</title>
+        <folder id="343">
+          <title>Hackathon 2.0</title>
+          <bookmark href="https://drive.google.com/drive/folders/1KFBKXbfPZWPI3AB9i5ANX6B29Y9OAh_3" id="521">
+            <title>The Grand Hackathon 2.0 Files - Google Drive</title>
+          </bookmark>
+          <bookmark href="https://colab.research.google.com/drive/187pu9x-8-ZeGDmc3DBFnj9R7Q6cn-xCM?usp=sharing&amp;authuser=1#scrollTo=qli-j1DfexUX" id="522">
+            <title>Hackathon2020.ipynb - Colaboratory</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1l95CMhlW8HVS10m-r8_0t9kmoeuC91EL/edit#gid=490278185" id="523">
+            <title>Hackathons_Progress_Sheet.xlsx - Google Sheets</title>
+          </bookmark>
+          <bookmark href="https://github.com/willdata0101/Hackathon2020" id="524">
+            <title>willdata0101/Hackathon2020</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing" id="344">
+          <title>A Detailed Regression Guide with House-pricing | Kaggle</title>
+        </bookmark>
+        <bookmark href="https://www.kaggle.com/maxboels/plant-seedling-image-processing-and-classification" id="345">
+          <title>Plant Seedling Image Processing and Classification | Kaggle</title>
+        </bookmark>
+        <bookmark href="https://www.kaggle.com/learn/feature-engineering" id="346">
+          <title>Learn Feature Engineering Tutorials | Kaggle</title>
+        </bookmark>
+      </folder>
+      <folder id="149">
+        <title>Job Resources</title>
+        <bookmark href="https://www.mygreatlearning.com/blog/machine-learning-interview-questions/" id="347">
+          <title>200+ Machine Learning Interview Questions and Answer for 2021</title>
+        </bookmark>
+        <bookmark href="https://www.sawaal.com/" id="348">
+          <title>Free Practice Questions for Competitive Exams, Interviews, Certifications | Sawaal</title>
+        </bookmark>
+        <bookmark href="https://www.analyticsvidhya.com/" id="349">
+          <title>Analytics Vidhya | AIML professionals</title>
+        </bookmark>
+        <bookmark href="https://www.flexjobs.com/homeVariant/desktopV2" id="350">
+          <title>FlexJobs | Best Remote Jobs</title>
+        </bookmark>
+      </folder>
+      <folder id="150">
+        <title>Git Resources</title>
+        <bookmark href="https://git-scm.com/book/en/v2" id="351">
+          <title>Git - Book</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="32">
+      <title>Employment Resources</title>
+      <folder id="151">
+        <title>Job Articles</title>
+        <folder id="352">
+          <title>Apple</title>
+          <bookmark href="https://issuu.com/marcelokoli/docs/apple_design_challenge" id="525">
+            <title>Apple Design Challenge | Marcel Okoli</title>
+          </bookmark>
+          <bookmark href="https://www.myhealthyapple.com/apples-softgoods-division-may-be-working-on-more-than-just-your-standard-iphone-accessories/" id="526">
+            <title>Apple’s Softgoods Division | MyHealthyApple</title>
+          </bookmark>
+          <bookmark href="https://9to5mac.com/2018/11/26/iphone-case-patent/" id="527">
+            <title>Apple Button Patent | 9to5Mac</title>
+          </bookmark>
+          <bookmark href="https://www.pinterest.com/dwyer1/soft-goods/" id="528">
+            <title>120 Soft Goods Ideas</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.glassdoor.com/blog/guide/how-to-get-a-job-at-google/" id="353">
+          <title>How to Get a Job at Google | Glassdoor</title>
+        </bookmark>
+        <bookmark href="https://www.glassdoor.com/blog/land-a-contract-gig-at-facebook-google/" id="354">
+          <title>Contract Gig at Facebook, Google &amp; More | Glassdoor</title>
+        </bookmark>
+        <bookmark href="https://www.glassdoor.com/blog/how-to-get-a-job-at-amazon/?utm_source=newsletter&amp;utm_medium=email&amp;utm_content=20200227_trending_b&amp;utm_campaign=feb20_us" id="355">
+          <title>How to Get a Job at Amazon | Glassdoor</title>
+        </bookmark>
+        <bookmark href="https://www.glassdoor.com/blog/how-to-get-a-job-at-apple/" id="356">
+          <title>How to Get a Job at Apple | Glassdoor</title>
+        </bookmark>
+      </folder>
+      <folder id="152">
+        <title>Aerotek</title>
+        <bookmark href="https://connect.aerotek.com/tc_dashboard" id="357">
+          <title>Aerotek</title>
+        </bookmark>
+        <bookmark href="https://connect.aerotek.com/_ui/system/security/ChangePassword?retURL=%2Ftc_dashboard&amp;fromFrontdoor=1&amp;setupid=ChangePassword" id="358">
+          <title>Change Password</title>
+        </bookmark>
+        <bookmark href="https://www.paperlessemployee.com/allegis/PE" id="359">
+          <title>PaperlessEmployee</title>
+        </bookmark>
+        <bookmark href="https://thomas-and-company.com/" id="360">
+          <title>Employment Verification | Thomas &amp; Company</title>
+        </bookmark>
+      </folder>
+      <folder id="153">
+        <title>UI Benefits</title>
+        <bookmark href="https://apps.twc.state.tx.us/UBS/security/logon.do" id="361">
+          <title>TWC Unemployment Benefit Services</title>
+        </bookmark>
+        <bookmark href="https://www.workintexas.com/vosnet/Default.aspx" id="362">
+          <title>WorkInTexas</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://prepfully.com/practice-interviews" id="154">
+        <title>Prepfully</title>
+      </bookmark>
+      <bookmark href="https://www.palantir.com/" id="155">
+        <title>Palantir</title>
+      </bookmark>
+      <bookmark href="http://www.careerbuilder.com/" id="156">
+        <title>CareerBuilder</title>
+      </bookmark>
+      <bookmark href="https://www.cjhunter.com/" id="157">
+        <title>Contract Job Hunter</title>
+      </bookmark>
+      <bookmark href="https://www.chiptonross.com/" id="158">
+        <title>Chipton Ross</title>
+      </bookmark>
+      <bookmark href="https://skillcrush.com/blog/sites-finding-remote-work/" id="159">
+        <title>Top 30+ Remote Job Sites</title>
+      </bookmark>
+      <bookmark href="https://www.artech.com/" id="160">
+        <title>Artech Information Systems</title>
+      </bookmark>
+      <bookmark href="https://www.flexjobs.com/lp/remote-jobs1?utm_source=google&amp;utm_medium=sem&amp;utm_campaign=17479914177&amp;utm_term=remote%20part%20time%20work&amp;network=g&amp;device=c&amp;adposition=&amp;adgroupid=158716789668&amp;placement=&amp;adid=666368667261&amp;gad_source=1&amp;gclid=EAIaIQobChMI0MH5x72ZiQMVsxitBh1bBRgQEAAYASAAEgK0WfD_BwE" id="529">
+        <title>FlexJobs | Remote Jobs</title>
+      </bookmark>
+      <bookmark href="https://cvmkr.com/" id="530">
+        <title>CV Maker | Resumes  Creator</title>
+      </bookmark>
+      <bookmark href="https://www.techseries.dev/interview" id="531">
+        <title>Tech Interview Pro</title>
+      </bookmark>
+      <bookmark href="https://www.interviewkickstart.com/?utm_source=quora&amp;utm_medium=answers&amp;utm_campaign=post&amp;utm_term=decided_to_quit_my_job_and_spend_4000_hours_preparing" id="532">
+        <title>Interview Kickstart | The Best Technical Interview Prep Courses</title>
+      </bookmark>
+    </folder>
+    <folder id="33">
+      <title>Training Resources</title>
+      <folder id="161">
+        <title>Engineering</title>
+        <bookmark href="https://la.utexas.edu/greatlearning/uta-artificial-intelligence-machine-learning.html?utm_source=facebook&amp;utm_medium=%7B%7Badset.name%7D%7D&amp;utm_campaign=%7B%7Bcampaign.name%7D%7D&amp;utm_content=%7B%7Bad.id%7D%7D" id="363">
+          <title>Online AI and Machine Learning Program | UT Austin</title>
+        </bookmark>
+        <bookmark href="https://www.lynda.com/" id="364">
+          <title>Lynda | Online Trainings &amp; Tutorials</title>
+        </bookmark>
+        <bookmark href="https://www.goengineer.com/govideochannel/" id="365">
+          <title>GoEngineer CAD Video Library</title>
+        </bookmark>
+        <bookmark href="https://www.3ds.com/training/" id="366">
+          <title>Dassault Systèmes | Training services</title>
+        </bookmark>
+        <bookmark href="https://3dexperience.virtualtester.com/#home" id="367">
+          <title>3DEXPERIENCE | Certification Center</title>
+        </bookmark>
+        <bookmark href="https://academy.autodesk.com/" id="368">
+          <title>Autodesk Design Academy</title>
+        </bookmark>
+        <bookmark href="http://www.mini-lathe.com/" id="369">
+          <title>Mill-Lathe Resource</title>
+        </bookmark>
+        <bookmark href="https://www.udemy.com/" id="370">
+          <title>Udemy | Online Courses</title>
+        </bookmark>
+        <bookmark href="https://www.solidprofessor.com/blog/everything-you-need-to-know-about-solidworks-certifications/" id="371">
+          <title>SolidProfessor | Everything Your Need to Know About SOLIDWORKS Certification</title>
+        </bookmark>
+        <bookmark href="https://www.solidprofessor.com/tutorials/solidworks/certified-solidworks-professional-(cswp)-and-expert-(cswe)-prep-tutorials-2017/24485" id="372">
+          <title>Certified SOLIDWORKS Professional (CSWP) and Expert (CSWE) Prep Tutorial Videos</title>
+        </bookmark>
+        <bookmark href="https://monthly.com/mark-rober-engineering" id="660">
+          <title>Monthly + Mark Rober: Creative Engineering</title>
+        </bookmark>
+      </folder>
+      <folder id="162">
+        <title>IT</title>
+        <bookmark href="https://education.oracle.com/" id="373">
+          <title>Oracle Technology | IT Training and Certification</title>
+        </bookmark>
+        <bookmark href="https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html" id="374">
+          <title>Free Oracle Cloud Infrastructure and Oracle Autonomous Database</title>
+        </bookmark>
+        <bookmark href="https://docs.microsoft.com/en-us/learn/" id="375">
+          <title>Microsoft Learning Modules</title>
+        </bookmark>
+      </folder>
+      <folder id="163">
+        <title>Coding</title>
+        <bookmark href="https://www.freecodecamp.org/" id="376">
+          <title>FreeCodeCamp.org | Coding Courses </title>
+        </bookmark>
+        <bookmark href="https://www.codementor.io/u/dashboard" id="377">
+          <title>Codementor | Get 1:1 programming help, hire developers, learn to code</title>
+        </bookmark>
+        <bookmark href="https://github.com/Devansh3712/cmc-py/tree/main/cmc/modules/cryptocurrency" id="378">
+          <title>cmc-py/cmc/modules/cryptocurrency at main · Devansh3712/cmc-py</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder>
+  <folder id="10">
+    <title>Emails</title>
+    <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="34">
+      <title>Gmail</title>
+    </bookmark>
+    <bookmark href="https://www.icloud.com/mail/" id="35">
+      <title>iCloud Mail</title>
+    </bookmark>
+    <bookmark href="https://mail.yahoo.com/d/folders/1?.src=fp" id="36">
+      <title>Yahoo Mail</title>
+    </bookmark>
+    <bookmark href="https://account.proton.me/mail" id="37">
+      <title>Proton Mail</title>
+    </bookmark>
+    <bookmark href="https://mail.zoho.com/zm/#mail/folder/inbox" id="38">
+      <title>Zoho Mail</title>
+    </bookmark>
+    <bookmark href="https://www.businer.com/" id="39">
+      <title>Businer.com </title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>Projects</title>
+    <folder id="40">
+      <title>Car2Car Communication</title>
+      <bookmark href="https://www.kickstarter.com/projects/myidkey/myidkey-passwords-at-the-tip-of-your-finger/description" id="164">
+        <title>myIDkey: by Arkami, Inc. — Kickstarter</title>
+      </bookmark>
+      <bookmark href="https://www.kickstarter.com/projects/503429569/carwink-making-the-road-a-more-connected-place?ref=nav_search&amp;result=project&amp;term=car%20to%20car%20communication" id="165">
+        <title>CarWink | Kickstarter</title>
+      </bookmark>
+      <bookmark href="https://www.kickstarter.com/projects/1385841032/unlimited-car-communication-smart-your-car?ref=discovery" id="166">
+        <title>Unlimited Car Communication | Kickstarter</title>
+      </bookmark>
+      <bookmark href="https://patents.google.com/patent/US8280592B2/en" id="167">
+        <title>Patent US8280592B2 | Car to Car Communication</title>
+      </bookmark>
+      <bookmark href="https://www.glideapps.com/" id="168">
+        <title>Glide | App dev</title>
+      </bookmark>
+      <bookmark href="https://www.mightynetworks.com/pro/learn/how-to-create-an-app-for-your-business" id="169">
+        <title>Mighty Networks | App dev</title>
+      </bookmark>
+      <bookmark href="https://www.microtica.com/" id="170">
+        <title>Microtica | Automated app deployment</title>
+      </bookmark>
+      <bookmark href="https://cloudmatchapp.com/" id="171">
+        <title>CloudMatch</title>
+      </bookmark>
+      <bookmark href="http://www.stencyl.com/" id="172">
+        <title>Stencyl - Flash Games without code</title>
+      </bookmark>
+    </folder>
+    <folder id="41">
+      <title>Movie Concept</title>
+      <bookmark href="https://www.creatorsvault.com/" id="173">
+        <title>Creatorsvault.com</title>
+      </bookmark>
+      <bookmark href="https://www.wgawregistry.org/" id="174">
+        <title>WGA West</title>
+      </bookmark>
+    </folder>
+    <folder id="42">
+      <title>Amazon FBA</title>
+      <bookmark href="https://docs.google.com/spreadsheets/d/1P0Hx5NXfQzwV956Oj6ss2l_3O0w8S1nYYE6x-06uX8w/edit#gid=38503506" id="175">
+        <title>Amazon FBA</title>
+      </bookmark>
+    </folder>
+    <folder id="43">
+      <title>Neuro Feedback</title>
+      <bookmark href="https://shop.openbci.com/collections/frontpage" id="176">
+        <title>OpenBCI Featured Products</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=10-20+system+eeg+electrodes&amp;tbm=isch&amp;ved=2ahUKEwjMmf-jxcLuAhUYwCoKHaX0C2IQ2-cCegQIABAA&amp;oq=10-20+system&amp;gs_lcp=CgNpbWcQARgEMgQIIxAnMgQIIxAnMgIIADICCAAyAggAMgIIADIECAAQQzIGCAAQBRAeMgYIABAFEB4yBggAEAUQHlD2DFj2DGDENWgAcAB4AIABwwGIAcMBkgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&amp;sclient=img&amp;ei=I7sUYIz8E5iAqwGl6a-QBg&amp;bih=1057&amp;biw=1920#imgrc=jB3UmGNvvVqHsM" id="177">
+        <title>10-20 System EEG electrodes</title>
+      </bookmark>
+      <bookmark href="https://trello.com/b/WuXl96Vv/project-management" id="178">
+        <title>Project Management | Trello</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="12">
+    <title>Media</title>
+    <folder id="44">
+      <title>Music</title>
+      <bookmark href="https://www.spotify.com/us/" id="179">
+        <title>Spotify</title>
+      </bookmark>
+      <bookmark href="http://www.pandora.com/" id="180">
+        <title>Pandora Radio</title>
+      </bookmark>
+      <bookmark href="https://www.iheart.com/" id="181">
+        <title>iHeartRadio</title>
+      </bookmark>
+      <bookmark href="http://www.jango.com/profiles/41697654?ft=1" id="182">
+        <title>Jango Radio</title>
+      </bookmark>
+    </folder>
+    <folder id="45">
+      <title>TV</title>
+      <bookmark href="https://www.starz.com/us/en/" id="183">
+        <title>STARZ</title>
+      </bookmark>
+      <bookmark href="http://www.hulu.com/" id="184">
+        <title>Hulu</title>
+      </bookmark>
+      <bookmark href="https://tvlinks.cc/home" id="185">
+        <title>TV Links</title>
+      </bookmark>
+      <bookmark href="https://www.motionpictures.org/watch-it-legally/?ihs1=6&amp;iho1=d&amp;iht=2&amp;age=0" id="186">
+        <title>Motion Picture Association</title>
+      </bookmark>
+      <bookmark href="https://agoodmovietowatch.com/all/" id="187">
+        <title>Good Movies to Watch</title>
+      </bookmark>
+      <bookmark href="https://www.justwatch.com/us" id="188">
+        <title>JustWatch</title>
+      </bookmark>
+      <bookmark href="https://www.sling.com/channels/conmi?adobe_mc_sdid=SDID%3D6BEF6DF2FE04E1EF-703D05AAF8D84ADB%7CMCORGID%3D9425401053CD40810A490D4C%2540AdobeOrg&amp;adobe_mc_ref=https%3A%2F%2Fwww.sling.com%2Faccount" id="189">
+        <title>Sling TV</title>
+      </bookmark>
+      <bookmark href="https://www.stream2watch.ws/" id="190">
+        <title>Stream2watch</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="52">
+    <title>Missions</title>
+    <folder id="191">
+      <title>Many Helping Hands</title>
+      <folder id="379">
+        <title>Planning Center</title>
+        <bookmark href="https://people.planningcenteronline.com/" id="533">
+          <title>People</title>
+        </bookmark>
+        <bookmark href="https://check-ins.planningcenteronline.com/event_periods/25975444" id="534">
+          <title>Check-Ins</title>
+        </bookmark>
+        <bookmark href="https://services.planningcenteronline.com/matrix/reloaded" id="535">
+          <title>Services</title>
+        </bookmark>
+        <bookmark href="https://www.facebook.com/manyhelpinghandsirving" id="536">
+          <title>MHH Facebook</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://support.planningcenteronline.com/hc/en-us" id="380">
+        <title>Planning Center Support</title>
+      </bookmark>
+      <bookmark href="https://pcopeople.zendesk.com/hc/en-us" id="381">
+        <title>Support | Planning Center People</title>
+      </bookmark>
+      <bookmark href="https://pcoservices.zendesk.com/hc/en-us" id="382">
+        <title>Support | Planning Center Services</title>
+      </bookmark>
+      <bookmark href="https://pcochurchcenter.zendesk.com/hc/en-us" id="383">
+        <title>Support | Planning Center Church Center</title>
+      </bookmark>
+      <bookmark href="https://webmail.dreamhost.com/?_task=mail&amp;_mbox=INBOX" id="384">
+        <title>DreamHost Webmail</title>
+      </bookmark>
+      <bookmark href="https://qlinkwireless.com/signup/m-06-22/?A=432&amp;B=432&amp;ci=8673226018&amp;ag=86261375999&amp;ne=paid-g&amp;de=c&amp;dm=&amp;cr=626482120218-qlinkwireless&amp;tid=EAIaIQobChMI0_D1--el_wIVJ3FMCh2BSgoAEAAYASAAEgIyH_D_BwE&amp;kw=qlinkwireless&amp;ma=e&amp;pl=&amp;lo=9026826&amp;v1=&amp;v2=&amp;utm_source=google&amp;utm_medium=paid-g&amp;utm_campaign=8673226018&amp;utm_content=626482120218-qlinkwireless&amp;utm_term=86261375999&amp;utm_id=8673226018&amp;SubAffiliateID=8673226018&amp;gad=1&amp;gclid=EAIaIQobChMI0_D1--el_wIVJ3FMCh2BSgoAEAAYASAAEgIyH_D_BwE#hero_section" id="385">
+        <title>Free Government Service | Q Link Wireless</title>
+      </bookmark>
+      <bookmark href="https://qlinkwireless.com/members/Login.aspx" id="386">
+        <title>Login To Your Q Link Wireless Account - Q Link Wireless</title>
+      </bookmark>
+      <bookmark href="https://www.wix.com/website-template/view/html/1885?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fdesign%2Fgraphic-web&amp;tpClick=view_button&amp;esi=ad4b8a55-8bd1-4d4b-ab57-a1dd0b2b4aec" id="387">
+        <title>UX Designer Website Template | WIX</title>
+      </bookmark>
+      <bookmark href="https://editor.wix.com/html/editor/web/renderer/edit/78a0e745-493e-4e04-bbb3-eaa6915b853c?editorSessionId=999f58e7-8579-4a8a-8a92-40fdd22e44fe&amp;metaSiteId=c22e5df3-d513-4493-bed4-2a72ee626458" id="388">
+        <title>Wix Website Editor | Mysite</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://donate.lovetotherescue.org/give/145680/#!/donation/checkout" id="192">
+      <title>Shriners Children Hospital</title>
+    </bookmark>
+    <bookmark href="https://lifetoday.org/" id="193">
+      <title>LIFEToday.org | Global Relief</title>
+    </bookmark>
+    <bookmark href="https://preborn.org/" id="194">
+      <title>Preborn | Saving Babies and Souls</title>
+    </bookmark>
+    <bookmark href="https://www.ramusa.org/" id="195">
+      <title>Remote Area Medical</title>
+    </bookmark>
+    <bookmark href="https://www.persecution.com/" id="196">
+      <title>The Voice of the Martyrs</title>
+    </bookmark>
+    <bookmark href="https://thepollinationproject.org/" id="197">
+      <title>The Pollination Project | Seed Grants</title>
+    </bookmark>
+    <bookmark href="https://loveachild.com/" id="198">
+      <title>Love A Child | A Christian Nonprofit Serving the Poor | Haiti Charity</title>
+    </bookmark>
+    <bookmark href="http://www.honnoldfoundation.org/#mission" id="199">
+      <title>Honnold Foundation | Solar for the Rural World</title>
+    </bookmark>
+    <bookmark href="https://www.carsforkids.org/" id="200">
+      <title>Cars for Kids | Car Donation Charity</title>
+    </bookmark>
+  </folder>
+  <folder id="53">
+    <title>TechBytes</title>
+    <folder id="201">
+      <title>AI Tools</title>
+      <bookmark href="https://chatgpt.com/" id="389">
+        <title>ChatGPT</title>
+      </bookmark>
+      <bookmark href="https://wordai.com/pass-ai-content-detection" id="390">
+        <title>Pass AI Detection | WordAi</title>
+      </bookmark>
+      <bookmark href="https://originality.ai/" id="391">
+        <title>AI Detector | Originality AI</title>
+      </bookmark>
+      <bookmark href="https://www.microsoft.com/en-us/edge/features/image-creator?form=MT00EZ" id="392">
+        <title>Bing Image Creator</title>
+      </bookmark>
+      <bookmark href="https://www.jasper.ai/" id="393">
+        <title>Jasper | AI copilot</title>
+      </bookmark>
+      <bookmark href="https://app.rytr.me/create" id="394">
+        <title>Rytr | Content Generator &amp; Writing Assistant</title>
+      </bookmark>
+      <bookmark href="https://spinbot.com/" id="395">
+        <title>SpinBot | Text Rewriting</title>
+      </bookmark>
+    </folder>
+    <folder id="202">
+      <title>Research </title>
+      <bookmark href="https://manuals.info.apple.com/MANUALS/1000/MA1613/en_US/airport_express_80211n_2nd_gen_setup_guide.pdf" id="396">
+        <title>Apple Product Guides</title>
+      </bookmark>
+      <bookmark href="http://www.speedtest.net/index.php" id="397">
+        <title>Speedtest.net</title>
+      </bookmark>
+      <bookmark href="https://fast.com/" id="398">
+        <title>Internet Speed Test | Fast.com</title>
+      </bookmark>
+      <bookmark href="https://labs.google.com/search" id="399">
+        <title>Google Search Labs</title>
+      </bookmark>
+      <bookmark href="https://richontech.notion.site/ec3f335cb98d464195a73bfc02c6a74c?v=32e76fc848eb42679cc48053d2b547e0" id="400">
+        <title>Rich on Tech Show Notes</title>
+      </bookmark>
+      <bookmark href="https://www.antennasdirect.com/transmitter-locator.html?zip=85706" id="401">
+        <title>Antennas Direct | TV Transmitter Locator and Mapping Tool</title>
+      </bookmark>
+    </folder>
+    <folder id="203">
+      <title>Security</title>
+      <folder id="402">
+        <title>Internet Security</title>
+        <bookmark href="https://coveryourtracks.eff.org/" id="537">
+          <title>Cover Your Tracks | Test Web Browser Security</title>
+        </bookmark>
+        <bookmark href="https://haveibeenpwned.com/" id="538">
+          <title>Have I Been Pwned | Data Breach</title>
+        </bookmark>
+        <bookmark href="https://www.kaspersky.com/downloads/free-antivirus" id="539">
+          <title>Kaspersky Free Cloud Antivirus Download | Kaspersky</title>
+        </bookmark>
+        <bookmark href="http://js.redirect.hp.com/jumpstation?bd=lastpass&amp;c=*&amp;locale=*&amp;pf=*&amp;s=*&amp;tp=edge" id="540">
+          <title>LastPass password manager</title>
+        </bookmark>
+        <bookmark href="https://proton.me/pass/black-friday" id="541">
+          <title>Proton Pass Black Friday deals | Proton</title>
+        </bookmark>
+        <bookmark href="https://pentester.com/" id="542">
+          <title>Penetration Testing &amp; Cybersecurity Software | Pentester</title>
+        </bookmark>
+      </folder>
+      <folder id="403">
+        <title>Internet Privacy</title>
+        <bookmark href="https://monitor.mozilla.org/" id="543">
+          <title>Mozilla Monitor</title>
+        </bookmark>
+        <bookmark href="https://windscribe.com/download" id="544">
+          <title>Windscribe | Free VPN</title>
+        </bookmark>
+        <bookmark href="https://10minutemail.com/" id="545">
+          <title>10 Minute Mail | Free Anonymous Temp E-Mail</title>
+        </bookmark>
+        <bookmark href="https://www.iplocation.net/" id="546">
+          <title>Where is my IP location? (Geolocation)</title>
+        </bookmark>
+        <bookmark href="https://privacytests.org/" id="547">
+          <title>Browser Privacy Tests</title>
+        </bookmark>
+        <bookmark href="https://support.google.com/googleone/answer/13632847?hl=en" id="548">
+          <title>Privacy Investigations | Google One Help</title>
+        </bookmark>
+        <bookmark href="https://privacyangel.com/" id="549">
+          <title>Privacy and Cybersecurity Tools</title>
+        </bookmark>
+        <bookmark href="http://hidemyass.com/proxy/" id="550">
+          <title>Hide My Ass | Free Proxy</title>
+        </bookmark>
+        <bookmark href="https://www.incognito.com/" id="551">
+          <title>Incognito | Account Unsubscription Service (Discount Code: AM23)</title>
+        </bookmark>
+      </folder>
+      <folder id="404">
+        <title>Personal Data</title>
+        <bookmark href="https://transparentcalifornia.com/salaries/2012/university-of-california/obiesie-bertram-uzochukw/" id="552">
+          <title>Transparent California</title>
+        </bookmark>
+        <bookmark href="https://www.truthfinder.com/dashboard" id="553">
+          <title>TruthFinder | Background Check</title>
+        </bookmark>
+        <bookmark href="https://backgroundchecks.org/" id="554">
+          <title>Free Online Background Check</title>
+        </bookmark>
+        <bookmark href="https://www.richontech.tv/blog/how-to-get-your-personal-information-off-google-search-results/" id="555">
+          <title>Get your personal information off Google search results</title>
+        </bookmark>
+        <bookmark href="https://joindeleteme.com/blog/opt-out-guides/" id="556">
+          <title>Opt-Out Guides | JoinDeleteMe</title>
+        </bookmark>
+        <bookmark href="https://joindeleteme.com/" id="557">
+          <title>DeleteMe | Remove Personal Info from Google</title>
+        </bookmark>
+        <bookmark href="https://what-is-privacy.com/" id="558">
+          <title>Remove Online Information</title>
+        </bookmark>
+        <bookmark href="https://www.mylife.com/" id="559">
+          <title>MyLife.com | Reputation Profiles &amp; Scores</title>
+        </bookmark>
+        <bookmark href="https://permissionslipcr.com/" id="560">
+          <title>Permission Slip by CR | Personal Data Advocates</title>
+        </bookmark>
+      </folder>
+      <folder id="405">
+        <title>Surveillance</title>
+        <bookmark href="http://skjm.com/icam/web/" id="561">
+          <title>SKJM | iCamWeb</title>
+        </bookmark>
+        <bookmark href="https://manything.com/index.html" id="562">
+          <title>Manything | iOS Security Cam</title>
+        </bookmark>
+        <bookmark href="https://www.thetileapp.com/?ref=tiledotcom&amp;utm_source=tiledotcom" id="563">
+          <title>Tile | Bluetooth Tracker Device</title>
+        </bookmark>
+        <bookmark href="http://www.flexispy.com/index.html" id="564">
+          <title>FlexiSpy</title>
+        </bookmark>
+        <bookmark href="https://ssd.eff.org/" id="565">
+          <title>EFF Surveillance Self-Defense Project</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="204">
+      <title>Software</title>
+      <bookmark href="https://alternativeto.net/" id="406">
+        <title>AlternativeTo | Crowdsourced Software Recommendations</title>
+      </bookmark>
+      <bookmark href="https://massgrave.dev/office-license-is-not-genuine" id="407">
+        <title>&apos;Get genuine Office&apos; banner | MS Office</title>
+      </bookmark>
+      <bookmark href="https://gravesoft.dev/office_c2r_custom" id="408">
+        <title>Office C2R Custom Install</title>
+      </bookmark>
+      <bookmark href="https://forums.mydigitallife.net/threads/discussion-microsoft-office-2024.87688/" id="409">
+        <title>Microsoft Office 2024 Download Links</title>
+      </bookmark>
+      <bookmark href="https://massgrave.dev/" id="410">
+        <title>Microsoft Activation Scripts (MAS)</title>
+      </bookmark>
+      <bookmark href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/" id="411">
+        <title>KMS_VL_ALL_AIO: Smart Activation Script | GitHub</title>
+      </bookmark>
+      <bookmark href="https://forums.mydigitallife.net/threads/office-r-tool-project.84450/" id="412">
+        <title>Office(R)Tool v12 Rev G </title>
+      </bookmark>
+      <bookmark href="https://gravesoft.dev/office_c2r_links" id="413">
+        <title>MS Office C2R Downloads</title>
+      </bookmark>
+      <bookmark href="https://answers.microsoft.com/en-us/windows/forum/windows_10-windows_install-winpc/how-to-perform-a-repair-upgrade-using-the-windows/35160fbe-9352-4e70-9887-f40096ec3085" id="414">
+        <title>Windows 10 ISO file</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d" id="415">
+        <title>Uninstall Stubburn Programs - Microsoft Support</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/topic/remove-specific-prevalent-malware-with-windows-malicious-software-removal-tool-kb890830-ba51b71f-39cd-cdec-73eb-61979b0661e0" id="661">
+        <title>Windows Malicious Software Removal Tool (KB890830) - Microsoft Support</title>
+      </bookmark>
+    </folder>
+    <folder id="205">
+      <title>Stealth Tools</title>
+      <bookmark href="https://www.fakenamegenerator.com/" id="416">
+        <title>Fake Name Generator</title>
+      </bookmark>
+      <bookmark href="https://thispersondoesnotexist.com/" id="417">
+        <title>thispersondoesnotexist.com</title>
+      </bookmark>
+      <bookmark href="https://www.name-generator.org.uk/" id="418">
+        <title>Random Name Generator</title>
+      </bookmark>
+      <bookmark href="https://geekprank.com/hacker/" id="419">
+        <title>GeekPrank Hacker Typer</title>
+      </bookmark>
+      <bookmark href="https://www.businer.com/tools.php#" id="420">
+        <title>Businer.com | Random Generator</title>
+      </bookmark>
+    </folder>
+    <folder id="206">
+      <title>Torrents</title>
+      <bookmark href="https://iptorrents.me/login.php" id="421">
+        <title>IPTorrents</title>
+      </bookmark>
+      <bookmark href="https://isohunts.to/" id="422">
+        <title>IsoHunt</title>
+      </bookmark>
+      <bookmark href="http://mac-torrents.com/index.php" id="423">
+        <title>Mac-Torrents</title>
+      </bookmark>
+      <bookmark href="http://thepiratebay.org/" id="424">
+        <title>The Pirate Bay</title>
+      </bookmark>
+      <bookmark href="http://bestfreetorrentsites.blogspot.com/2012/03/10-best-torrents-sites-for-ebooks.html" id="425">
+        <title>Top 10 Best Torrents Sites</title>
+      </bookmark>
+    </folder>
+    <folder id="207">
+      <title>Tutorials</title>
+      <bookmark href="https://www.pcmag.com/how-to/hidden-tricks-inside-apples-safari-browser" id="426">
+        <title>32 Hidden Tricks Inside Apple&apos;s Safari Browser</title>
+      </bookmark>
+      <bookmark href="https://www.howtogeek.com/177648/how-to-force-your-pc-to-keep-its-private-ip-address/#:~:text=Open%20up%20the%20Control%20Panel,adapter%2C%20and%20go%20to%20Properties.&amp;text=In%20the%20Properties%20menu%2C%20highlight,%2FIPv4)%20and%20click%20Properties." id="427">
+        <title>How to Force Your PC to Keep Its Private IP Address</title>
+      </bookmark>
+      <bookmark href="https://www.macworld.co.uk/how-to/mac-software/mac-terminal-projects-tutorial-3613813/" id="428">
+        <title>30 Terminal tips for Mac</title>
+      </bookmark>
+      <bookmark href="https://www.macworld.co.uk/how-to/mac/mac-wont-turn-on-3423817/" id="429">
+        <title>How To Fix a Mac That Won&apos;t Turn On</title>
+      </bookmark>
+      <bookmark href="https://answers.microsoft.com/en-us/windows/forum/windows_10-performance/windows-10-performance-and-install-integrity/75529fd4-fac7-4653-893a-dd8cd4b4db00" id="430">
+        <title>Windows 10 Performance and Install Integrity Checklist</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts" id="431">
+        <title>Keyboard shortcuts in Windows</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/windows/recovery-options-in-windows-10-31ce2444-7de3-818c-d626-e3b5a3024da5#bkmk_section5" id="432">
+        <title>Recovery options in Windows 10</title>
+      </bookmark>
+      <bookmark href="https://www.hellotech.com/blog/why-does-my-computer-keep-waking-from-sleep-mode" id="433">
+        <title>Stop Windows Computer From Waking up From Sleep Mode</title>
+      </bookmark>
+      <bookmark href="https://winaero.com/find-shutdown-log-windows-10/" id="434">
+        <title>How to Find the Shutdown Log in Windows 10</title>
+      </bookmark>
+      <bookmark href="https://superuser.com/questions/117902/find-out-which-process-is-locking-a-file-or-folder-in-windows" id="435">
+        <title>Find out which process is locking a file or folder in Windows - Super User</title>
+      </bookmark>
+      <bookmark href="https://www.techinpost.com/the-network-location-cannot-be-reached/" id="662">
+        <title>[FIXED] The Network Location Cannot Be Reached Error Problem</title>
+      </bookmark>
+      <bookmark href="https://windowsreport.com/windows-10-turns-off-instead-sleep/" id="663">
+        <title>Windows 10 shuts down instead of sleep [Solved]</title>
+      </bookmark>
+      <bookmark href="https://www.windowscentral.com/how-open-and-analyze-dump-error-files-windows-10" id="664">
+        <title>This is how you open crash dump file on Windows 10</title>
+      </bookmark>
+      <bookmark href="https://answers.microsoft.com/en-us/windows/forum/all/error-event-id-10016-distributedcom/130522d2-beac-4495-980a-65e1e3279901" id="665">
+        <title>Error - Event ID: 10016; DistributedCOM</title>
+      </bookmark>
+      <bookmark href="https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-check-0x9f--driver-power-state-failure?redirectedfrom=MSDN" id="666">
+        <title>Bug Check 0x9F DRIVER_POWER_STATE_FAILURE - Windows drivers</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e" id="667">
+        <title>System File Checker tool to repair missing or corrupted system files</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/office/drivers-devices-d2b3fdf8-53d8-485a-b8eb-159b69ad6d50" id="668">
+        <title>Drivers &amp; devices | Win10</title>
+      </bookmark>
+      <bookmark href="https://www.kapilarya.com/fix-event-10016-error-the-application-specific-permission-settings-do-not-grant-local-activation-permission-in-windows-10" id="669">
+        <title>[FIX] Event 10016 Error, The Application-Specific Permission Settings Do Not Grant Local Activation Permission In Windows 10</title>
+      </bookmark>
+      <bookmark href="https://www.how2fixerror.com/tested-7-methods-to-fix-vcruntime140_1-dll-error-windows-10-11/" id="670">
+        <title>Tested 7 Methods to Fix VCRUNTIME140_1.DLL Error Windows 10/11</title>
+      </bookmark>
+      <bookmark href="https://www.itpro.com/infrastructure/network-internet/358606/static-ip-vs-dynamic-ip-whats-the-difference" id="671">
+        <title>Static IP vs dynamic IP: What’s the difference? | IT PRO</title>
+      </bookmark>
+      <bookmark href="https://softwarekeep.com/help-center/how-to-fix-the-kernel-security-check-failure-error-in-windows-10" id="815">
+        <title>How To Fix the “Kernel Security Check Failure” Error in Windows 10</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="54">
+    <title>Trading</title>
+    <folder id="208">
+      <title>Crypto</title>
+      <folder id="436">
+        <title>Charts</title>
+        <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x37a0464f8f4c207b54821f3c799afd3d262aa944" id="566">
+          <title>Pair Explorer | DEXTools</title>
+        </bookmark>
+        <bookmark href="https://charts.cointrader.pro/charts.html?coin=ETHEREUM%3AUSD" id="567">
+          <title>CoinTrader.Pro | Uniswap Chart</title>
+        </bookmark>
+        <bookmark href="https://poocoin.app/tokens/0xab844d316b5a5093b7e7edde11cc08becca36d1c" id="568">
+          <title>PooCoin | BSC Charts</title>
+        </bookmark>
+        <bookmark href="https://www.tradingview.com/chart/GBPSEK/v5kTk7uw-11-Chart-Patterns-you-need-to-know-in-2021/?&amp;utm_source=Weekly&amp;utm_medium=email&amp;utm_campaign=TradingView+Weekly+92+%28EN%29" id="569">
+          <title>11 Chart Patterns | TradingView</title>
+        </bookmark>
+        <bookmark href="https://chartex.pro/" id="570">
+          <title>ChartEx.pro | Crypto Chart</title>
+        </bookmark>
+      </folder>
+      <folder id="437">
+        <title>Crypto Toolbox</title>
+        <folder id="571">
+          <title>General Tools</title>
+          <bookmark href="https://multisender.app/?referrer=0x9F0818B7D8AaA0AD4Db760E896363b2A01a00921" id="672">
+            <title>Token MultiSender Dapp Smart Contract</title>
+          </bookmark>
+          <bookmark href="https://www.maker.autonio.io/login" id="673">
+            <title>Autonio | Bot trading</title>
+          </bookmark>
+          <bookmark href="https://mycointool.com/en" id="674">
+            <title>MyCointool | All-in-one toolbox</title>
+          </bookmark>
+          <bookmark href="https://www.dextools.io/app/" id="675">
+            <title>DEXTools</title>
+          </bookmark>
+          <bookmark href="https://dappradar.com/rankings" id="676">
+            <title>Top Blockchain Dapps | DappRadar</title>
+          </bookmark>
+          <bookmark href="https://presearch.org/signup?rid=1689084" id="677">
+            <title>Presearch | Decentralized search engine</title>
+          </bookmark>
+          <bookmark href="https://aave.com/" id="678">
+            <title>Aave | Open Source DeFi Protocol</title>
+          </bookmark>
+          <bookmark href="https://unstoppabledomains.com/" id="679">
+            <title>Unstoppable Domains</title>
+          </bookmark>
+          <bookmark href="https://sourceforge.net/software/product/DexTools/alternatives" id="680">
+            <title>Best DexTools Alternatives &amp; Competitors</title>
+          </bookmark>
+          <bookmark href="https://pro.nansen.ai/eth2-deposit-contract" id="681">
+            <title>ETH2 Deposit Contract | Nansen</title>
+          </bookmark>
+        </folder>
+        <folder id="572">
+          <title>Communities</title>
+          <bookmark href="https://community.metamask.io/" id="682">
+            <title>MetaMask | Community Platform</title>
+          </bookmark>
+          <bookmark href="https://forum.moralis.io/" id="683">
+            <title>Moralis Support</title>
+          </bookmark>
+        </folder>
+        <folder id="573">
+          <title>Gas Trackers</title>
+          <bookmark href="https://bscscan.com/chart/gasprice" id="684">
+            <title>BSC Gas Price Chart</title>
+          </bookmark>
+          <bookmark href="https://pro.nansen.ai/gas-tracker" id="685">
+            <title>Gas Tracker | Nansen</title>
+          </bookmark>
+        </folder>
+        <folder id="574">
+          <title>Whale Watchers</title>
+          <bookmark href="https://whale-alert.io/" id="686">
+            <title>Whale Alert | Home</title>
+          </bookmark>
+          <bookmark href="https://moonarch.app/" id="687">
+            <title>Moonarch BSC | Whale Watch &amp; Token Analysis</title>
+          </bookmark>
+        </folder>
+        <folder id="575">
+          <title>Stealth</title>
+          <bookmark href="https://codebeautify.org/string-hex-converter" id="688">
+            <title>String to Hex Converter | Code Beautify</title>
+          </bookmark>
+          <bookmark href="https://www.pelock.com/products/steganography-online-codec" id="689">
+            <title>Steganography Online Codec - Hide Message in Image</title>
+          </bookmark>
+        </folder>
+        <folder id="576">
+          <title>Rug Detection</title>
+          <bookmark href="https://rugdoc.io/" id="690">
+            <title>RugDoc | Rug Detector</title>
+          </bookmark>
+          <bookmark href="https://honeypot.is/?address=0xd7fd6e96041e4e7bdf24d37dacd146b8ad65c6b4" id="691">
+            <title>Honeypot Detector | BSC</title>
+          </bookmark>
+          <bookmark href="https://bscheck.eu/" id="692">
+            <title>BSCheck | Rug Detector</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="438">
+        <title>Cross-Chain Tools</title>
+        <bookmark href="https://chainlist.org/" id="577">
+          <title>Chainlist | Network Auto Config</title>
+        </bookmark>
+        <bookmark href="https://www.binance.org/en/bridge" id="578">
+          <title>Binance Bridge | Cross-chain conversions</title>
+        </bookmark>
+        <bookmark href="https://hyphen.biconomy.io/" id="579">
+          <title>Hyphen | Instant Cross Chain Transfers</title>
+        </bookmark>
+        <bookmark href="https://multichain.org/" id="580">
+          <title>Multichain | Cross-Chain Router Protocol</title>
+        </bookmark>
+        <bookmark href="https://cbridge.celer.network/#/transfer" id="581">
+          <title>cBridge | Cross-chain bridge</title>
+        </bookmark>
+      </folder>
+      <folder id="439">
+        <title>Deployment</title>
+        <folder id="582">
+          <title>APIs</title>
+          <bookmark href="https://www.quicknode.com/" id="693">
+            <title>QuickNode</title>
+          </bookmark>
+          <bookmark href="https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API#get-top-token-holders" id="694">
+            <title>Ethplorer API | EverexIO/Ethplorer Wiki</title>
+          </bookmark>
+          <bookmark href="https://admin.moralis.com/login" id="695">
+            <title>Moralis | BSC Node</title>
+          </bookmark>
+          <bookmark href="https://www.nylas.com/blog/use-python-requests-module-rest-apis/" id="696">
+            <title>Nylas | Python Requests Module With REST APIs </title>
+          </bookmark>
+          <bookmark href="https://coinmarketcap.com/api/documentation/v1/" id="697">
+            <title>CoinMarketCap API Documentation</title>
+          </bookmark>
+          <bookmark href="https://docs.kucoin.com/?lang=en_US#get-user-info-of-all-sub-accounts" id="698">
+            <title>KuCoin API Documentation</title>
+          </bookmark>
+          <bookmark href="https://infura.io/" id="699">
+            <title>Infura | Ethereum API, IPFS API &amp; Gateway, ETH Nodes</title>
+          </bookmark>
+        </folder>
+        <folder id="583">
+          <title>Coding Toolbox</title>
+          <bookmark href="https://testnet.binance.org/faucet-smart" id="700">
+            <title>Binance Smart Chain: Faucet</title>
+          </bookmark>
+          <bookmark href="https://remix.ethereum.org/#optimize=false&amp;runs=200&amp;evmVersion=null&amp;version=soljson-v0.8.4+commit.c7e474f2.js" id="701">
+            <title>Remix - Ethereum IDE</title>
+          </bookmark>
+          <bookmark href="https://ipfs.io/" id="702">
+            <title>IPFS Powers the Distributed Web</title>
+          </bookmark>
+          <bookmark href="https://npm.runkit.com/playground" id="703">
+            <title>RunKit + npm | Playground</title>
+          </bookmark>
+          <bookmark href="https://graphql.bitquery.io/ide" id="704">
+            <title>GraphQL IDE | Queries</title>
+          </bookmark>
+          <bookmark href="https://reactjs.org/" id="705">
+            <title>React | A JavaScript library for building UI</title>
+          </bookmark>
+          <bookmark href="https://www.trufflesuite.com/ganache" id="706">
+            <title>Ganache | Truffle Suite</title>
+          </bookmark>
+          <bookmark href="https://cryptozombies.io/" id="707">
+            <title>CryptoZombies | #1 Solidity Programming Course</title>
+          </bookmark>
+          <bookmark href="https://www.4byte.directory/signatures/" id="708">
+            <title>Ethereum Signature Database</title>
+          </bookmark>
+          <bookmark href="https://github.com/ConsenSys/ethereum-developer-tools-list" id="709">
+            <title>ConsenSys | Ethereum Dev Tools</title>
+          </bookmark>
+          <bookmark href="https://ethervm.io/decompile/binance/0xbC0C1BB2a6a3C6196Ca31410079ffBe25CD319Be" id="816">
+            <title>Online Solidity Decompiler</title>
+          </bookmark>
+          <bookmark href="http://cs.franklin.edu/~whittakt/ITEC136/examples/encrypter.html" id="817">
+            <title>Encrypter / Decrypter</title>
+          </bookmark>
+          <bookmark href="https://vittominacori.github.io/bep20-generator/" id="818">
+            <title>BEP20 Token Generator Creator</title>
+          </bookmark>
+          <bookmark href="https://convertio.co/download/e19951364b88bf151b6e4eeaf23874f9259797/" id="819">
+            <title>Convertio | jpg to ico converter</title>
+          </bookmark>
+          <bookmark href="https://www.virustotal.com/gui/home/upload" id="820">
+            <title>VirusTotal | .exe virus scan</title>
+          </bookmark>
+          <bookmark href="https://pureinfotech.com/list-environment-variables-windows-10/" id="821">
+            <title>Environment variables on Windows 10 | Pureinfotech</title>
+          </bookmark>
+          <bookmark href="https://morsecode.world/international/translator.html" id="822">
+            <title>Morse Code Translator | Morse Code World</title>
+          </bookmark>
+          <bookmark href="https://www.epochconverter.com/#code" id="823">
+            <title>Epoch Converter - Unix Timestamp Converter</title>
+          </bookmark>
+        </folder>
+        <folder id="584">
+          <title>Documentations</title>
+          <bookmark href="https://docs.binance.org/smart-chain/developer/rpc.html" id="710">
+            <title>RPC - Binance Chain Docs</title>
+          </bookmark>
+          <bookmark href="https://uniswap.org/docs/v2/smart-contracts/router02/#addliquidity" id="711">
+            <title>Uniswap | Documentation</title>
+          </bookmark>
+          <bookmark href="https://web3py.readthedocs.io/en/latest/index.html#" id="712">
+            <title>Web3.py 5.24.0 Documentation</title>
+          </bookmark>
+          <bookmark href="https://docs.soliditylang.org/en/develop/contracts.html#functions" id="713">
+            <title>Solidity 0.8.10 Documentation</title>
+          </bookmark>
+          <bookmark href="https://github.com/boppreh/keyboard#keyboard.on_press" id="714">
+            <title>Keyboard Documentation: GitHub</title>
+          </bookmark>
+          <bookmark href="https://rich.readthedocs.io/en/stable/introduction.html" id="715">
+            <title>Rich 10.16.1 Documentation</title>
+          </bookmark>
+          <bookmark href="https://mudra.website/docs/" id="716">
+            <title>Mudra Manager Documentation</title>
+          </bookmark>
+          <bookmark href="https://docs.microsoft.com/en-us/windows/terminal/" id="717">
+            <title>Windows Terminal | Microsoft Docs</title>
+          </bookmark>
+          <bookmark href="https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile" id="718">
+            <title>Bundling data files with PyInstaller (--onefile)</title>
+          </bookmark>
+        </folder>
+        <folder id="585">
+          <title>Locks</title>
+          <bookmark href="https://dxsale.app/" id="719">
+            <title>DxSale - Mint, Launch, Lock</title>
+          </bookmark>
+          <bookmark href="https://www.pinksale.finance/#/pinklock/liquidity?chain=BSC" id="720">
+            <title>PinkLock</title>
+          </bookmark>
+          <bookmark href="https://dx.app/?chain=BSC" id="721">
+            <title>DxSale</title>
+          </bookmark>
+          <bookmark href="https://app.unicrypt.network/" id="722">
+            <title>Unicrypt</title>
+          </bookmark>
+          <bookmark href="https://mudra.website/" id="723">
+            <title>Mudra Manager</title>
+          </bookmark>
+        </folder>
+        <folder id="586">
+          <title>PulseChain-dev</title>
+          <bookmark href="https://hexnoob.com/" id="724">
+            <title>HexNoob | Hex links</title>
+          </bookmark>
+          <bookmark href="https://gitlab.com/pulsechaincom/pulsechain-testnet" id="725">
+            <title>PulseChain / PulseChain-Testnet</title>
+          </bookmark>
+        </folder>
+        <folder id="587">
+          <title>References</title>
+          <folder id="726">
+            <title>ABIs</title>
+            <bookmark href="https://pastebin.com/yrMAqVuN" id="783">
+              <title>Dxsale ABI | Paste Bin</title>
+            </bookmark>
+            <bookmark href="https://pastebin.com/wXM0zYmB" id="784">
+              <title>Dxsale Lock Contracts | Paste Bin</title>
+            </bookmark>
+            <bookmark href="https://pastebin.com/S3KbMj3E" id="785">
+              <title>DxsaleABI (new) | Paste Bin</title>
+            </bookmark>
+          </folder>
+          <folder id="727">
+            <title>Crypto Market Pool Articles</title>
+            <bookmark href="https://cryptomarketpool.com/how-to-create-an-nft-erc721-solidity-smart-contract/" id="786">
+              <title>Crypto Market Pool - How to create an ERC721 Solidity smart contract</title>
+            </bookmark>
+            <bookmark href="https://cryptomarketpool.com/how-to-create-a-snipe-bot-to-monitor-liquidity-pairs-in-python/" id="787">
+              <title>Crypto Market Pool - Build a snipe bot to monitor and trade liquidity pairs</title>
+            </bookmark>
+            <bookmark href="https://cryptomarketpool.com/how-to-swap-tokens-on-uniswap-using-a-smart-contract/" id="788">
+              <title>Crypto Market Pool - Swap tokens on Uniswap using a smart contract</title>
+            </bookmark>
+            <bookmark href="https://cryptomarketpool.com/flash-loan-arbitrage-on-uniswap-and-sushiswap/" id="789">
+              <title>Crypto Market Pool - Flash loan arbitrage on Uniswap and SushiSwap</title>
+            </bookmark>
+          </folder>
+          <folder id="728">
+            <title>GitHub References</title>
+            <bookmark href="https://github.com/geeks121/Pancakeswap-sniperbot-full" id="790">
+              <title>geeks121/Pancakeswap-sniperbot-full</title>
+            </bookmark>
+            <bookmark href="https://github.com/connext/chaindata/blob/main/deploy.md" id="791">
+              <title>Deploying cross-chain token 101 | GitHub</title>
+            </bookmark>
+            <bookmark href="https://github.com/dappuniversity/starter_kit" id="792">
+              <title>Dappuniversity | Starter_Kit</title>
+            </bookmark>
+            <bookmark href="https://github.com/dappuniversity/trading-bot/blob/master/index.js" id="793">
+              <title>Dappuniversity | Trading-Bot</title>
+            </bookmark>
+            <bookmark href="https://github.com/CodeWithJoe2020" id="794">
+              <title>CodeWithJoe2020 | Github</title>
+            </bookmark>
+            <bookmark href="https://github.com/BytePhoenixData/BSCTokenSniper" id="795">
+              <title>BSCTokenSniper | BytePhoenixData</title>
+            </bookmark>
+            <bookmark href="https://github.com/Jaldekoa/RSI-Algorithmic-Trading-with-Python" id="796">
+              <title>RSI | Algorithmic-Trading with Python</title>
+            </bookmark>
+          </folder>
+          <folder id="729">
+            <title>Python References</title>
+            <bookmark href="https://pythonrepo.com/repo/CyberPunkMetalHead-Binance-News-Sentiment-Bot-python-cryptography" id="797">
+              <title>Binance Trading Bot | News sentiment</title>
+            </bookmark>
+            <bookmark href="https://pythonrepo.com/repo/BytePhoenixData-BSCTokenSniper-python-cryptography" id="798">
+              <title>PythonRepo | Automatic liquidity detection snipping bot on BSC </title>
+            </bookmark>
+            <bookmark href="https://towardsdatascience.com/in-10-minutes-web-scraping-with-beautiful-soup-and-selenium-for-data-professionals-8de169d36319" id="799">
+              <title>Web Scraping with Beautiful Soup and Selenium for Data Professionals</title>
+            </bookmark>
+            <bookmark href="https://pymotw.com/2/multiprocessing/basics.html" id="800">
+              <title>Multiprocessing Basics | PyMotw</title>
+            </bookmark>
+            <bookmark href="https://nitratine.net/blog/post/encryption-and-decryption-in-python/" id="801">
+              <title>Encryption and Decryption in Python</title>
+            </bookmark>
+            <bookmark href="https://www.youtube.com/watch?v=-_z2RPAH0Qk" id="802">
+              <title>Python GUI Development With PySimpleGUI</title>
+            </bookmark>
+            <bookmark href="https://www.youtube.com/watch?v=lXq0eU8viFQ" id="803">
+              <title>FlashBots: How to make $1m per month as a Solidity developer with Stephane Gosselin &amp; Robert Miller</title>
+            </bookmark>
+            <bookmark href="https://weblog.west-wind.com/posts/2019/Sep/03/Programmatically-Opening-Windows-Terminal-in-a-Specific-Folder" id="804">
+              <title>Programmatically Opening Windows Terminal in a Specific Folder</title>
+            </bookmark>
+          </folder>
+          <folder id="730">
+            <title>Q&amp;A Forums</title>
+            <bookmark href="https://stackoverflow.com/questions/58369030/could-not-find-conda-environment" id="805">
+              <title>Stack Overflow | Could not find conda environment</title>
+            </bookmark>
+            <bookmark href="https://stackoverflow.com/questions/48409705/tkinter-tclerror-couldnt-open-sample-gif-no-such-file-or-directory" id="806">
+              <title>Python | _tkinter.play mp3 with .gif | Stack Overflow</title>
+            </bookmark>
+            <bookmark href="https://stackoverflow.com/questions/18018033/how-to-stop-a-looping-thread-in-python" id="807">
+              <title>How to stop a looping thread in Python | Stack Overflow</title>
+            </bookmark>
+          </folder>
+        </folder>
+        <folder id="588">
+          <title>Telethon | Telegram</title>
+          <bookmark href="https://tl.telethon.dev/methods/messages/index.html" id="731">
+            <title>Telethon.dev | Methods/Messages</title>
+          </bookmark>
+          <bookmark href="https://www.programcreek.com/python/example/110997/telethon.TelegramClient" id="732">
+            <title>Python Examples of telethon.TelegramClient</title>
+          </bookmark>
+          <bookmark href="https://my.telegram.org/auth" id="733">
+            <title>Telegram | API Authorization</title>
+          </bookmark>
+          <bookmark href="https://tl.telethon.dev/methods/messages/get_messages.html" id="734">
+            <title>GetMessagesRequest</title>
+          </bookmark>
+          <bookmark href="https://core.telegram.org/bots/faq" id="735">
+            <title>Telegram Bots FAQ</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="440">
+        <title>Exchanges</title>
+        <folder id="589">
+          <title>Decentralized Exchanges</title>
+          <bookmark href="https://app.uniswap.org/#/swap" id="736">
+            <title>Uniswap | Etherum Network</title>
+          </bookmark>
+          <bookmark href="https://1inch.exchange/#/" id="737">
+            <title>1inch.exchange | Etherum Network</title>
+          </bookmark>
+          <bookmark href="https://quickswap.exchange/#/swap?swapIndex=0&amp;currency0=ETH" id="738">
+            <title>QuickSwap | Matic Network</title>
+          </bookmark>
+          <bookmark href="https://paraswap.io/#/" id="739">
+            <title>ParaSwap</title>
+          </bookmark>
+          <bookmark href="https://pancakeswap.finance/" id="740">
+            <title>PancakeSwap | Binance Chain Network</title>
+          </bookmark>
+          <bookmark href="https://swap.spiritswap.finance/#/swap" id="741">
+            <title>SpiritSwap | Fantom Network</title>
+          </bookmark>
+          <bookmark href="https://multichain.org/" id="742">
+            <title>MultiChain | Cross Chain DEX</title>
+          </bookmark>
+          <bookmark href="https://raydium.io/swap/?ammId=8idN93ZBpdtMp4672aS4GGMDy7LdVWCCXH7FKFdMw9P4" id="743">
+            <title>Raydium Swap | Solana Network</title>
+          </bookmark>
+          <bookmark href="https://solapeswap.io/#/market/GekRdc4eD9qnfPTjUMK5NdQDho8D9ByGrtnqhMNCTm36" id="744">
+            <title>SolApe Swap (Limit) | Solana Network</title>
+          </bookmark>
+          <bookmark href="https://app.pangolin.exchange/#/swap" id="745">
+            <title>Pangolin | Avalanche DEX</title>
+          </bookmark>
+          <bookmark href="https://app.solarbeam.io/exchange/swap" id="824">
+            <title>Solarbeam | Moonriver</title>
+          </bookmark>
+          <bookmark href="https://dexscreener.com/" id="825">
+            <title>DEX Screener</title>
+          </bookmark>
+        </folder>
+        <folder id="590">
+          <title>Centralized Exchanges</title>
+          <bookmark href="https://www.coinbase.com/dashboard" id="746">
+            <title>Coinbase</title>
+          </bookmark>
+          <bookmark href="https://pro.coinbase.com/" id="747">
+            <title>Coinbase Pro</title>
+          </bookmark>
+          <bookmark href="https://www.binance.us/en" id="748">
+            <title>Binance</title>
+          </bookmark>
+          <bookmark href="https://trade.kucoin.com/BTC-USDT" id="749">
+            <title>KuCoin</title>
+          </bookmark>
+          <bookmark href="https://poloniex.com/" id="750">
+            <title>Poloniex</title>
+          </bookmark>
+          <bookmark href="https://www.gate.io/login" id="751">
+            <title>Gate.io</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="441">
+        <title>Explorers</title>
+        <bookmark href="https://etherscan.io/" id="591">
+          <title>Ethereum (ETH) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://bscscan.com/" id="592">
+          <title>Binance (BNB) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://explorer.harmony.one/" id="593">
+          <title>Harmony (ONE) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://avascan.info/" id="594">
+          <title>Avalanche (AVAX) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://explorer.solana.com/" id="595">
+          <title>Solana (SOL) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://ftmscan.com/" id="596">
+          <title>Fantom (FTM) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://polygonscan.com/" id="597">
+          <title>Polygon (MATIC) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://app.zerion.io/0x9950be4a388a7147786e9c28718894a7e34d4d46/overview" id="598">
+          <title>Zerion | Ethplorer</title>
+        </bookmark>
+        <bookmark href="https://baklava-blockscout.celo-testnet.org/" id="599">
+          <title>Baklava | Celo Explorer</title>
+        </bookmark>
+        <bookmark href="https://arbiscan.io/" id="600">
+          <title>Arbitrum (ETH) Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://snowtrace.io/" id="808">
+          <title>SnowTrace: Avalanche C-Chain Blockchain Explorer</title>
+        </bookmark>
+        <bookmark href="https://blockscout.moonriver.moonbeam.network/" id="809">
+          <title>Moonriver Moonbeam Explorer</title>
+        </bookmark>
+      </folder>
+      <folder id="442">
+        <title>Launch Pads</title>
+        <bookmark href="https://wault.finance/launchpad/" id="601">
+          <title>Wault Launchpad | Wault Finance</title>
+        </bookmark>
+        <bookmark href="https://bscpad.com/" id="602">
+          <title>BSCPad | BSC Chain</title>
+        </bookmark>
+        <bookmark href="https://www.polkastarter.com/" id="603">
+          <title>Polkastarter | Multi-Chain</title>
+        </bookmark>
+        <bookmark href="https://fantomstarter.io/" id="604">
+          <title>FantomStarter | Fantom Chain</title>
+        </bookmark>
+        <bookmark href="https://avalaunch.app/" id="605">
+          <title>Avalaunch | Avax Chain</title>
+        </bookmark>
+        <bookmark href="https://coinlist.co/" id="606">
+          <title>CoinList | Multi-Chain</title>
+        </bookmark>
+        <bookmark href="https://www.solanium.io/" id="607">
+          <title>Solanium | Solana Chain</title>
+        </bookmark>
+        <bookmark href="https://ignition.paidnetwork.com/" id="608">
+          <title>Ignition | PAID Network</title>
+        </bookmark>
+        <bookmark href="https://redkite.polkafoundry.com/#/dashboard" id="609">
+          <title>Red Kite | Multi chain</title>
+        </bookmark>
+        <bookmark href="https://www.poolz.finance/" id="610">
+          <title>Poolz | Multi-Chain</title>
+        </bookmark>
+        <bookmark href="https://daomaker.com/" id="810">
+          <title>Dao Pad | DAO Maker</title>
+        </bookmark>
+        <bookmark href="https://duckstarter.io/" id="811">
+          <title>Duck Starter | DAO Maker</title>
+        </bookmark>
+      </folder>
+      <folder id="443">
+        <title>NFTs</title>
+        <bookmark href="https://opensea.io/" id="611">
+          <title>OpenSea | NFTs</title>
+        </bookmark>
+        <bookmark href="https://rarible.com/" id="612">
+          <title>Rarible | NFT marketplace</title>
+        </bookmark>
+        <bookmark href="https://playtoearn.net/blockchaingames" id="613">
+          <title>PlayToEarn | Crypto Games</title>
+        </bookmark>
+        <bookmark href="https://solanart.io/collections/aurory" id="614">
+          <title>Solanart | Solana NFT Marketplace </title>
+        </bookmark>
+        <bookmark href="https://www.decentraboard.com/#" id="615">
+          <title>Decentraboard | NFT powered billboard</title>
+        </bookmark>
+        <bookmark href="https://www.magiceden.io/" id="616">
+          <title>Magic Eden | NFT Marketplace</title>
+        </bookmark>
+      </folder>
+      <folder id="444">
+        <title>Wallets</title>
+        <folder id="617">
+          <title>Wallet Explorers</title>
+          <bookmark href="https://coinstats.app/en/portfolio/" id="752">
+            <title>Crypto Portfolio Tracker | CoinStats</title>
+          </bookmark>
+          <bookmark href="https://ethplorer.io/" id="753">
+            <title>Etherum Wallet explorer | Ethplorer</title>
+          </bookmark>
+          <bookmark href="https://app.zerion.io/nfts/0x74ee68a33f6c9f113e22b3b77418b75f85d07d22:6" id="754">
+            <title>Zerion — NFT wallet</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://wallet.trezor.io/" id="618">
+          <title>Trezor Wallet</title>
+        </bookmark>
+        <bookmark href="https://cointracking.info/dashboard.php" id="619">
+          <title>CoinTracking | Portfolio Tracker</title>
+        </bookmark>
+        <bookmark href="https://my.dogechain.info/#/wallet" id="620">
+          <title>Dogechain - Online dogecoin wallet</title>
+        </bookmark>
+        <bookmark href="https://uphold.com/dashboard" id="621">
+          <title>Uphold Wallet | Brave Rewards</title>
+        </bookmark>
+        <bookmark href="https://core.app/" id="622">
+          <title>Avalanche (AVAX) Wallet and Portfolio | Core</title>
+        </bookmark>
+        <bookmark href="https://polygonscan.com/address/0x9950be4a388a7147786e9c28718894a7e34d4d46" id="623">
+          <title>Address 0x9950be4a388a7147786e9c28718894a7e34d4d46 | PolygonScan</title>
+        </bookmark>
+      </folder>
+      <folder id="445">
+        <title>Research &amp; News</title>
+        <folder id="624">
+          <title>Research</title>
+          <bookmark href="https://defillama.com/airdrops" id="755">
+            <title>Defi Llama</title>
+          </bookmark>
+          <bookmark href="https://airdrops.io/" id="756">
+            <title>Crypto Airdrops List</title>
+          </bookmark>
+          <bookmark href="https://coinmarketcap.com/" id="757">
+            <title>Crypto Market Caps</title>
+          </bookmark>
+          <bookmark href="https://www.coingecko.com/en" id="758">
+            <title>CoinGecko</title>
+          </bookmark>
+          <bookmark href="https://coin360.com/" id="759">
+            <title>COIN360 | Crypto Heatmap</title>
+          </bookmark>
+          <bookmark href="https://www.livecoinwatch.com/" id="760">
+            <title>Live Coin Watch | Top Movers</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaZvUnoz1DqJNCq4o9X4ABMjo0kV5c_tECGzpJGCHsnCnk2nv5ME9PJP1xqmiSgSvpBvLxADT11i-e/pubhtml#" id="761">
+            <title>Major Upcoming Events | CryptoDiffer</title>
+          </bookmark>
+          <bookmark href="https://coinmarketcal.com/en/" id="762">
+            <title>CoinMarketCal | Crypto Calendar</title>
+          </bookmark>
+          <bookmark href="https://icodrops.com/" id="763">
+            <title>ICO Drops | ICO &amp; IEO Calendar</title>
+          </bookmark>
+          <bookmark href="https://www.stakingrewards.com/" id="764">
+            <title>Staking Rewards</title>
+          </bookmark>
+          <bookmark href="https://ventures.coinbase.com/" id="826">
+            <title>Coinbase Ventures</title>
+          </bookmark>
+          <bookmark href="https://coindecide.com/" id="827">
+            <title>CoinDecide</title>
+          </bookmark>
+          <bookmark href="https://tokenmetrics.com/" id="828">
+            <title>Token Metrics</title>
+          </bookmark>
+          <bookmark href="https://messari.io/screener" id="829">
+            <title>Messari | Crypto Screener</title>
+          </bookmark>
+          <bookmark href="https://defisafety.com/" id="830">
+            <title>DeFi Safety | Rating DeFi apps</title>
+          </bookmark>
+          <bookmark href="https://coin.dance/blocks" id="831">
+            <title>Coin Dance | Bitcoin Block Details</title>
+          </bookmark>
+          <bookmark href="https://casebitcoin.com/critiques" id="832">
+            <title>Bitcoin Critiques &amp; Rebuttals | The Case for Bitcoin</title>
+          </bookmark>
+          <bookmark href="http://cryptofighter.systems/" id="833">
+            <title>Crypto Fighter Systems | Find Gems In Binance Smart Chain</title>
+          </bookmark>
+          <bookmark href="https://studio.glassnode.com/metrics?a=BTC&amp;m=indicators.NetUnrealizedProfitLoss&amp;resolution=24h" id="834">
+            <title>Glassnode Studio | Bitcoin: Net Unrealized Profit/Loss (NUPL)</title>
+          </bookmark>
+          <bookmark href="https://coinsniper.net/alltime" id="835">
+            <title>CoinSniper | Aim, Snipe, Moon</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://bscpad.medium.com/" id="625">
+          <title>BSCpad | Medium</title>
+        </bookmark>
+        <folder id="626">
+          <title>News</title>
+          <bookmark href="https://cointelegraph.com/" id="765">
+            <title>Cointelegraph | Blockchain News</title>
+          </bookmark>
+          <bookmark href="https://www.coinbureau.com/" id="766">
+            <title>Coin Bureau | News &amp; Research</title>
+          </bookmark>
+          <bookmark href="https://teachyourselfcrypto.com/" id="767">
+            <title>Teach Yourself Crypto</title>
+          </bookmark>
+          <bookmark href="https://blog.coinbase.com/" id="768">
+            <title>The Coinbase Blog</title>
+          </bookmark>
+          <bookmark href="https://cryptodiffer.com/news/" id="769">
+            <title>Cryptodiffer | News &amp; Research</title>
+          </bookmark>
+        </folder>
+        <folder id="627">
+          <title>Sentiment Analysis</title>
+          <bookmark href="https://lunarcrush.com/?rpp=50" id="770">
+            <title>LunarCRUSH | Social Media Sentiment Analytics</title>
+          </bookmark>
+          <bookmark href="https://alternative.me/crypto/fear-and-greed-index/" id="771">
+            <title>Alternative | Crypto Fear &amp; Greed Index </title>
+          </bookmark>
+          <bookmark href="https://money.cnn.com/data/fear-and-greed/?iid=EL" id="772">
+            <title>CNN Money | Stocks Fear &amp; Greed Index</title>
+          </bookmark>
+          <bookmark href="https://www.augmento.ai/bitcoin-sentiment/" id="773">
+            <title>Augmento | Bull &amp; Bear Index</title>
+          </bookmark>
+          <bookmark href="https://bisonapp.com/en/cryptoradar/" id="774">
+            <title>CryptoRadar | Top Altcoin Sentiment</title>
+          </bookmark>
+          <bookmark href="https://santiment.net/" id="775">
+            <title>Santiment | Sentiment Analytics</title>
+          </bookmark>
+          <bookmark href="https://lunarcrush.com/markets?rpp=50" id="776">
+            <title>LunarCRUSH | Social Media Analytics</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="873">
+        <title>Staking Farming Pools</title>
+        <bookmark href="https://yieldyak.medium.com/benqi-strategies-cbb9d37e6578" id="884">
+          <title>Benqi Strategies | by Yield Yak</title>
+        </bookmark>
+        <bookmark href="https://dashboard.tenderly.co/tx/bsc/" id="885">
+          <title>Tenderly Dashboard</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="209">
+      <title>Forex</title>
+      <folder id="446">
+        <title>Forex Brokers</title>
+        <bookmark href="https://www.oanda.com/account/login?__cf_chl_jschl_tk__=dc244d7587379931804ee56a11c79107cff42bcd-1591944065-0-AQ4LgzC0Ab61ujcg9O3i2yYjNBTtcaO7NshmKm75jN8siTFj3o8dJcC0FM7CVyOvyekYde9i2T3tVTpM1WvbVCy8FvktCOYjKu_PGrBY6OaysOJKj4muvRhWi-ijpWt7PVdMVuwG9uH2A1yVWeL1WDdyDrl_rvcB7oWNdXfaCl6SHO2a1ODryD1RaFdJ1wF6cfRpDlI6lwIcJ1qFIRmKmVr0HFlm-JyotdN4JQvXEGPhAm1LcSrBYRtp3EDy_ixH4K-tJJ9kg0dWf8bDMuoBfxJVebkP799VFv0HijyP2PjcmYJt6hZjummfUiUDelA3bzBkrBgcCQ8iYK3bAUm_NoI8tBf7bJfAFWXPMH_nXfbU" id="628">
+          <title>OANDA</title>
+        </bookmark>
+        <bookmark href="https://www.forex.com/en-us/" id="629">
+          <title>Forex Trading</title>
+        </bookmark>
+      </folder>
+      <folder id="447">
+        <title>Forex Training</title>
+        <bookmark href="http://im.academy/" id="630">
+          <title>IM Academy</title>
+        </bookmark>
+        <bookmark href="https://www.babypips.com/learn/forex" id="631">
+          <title>BabyPips.com</title>
+        </bookmark>
+      </folder>
+      <folder id="448">
+        <title>Forex Tools</title>
+        <bookmark href="https://www.breakfreetrading.com/" id="632">
+          <title>Breakfree Trading</title>
+        </bookmark>
+        <bookmark href="https://www.mql5.com/en/code/mt5/indicators" id="633">
+          <title>MQL5 | Free Indicators</title>
+        </bookmark>
+      </folder>
+      <folder id="449">
+        <title>Forex Research &amp; News</title>
+        <bookmark href="https://www.barchart.com/stocks/quotes/$EVZ/interactive-chart" id="634">
+          <title>Euro FX Volacity Chart - Barchart.com</title>
+        </bookmark>
+        <bookmark href="https://discord.com/channels/523354267525054467/575875249179197440" id="635">
+          <title>Discord | nnfx-trading-tools</title>
+        </bookmark>
+        <bookmark href="https://www.dailyfx.com/sentiment-report" id="636">
+          <title>IG Client Sentiment Report</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="210">
+      <title>Stocks</title>
+      <folder id="450">
+        <title>Stock Brokers</title>
+        <bookmark href="https://login.fidelity.com/ftgw/Fidelity/RtlCust/Login/Init?AuthRedUrl=https://oltx.fidelity.com/ftgw/fbc/oftop/portfolio#summary" id="637">
+          <title>Fidelity Investments</title>
+        </bookmark>
+      </folder>
+      <folder id="451">
+        <title>Stock Tools</title>
+        <bookmark href="https://banyanhill.com/" id="638">
+          <title>Banyan Hill Publishing</title>
+        </bookmark>
+        <bookmark href="https://members.wealthpress.com/" id="639">
+          <title>Wealth Press</title>
+        </bookmark>
+        <bookmark href="https://www.tradervue.com/" id="640">
+          <title>Tradervue Trading Journal</title>
+        </bookmark>
+      </folder>
+      <folder id="452">
+        <title>Stocks Research &amp; News</title>
+        <bookmark href="https://www.barchart.com/" id="641">
+          <title>Barchart.com</title>
+        </bookmark>
+        <bookmark href="https://www.stockfetcher.com/" id="642">
+          <title>StockFetcher</title>
+        </bookmark>
+        <bookmark href="https://finviz.com/" id="643">
+          <title>FINVIZ.com | Stock Screener</title>
+        </bookmark>
+        <bookmark href="https://stocktwits.com/markets/calendar/2024-10-28" id="644">
+          <title>Stocktwits | Company Earnings Calendar</title>
+        </bookmark>
+        <bookmark href="https://seekingalpha.com/" id="645">
+          <title>Stock Market Insights | Seeking Alpha</title>
+        </bookmark>
+        <bookmark href="https://www.insidertracking.com/" id="646">
+          <title>Insider Tracking | US &amp; Canada</title>
+        </bookmark>
+        <bookmark href="https://www.insider-monitor.com/top10_insider_buys_month.html" id="647">
+          <title>Insider Trading Report</title>
+        </bookmark>
+        <bookmark href="https://vantagepointtrading.com/day-trading-stock-picks/" id="648">
+          <title>Vantage Point Trading | Day Trading Stock Picks</title>
+        </bookmark>
+        <bookmark href="https://www.biopharmcatalyst.com/" id="649">
+          <title>BioPharmCatalyst</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="211">
+      <title>Options</title>
+      <bookmark href="https://www.fidelity.com/viewpoints/active-investor/options-trading-zone" id="453">
+        <title>Options trading | Fidelity</title>
+      </bookmark>
+      <bookmark href="https://www.fidelity.com/learning-center/investment-products/options/oic-planning" id="454">
+        <title>Options for income | Fidelity</title>
+      </bookmark>
+      <bookmark href="https://www.simplertrading.com/" id="455">
+        <title>Simpler Trading | Trading Education</title>
+      </bookmark>
+      <bookmark href="https://www.optionseducation.org/" id="456">
+        <title>The Options Industry Council (OIC) | Options Education</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.tradingview.com/chart/ZhTpG0KA/" id="212">
+      <title>Tradingview</title>
+    </bookmark>
+    <bookmark href="https://brokerchooser.com/compare-brokerage" id="213">
+      <title>Broker Chooser</title>
+    </bookmark>
+    <bookmark href="https://everytimezone.com/" id="214">
+      <title>Time Zone Conv</title>
+    </bookmark>
+  </folder>
+  <folder id="55">
+    <title>Reading List</title>
+    <folder id="215">
+      <title>Art</title>
+      <bookmark href="http://www.kurtwenner.com/" id="457">
+        <title>Kurt Wenner | Art</title>
+      </bookmark>
+      <bookmark href="http://jimwarren.com/" id="458">
+        <title>Jim Warren | Art</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://bettermoneyhabits.bankofamerica.com/en" id="216">
+      <title>Better Money Habits | Financial Education</title>
+    </bookmark>
+    <bookmark href="https://www.isitnormal.com/post/is-it-normal-to-see-the-numbers----or----everywhere-you-go--58661#comments" id="217">
+      <title>Is It Normal? | 1111</title>
+    </bookmark>
+    <bookmark href="https://www.pdfdrive.com/" id="218">
+      <title>PDF Drive | Download Free Books</title>
+    </bookmark>
+    <bookmark href="https://blog.misumiusa.com/what-defines-high-end-cad/?mkt_tok=eyJpIjoiWWpFek9UWTRPR05oTldRMiIsInQiOiJEa3dkRUpFOEJOQkFyQnM3RW51SDFHeEpzNFZ6ZnI0WkRvVm03c2N3SUxLMUFzdWx6b2ZGQVlpTXZjNUc1ZjdLYkh3VVdKOXcyZitQcmNvVnpVc2ltNUR6bm0wWnV3cVFCN0JOcUZHM3EwU2Fxdlk3WHpxXC9KZmNDekk0ak9FUU4ifQ%3D%3D" id="219">
+      <title>What Defines &quot;High-End&quot; CAD? | MISUMI Blog</title>
+    </bookmark>
+    <bookmark href="https://blog.misumiusa.com/top-10-reasons-to-love-an-engineer/?mkt_tok=eyJpIjoiWldJek56bGxOMlpsTW1JdyIsInQiOiJTZ3FhNE5qT2haWTV6M1Q2aHk3UW5nS1M0NGlTSnZuZk9hM3NHQ2tidzV3YnlXcnZGdm4yXC9lbmxNYzRqUlNrVkNEeUxuRmIrb0RmOHkzVzg3dlpKdmpGRjBHbGl0S3ZPOExMY1NxUnU4b2dZMDJhZHhZMXlZU3l6V0dyRG1hVHYifQ%3D%3D" id="220">
+      <title>Top 10 Reasons to Love an Engineer | MISUMI Blog</title>
+    </bookmark>
+    <bookmark href="http://www.dps.texas.gov/DriverLicense/driverrecords.htm" id="221">
+      <title>TxDPS | How to Order Driver Records</title>
+    </bookmark>
+    <bookmark href="https://finance.yahoo.com/news/basic-rules-for-getting-rich.html" id="222">
+      <title>Basic Rules for Getting Rich</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?time_continue=1847&amp;v=PHe0bXAIuk0&amp;feature=emb_logo" id="223">
+      <title>How The Economic Machine Works by Ray Dalio</title>
+    </bookmark>
+    <bookmark href="https://www.bennyhinn.org/enewsletter/the-key-to-having-gods-anointing/?utm_source=There%2bis%2ba%2bmajor%2bshift%2bin%2batmosphere%2bcoming%2b&amp;utm_medium=email&amp;utm_campaign=There%2bis%2ba%2bmajor%2bshift%2bin%2batmosphere%2bcoming%2b" id="224">
+      <title>The Key to Having God&apos;s Anointing | Benny Hinn Ministries</title>
+    </bookmark>
+    <bookmark href="https://medium.com/kaizen-habits/39-websites-that-can-make-you-unbelievably-smarter-just-in-10-minutes-a-day-f6e727764519" id="650">
+      <title>39 Websites That Can Make You Unbelievably Smarter Just in 10 Minutes a Day</title>
+    </bookmark>
+    <bookmark href="https://socialskillswisdom.com/" id="651">
+      <title>How to Win Friends And Influence People</title>
+    </bookmark>
+    <bookmark href="http://www.sleepwithmepodcast.com/" id="652">
+      <title>Sleep With Me | The Podcast That Puts You To Sleep</title>
+    </bookmark>
+  </folder>
+  <folder id="814">
+    <title>Shopping Cart</title>
+    <folder id="836">
+      <title>Cart</title>
+      <folder id="839">
+        <title>Air Purifiers</title>
+        <bookmark href="https://puraclenz.com/" id="865">
+          <title>Advanced Air and Surface Purifiers | Puraclenz</title>
+        </bookmark>
+        <bookmark href="https://www.amazon.com/dp/B002VXDCHW?tag=cewhitebooks-20&amp;geniuslink=true&amp;th=1" id="866">
+          <title>IQAir HealthPro Plus Air Purifier - Medical Grade HyperHEPA filter</title>
+        </bookmark>
+        <bookmark href="https://puraclenz.com/pages/technology-of-puraclenz" id="867">
+          <title>Advanced Purifier Technology - Puraclenz</title>
+        </bookmark>
+        <bookmark href="https://airdoctorpro.com/purifiers/?c=moderncastle" id="868">
+          <title>AirDoctor Pro</title>
+        </bookmark>
+        <bookmark href="https://www.sharkclean.com/products/shark-neverchange-air-purifier-max-zidHP302?clickid=26zWCd3WixyKRK1xlHSsJQF1UkC12912l2s-2Q0&amp;irgwc=1&amp;utm_source=impact&amp;utm_medium=affiliate&amp;utm_campaign=Online%20Tracking%20Link-1343548-&amp;afsrc=1&amp;SharedId=" id="869">
+          <title>Shark NeverChange™ Air Purifier MAX - Shark</title>
+        </bookmark>
+        <bookmark href="https://www.amazon.com/Shark-HC502-Purifier-Cleansense-allergens/dp/B0CTQ7RVTS?tag=mc_1001-20&amp;th=1" id="870">
+          <title>Shark 3-in-1 Max Air Purifier, Heater &amp; Fan with NanoSeal HEPA, Cleansense IQ</title>
+        </bookmark>
+        <bookmark href="https://www.amazon.com/dp/B07VVK39F7?tag=cewhitebooks-20&amp;geniuslink=true&amp;th=1" id="871">
+          <title> LEVOIT Air Purifier</title>
+        </bookmark>
+        <bookmark href="https://www.amazon.com/Winix-5500-2-Purifier-PlasmaWave-Reducing/dp/B01D8DAYII?tag=consumeryt-20&amp;geniuslink=true&amp;th=1" id="872">
+          <title>Winix 5500-2 Air Purifier with True HEPA</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.walmart.com/cart?irgwc=1&amp;im_rewards=1&amp;veh=aff&amp;wmlspartner=imp_101044&amp;affiliates_ad_id=565706&amp;campaign_id=9383&amp;sharedid=&amp;clickid=0tGVTcUNIxyPW04w6F2k0XJEUkFXuKWJ3WUUW80&amp;sourceid=imp_0tGVTcUNIxyPW04w6F2k0XJEUkFXuKWJ3WUUW80" id="840">
+        <title>Sven &amp; Sons Adj Bed Frame | Walmart</title>
+      </bookmark>
+      <bookmark href="https://www.haworth.com/na/en/products/stools/fern.html" id="841">
+        <title>Haworth&apos;s Fern Office Chair | Haworth</title>
+      </bookmark>
+      <bookmark href="https://www.bespokepost.com/store/marcellin-4-in-1-cast-iron-stack" id="842">
+        <title>4-in-1 Cast Iron Stack Marcellin | Bespoke Post</title>
+      </bookmark>
+      <bookmark href="https://shop.ledger.com/" id="843">
+        <title>Ledger | Cold Wallets</title>
+      </bookmark>
+      <bookmark href="https://www.oofos.com/products/mens-ooahh-sport-flex-sandal-black-labyrinth" id="844">
+        <title>OOFOS Slides</title>
+      </bookmark>
+      <bookmark href="https://30secondsmile.com/products/30-second-smile-orthodontic-replacement-brush-head?variant=35685246664859" id="845">
+        <title>30 Second Smile by Hydrabrush, Inc.</title>
+      </bookmark>
+      <bookmark href="https://shieldfolio.com/products/ghost-pen?currency=EUR" id="846">
+        <title>Ghost Pen | Make your Private Keys invsible | Shieldfolio</title>
+      </bookmark>
+    </folder>
+    <folder id="837">
+      <title>Catalogue</title>
+      <bookmark href="https://www.tungstenfashions.com/tungsten-rings.html?msn-arkansasCypressUSA&amp;taboola" id="847">
+        <title>Tungsten Rings | Mens</title>
+      </bookmark>
+      <bookmark href="https://www.quiksetjewelry.com/our-products" id="848">
+        <title>Quikset Jewelry &amp; Watch Repair</title>
+      </bookmark>
+      <bookmark href="https://www.bollandbranch.com/" id="849">
+        <title>Boll &amp; Branch | Beddings</title>
+      </bookmark>
+      <bookmark href="https://www.brickhousesecurity.com/" id="850">
+        <title>Stealth Gadgets | Brickhouse Security</title>
+      </bookmark>
+      <bookmark href="https://formlabs.com/" id="851">
+        <title>Formlabs | High Resolution SLA and SLS 3D Printers </title>
+      </bookmark>
+      <bookmark href="https://www.williams-sonoma.com/?bnrid=3100311&amp;cm_ite=head_logo&amp;tp=i-1NGB-Q2T-1sFP-1cNTgqA-1n-4Mg34-1c-1cNLl2z-l4JE2l8zji-23OGMm&amp;cm_ven=Promo&amp;cm_cat=Prsp&amp;cm_pla=2020-02-27_WSBrand_PRSPBottomHalf&amp;cm_em=01:4BB6AEB1113294EB971964DF062D1A58C9477EE6&amp;dtm_em=8ff31125a50b59083b2bab41ca081237&amp;os_ehash=8ff31125a50b59083b2bab41ca081237&amp;om_mid=446859" id="852">
+        <title>Williams Sonoma | Cookware, Cooking Utensils, Kitchen Decor</title>
+      </bookmark>
+      <bookmark href="https://myversattire.com/collections/versattire-shirts/products/the-versatile?variant=18544516931" id="853">
+        <title>Versattire | The Versatile Dress Shirt</title>
+      </bookmark>
+      <bookmark href="https://tblon.com/collections/wholecut-oxford-shoes/products/benson-wholecut-oxford-tan" id="854">
+        <title>Thomas Bird | Wholecut Oxford Tan Brown</title>
+      </bookmark>
+      <bookmark href="https://surfshark.com/features" id="855">
+        <title>Surfshark VPN</title>
+      </bookmark>
+      <bookmark href="https://www.idrive.com/" id="856">
+        <title>IDrive | Online Cloud Backup</title>
+      </bookmark>
+      <bookmark href="https://norlanglass.com/products/norlan-whisky-glass" id="874">
+        <title>Whisky Glasses | Norlan</title>
+      </bookmark>
+      <bookmark href="https://gluxkind.com/" id="875">
+        <title>Glüxkind AI Stroller</title>
+      </bookmark>
+      <bookmark href="https://www.esrgear.com/" id="876">
+        <title>ESR Tech Accessories</title>
+      </bookmark>
+      <bookmark href="https://www.hotelcollection.com/collections/scent-diffusers" id="877">
+        <title>Scent Diffusers | Hotel Collection</title>
+      </bookmark>
+      <bookmark href="https://zelmins.com/" id="878">
+        <title>Zelmin&apos;s Minty Mouth | A Fresh Take On Breath Mints</title>
+      </bookmark>
+      <bookmark href="http://get.furniture/living-room/sectional-sofas.html?" id="879">
+        <title>Modern and Contemporary Sectional Sofas | Get.Furniture</title>
+      </bookmark>
+      <bookmark href="https://www.ebay.com/itm/264465773370?chn=ps&amp;mkevt=1&amp;mkcid=28&amp;srsltid=AR57-fDTHtoetyN6PRV6QpkKe-Zz7tX7S83Dd_SPUihwtVOddHGa5aC4isY" id="880">
+        <title>2006-2007 Nissan Nav Map Update DVD North America X7 7.10 GPS | eBay</title>
+      </bookmark>
+      <bookmark href="https://www.gizmogo.com/" id="881">
+        <title>Sell Used Electronics for Top Dollar | Gizmogo</title>
+      </bookmark>
+      <bookmark href="https://www.wayfair.com/furniture/pdp/ivy-bronx-prescott-rectangular-2-shelf-bar-unit-zpcd2130.html?categoryid=0&amp;placement=14&amp;slot=0&amp;sponsoredid=2fb840a446eb5cd5e2e1be1fb4604529d1db37ad9aadf1977e6ceea3d13e0211&amp;_txid=I%2FcmXGVsLkYv3T72wn%2FHAg%3D%3D&amp;isB2b=0&amp;auctionId=583c5300-3d97-4a7d-a1aa-4ab80210de7a&amp;piid=22165012" id="882">
+        <title>Ivy Bronx Prescott Bar Unit | Wayfair</title>
+      </bookmark>
+      <bookmark href="https://wellwellwell.co/retiree-invents-miracle-socks-that-relieve-foot-pain-01/?lpid=1543&amp;source_id=DL&amp;utm_source=9946&amp;utm_medium=&amp;utm_term=631&amp;aff_id=9946&amp;sub_id=&amp;req_id=ee3dd3e28d6442ca937c014b57295870&amp;oid=631&amp;device_type=PC&amp;country_name=United+States" id="883">
+        <title>Miracle Socks </title>
+      </bookmark>
+    </folder>
+    <folder id="838">
+      <title>Food</title>
+      <bookmark href="https://app.servewithtabul.com/#!/restaurant/26" id="857">
+        <title>9ja Soul Food | Website</title>
+      </bookmark>
+      <bookmark href="https://www.instagram.com/9jasoulfood/" id="858">
+        <title>9jasoulfood</title>
+      </bookmark>
+      <bookmark href="http://www.food.com/recipes/nigerian/popular" id="859">
+        <title>Popular Nigerian Recipes</title>
+      </bookmark>
+      <bookmark href="https://www.177milkstreet.com/" id="860">
+        <title>Milk Street | Recipes</title>
+      </bookmark>
+      <bookmark href="https://www.eatthismuch.com/" id="861">
+        <title>Eat This Much | Meal Planner</title>
+      </bookmark>
+      <bookmark href="https://www.finecooking.com/" id="862">
+        <title>FineCooking | Recipes</title>
+      </bookmark>
+      <bookmark href="https://www.tanqueverdeswap.com/" id="863">
+        <title>Tanqueverde Swapmeet</title>
+      </bookmark>
+      <bookmark href="https://www.localharvest.org/west-hollywood-ca" id="864">
+        <title>Farmers Markets | Family Farms | CSA | Organic Food </title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="886">
+    <title>Watch List</title>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x76d3142ac9891aa69bdb1a96eabb907561596ad3" id="887">
+      <title>DINU $0.0000000153 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b" id="888">
+      <title>HOKK $0.00000000109 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0" id="889">
+      <title>BabyDoge $0.00000000186 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x82d86b481f8d9d01c6ad3d979a7b4c36e5d397d5" id="890">
+      <title>SWAPZ $0.09190356 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc5e1b7e86a63d23a88b85a0fe00772f058a4dcc4" id="891">
+      <title>BabyShibaInu $0.0000000391 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xbaa97c0135e483b5d3c1c948a9e769f86b80aa95" id="892">
+      <title>SPACECUM $0.00000001282 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xa1706250473b6359095a3d8b0a674c137f065725" id="893">
+      <title>SHIBM $0.00243626 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x2bda4ea90dae215f8417477182631249eb8f929a" id="894">
+      <title>UPSHIB $0.0000000000854 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x1c6faf9ad252390ee5e6f0b2f8d2fc927a8eb4e6" id="895">
+      <title>CoShi $0.00000000543 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
+      <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <folder id="13">
+    <title>HP</title>
+    <bookmark href="https://www.hpsmart.com/us/en/ucde/print_plans" id="46">
+      <title>HP Smart</title>
+    </bookmark>
+    <bookmark href="http://js.redirect.hp.com/jumpstation?bd=*&amp;c=*&amp;locale=*_us&amp;pf=*&amp;s=*&amp;tp=*&amp;TYPE=3" id="47">
+      <title>Accessories</title>
+    </bookmark>
+    <bookmark href="http://js.redirect.hp.com/jumpstation?bd=*&amp;c=*&amp;locale=*&amp;pf=*&amp;s=Hpstore&amp;tp=*&amp;TYPE=3" id="48">
+      <title>HP Store</title>
+    </bookmark>
+    <bookmark href="http://js.redirect.hp.com/jumpstation?bd=*&amp;c=*&amp;locale=*&amp;pf=*&amp;s=printing&amp;tp=*&amp;TYPE=3" id="49">
+      <title>Printing</title>
+    </bookmark>
+    <bookmark href="http://js.redirect.hp.com/jumpstation?bd=*&amp;c=*&amp;locale=en_us&amp;pf=*&amp;s=hp_support&amp;tp=*&amp;TYPE=3" id="50">
+      <title>Software and Driver Downloads</title>
+    </bookmark>
+    <bookmark href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=13&amp;ct=1580505493&amp;rver=7.0.6738.0&amp;wp=SAPI&amp;wreply=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252Fdevices%253Ffref%253Dhome.banner.devices%2526refd%253Daccount.microsoft.com&amp;lc=1033&amp;id=292666&amp;lw=1&amp;fl=easi2" id="51">
+      <title>Sign in to your Microsoft account</title>
+    </bookmark>
+  </folder>
+</folder>
+</xbel>
