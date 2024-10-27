@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :896: for Floccus bookmark sync browser extension -->
+<!--- highestId :897: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -22,7 +22,7 @@
     <folder id="14">
       <title>Church</title>
       <bookmark href="https://www.mountainoffire.org/resources/prayer-points" id="56">
-        <title>Prayer Points | MFM </title>
+        <title>Prayer Points | MFM</title>
       </bookmark>
       <bookmark href="https://maxlucado.com/daily-devotional/" id="57">
         <title>Daily Devotional - Max Lucado</title>
@@ -31,7 +31,7 @@
         <title>The Bible</title>
       </bookmark>
       <bookmark href="https://www.mountainoffire.org/give/paypal" id="59">
-        <title>MFM Ministries </title>
+        <title>MFM Ministries</title>
       </bookmark>
       <bookmark href="https://thewisdomcenter.tv/" id="60">
         <title>The Wisdom Center</title>
@@ -198,7 +198,7 @@
           <title>Credit Karma</title>
         </bookmark>
         <bookmark href="https://www.creditsesame.com/" id="267">
-          <title>Credit Sesame </title>
+          <title>Credit Sesame</title>
         </bookmark>
         <bookmark href="http://www.nfcc.org/" id="268">
           <title>Credit Counseling</title>
@@ -600,7 +600,7 @@
           <title>Autodesk | Product Design &amp; Manufacturing Collection</title>
         </bookmark>
         <bookmark href="https://www.ptc.com/en/products/creo/packages" id="310">
-          <title>PTC Creo | Packages </title>
+          <title>PTC Creo | Packages</title>
         </bookmark>
         <bookmark href="https://www.keyshot.com/features/whats-new/" id="311">
           <title>KeyShot | Rendering</title>
@@ -1131,7 +1131,7 @@
       <folder id="163">
         <title>Coding</title>
         <bookmark href="https://www.freecodecamp.org/" id="376">
-          <title>FreeCodeCamp.org | Coding Courses </title>
+          <title>FreeCodeCamp.org | Coding Courses</title>
         </bookmark>
         <bookmark href="https://www.codementor.io/u/dashboard" id="377">
           <title>Codementor | Get 1:1 programming help, hire developers, learn to code</title>
@@ -1160,7 +1160,7 @@
       <title>Zoho Mail</title>
     </bookmark>
     <bookmark href="https://www.businer.com/" id="39">
-      <title>Businer.com </title>
+      <title>Businer.com</title>
     </bookmark>
   </folder>
   <folder id="11">
@@ -1370,7 +1370,7 @@
       </bookmark>
     </folder>
     <folder id="202">
-      <title>Research </title>
+      <title>Research</title>
       <bookmark href="https://manuals.info.apple.com/MANUALS/1000/MA1613/en_US/airport_express_80211n_2nd_gen_setup_guide.pdf" id="396">
         <title>Apple Product Guides</title>
       </bookmark>
@@ -1513,7 +1513,7 @@
         <title>KMS_VL_ALL_AIO: Smart Activation Script | GitHub</title>
       </bookmark>
       <bookmark href="https://forums.mydigitallife.net/threads/office-r-tool-project.84450/" id="412">
-        <title>Office(R)Tool v12 Rev G </title>
+        <title>Office(R)Tool v12 Rev G</title>
       </bookmark>
       <bookmark href="https://gravesoft.dev/office_c2r_links" id="413">
         <title>MS Office C2R Downloads</title>
@@ -1769,7 +1769,7 @@
             <title>Moralis | BSC Node</title>
           </bookmark>
           <bookmark href="https://www.nylas.com/blog/use-python-requests-module-rest-apis/" id="696">
-            <title>Nylas | Python Requests Module With REST APIs </title>
+            <title>Nylas | Python Requests Module With REST APIs</title>
           </bookmark>
           <bookmark href="https://coinmarketcap.com/api/documentation/v1/" id="697">
             <title>CoinMarketCap API Documentation</title>
@@ -1954,7 +1954,7 @@
               <title>Binance Trading Bot | News sentiment</title>
             </bookmark>
             <bookmark href="https://pythonrepo.com/repo/BytePhoenixData-BSCTokenSniper-python-cryptography" id="798">
-              <title>PythonRepo | Automatic liquidity detection snipping bot on BSC </title>
+              <title>PythonRepo | Automatic liquidity detection snipping bot on BSC</title>
             </bookmark>
             <bookmark href="https://towardsdatascience.com/in-10-minutes-web-scraping-with-beautiful-soup-and-selenium-for-data-professionals-8de169d36319" id="799">
               <title>Web Scraping with Beautiful Soup and Selenium for Data Professionals</title>
@@ -2160,7 +2160,7 @@
           <title>PlayToEarn | Crypto Games</title>
         </bookmark>
         <bookmark href="https://solanart.io/collections/aurory" id="614">
-          <title>Solanart | Solana NFT Marketplace </title>
+          <title>Solanart | Solana NFT Marketplace</title>
         </bookmark>
         <bookmark href="https://www.decentraboard.com/#" id="615">
           <title>Decentraboard | NFT powered billboard</title>
@@ -2294,7 +2294,7 @@
             <title>LunarCRUSH | Social Media Sentiment Analytics</title>
           </bookmark>
           <bookmark href="https://alternative.me/crypto/fear-and-greed-index/" id="771">
-            <title>Alternative | Crypto Fear &amp; Greed Index </title>
+            <title>Alternative | Crypto Fear &amp; Greed Index</title>
           </bookmark>
           <bookmark href="https://money.cnn.com/data/fear-and-greed/?iid=EL" id="772">
             <title>CNN Money | Stocks Fear &amp; Greed Index</title>
@@ -2514,10 +2514,13 @@
           <title>Shark 3-in-1 Max Air Purifier, Heater &amp; Fan with NanoSeal HEPA, Cleansense IQ</title>
         </bookmark>
         <bookmark href="https://www.amazon.com/dp/B07VVK39F7?tag=cewhitebooks-20&amp;geniuslink=true&amp;th=1" id="871">
-          <title> LEVOIT Air Purifier</title>
+          <title>LEVOIT Air Purifier</title>
         </bookmark>
         <bookmark href="https://www.amazon.com/Winix-5500-2-Purifier-PlasmaWave-Reducing/dp/B01D8DAYII?tag=consumeryt-20&amp;geniuslink=true&amp;th=1" id="872">
           <title>Winix 5500-2 Air Purifier with True HEPA</title>
+        </bookmark>
+        <bookmark href="https://floccus.org/" id="897">
+          <title>Cross-browser bookmarks syncing - floccus.org</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.walmart.com/cart?irgwc=1&amp;im_rewards=1&amp;veh=aff&amp;wmlspartner=imp_101044&amp;affiliates_ad_id=565706&amp;campaign_id=9383&amp;sharedid=&amp;clickid=0tGVTcUNIxyPW04w6F2k0XJEUkFXuKWJ3WUUW80&amp;sourceid=imp_0tGVTcUNIxyPW04w6F2k0XJEUkFXuKWJ3WUUW80" id="840">
@@ -2557,7 +2560,7 @@
         <title>Stealth Gadgets | Brickhouse Security</title>
       </bookmark>
       <bookmark href="https://formlabs.com/" id="851">
-        <title>Formlabs | High Resolution SLA and SLS 3D Printers </title>
+        <title>Formlabs | High Resolution SLA and SLS 3D Printers</title>
       </bookmark>
       <bookmark href="https://www.williams-sonoma.com/?bnrid=3100311&amp;cm_ite=head_logo&amp;tp=i-1NGB-Q2T-1sFP-1cNTgqA-1n-4Mg34-1c-1cNLl2z-l4JE2l8zji-23OGMm&amp;cm_ven=Promo&amp;cm_cat=Prsp&amp;cm_pla=2020-02-27_WSBrand_PRSPBottomHalf&amp;cm_em=01:4BB6AEB1113294EB971964DF062D1A58C9477EE6&amp;dtm_em=8ff31125a50b59083b2bab41ca081237&amp;os_ehash=8ff31125a50b59083b2bab41ca081237&amp;om_mid=446859" id="852">
         <title>Williams Sonoma | Cookware, Cooking Utensils, Kitchen Decor</title>
@@ -2602,7 +2605,7 @@
         <title>Ivy Bronx Prescott Bar Unit | Wayfair</title>
       </bookmark>
       <bookmark href="https://wellwellwell.co/retiree-invents-miracle-socks-that-relieve-foot-pain-01/?lpid=1543&amp;source_id=DL&amp;utm_source=9946&amp;utm_medium=&amp;utm_term=631&amp;aff_id=9946&amp;sub_id=&amp;req_id=ee3dd3e28d6442ca937c014b57295870&amp;oid=631&amp;device_type=PC&amp;country_name=United+States" id="883">
-        <title>Miracle Socks </title>
+        <title>Miracle Socks</title>
       </bookmark>
     </folder>
     <folder id="838">
@@ -2629,7 +2632,7 @@
         <title>Tanqueverde Swapmeet</title>
       </bookmark>
       <bookmark href="https://www.localharvest.org/west-hollywood-ca" id="864">
-        <title>Farmers Markets | Family Farms | CSA | Organic Food </title>
+        <title>Farmers Markets | Family Farms | CSA | Organic Food</title>
       </bookmark>
     </folder>
   </folder>
