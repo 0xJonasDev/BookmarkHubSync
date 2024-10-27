@@ -1786,6 +1786,9 @@
         </folder>
         <folder id="583">
           <title>Coding Toolbox</title>
+          <bookmark href="https://github.com/0xJonasDev" id="898">
+            <title>Github</title>
+          </bookmark>
           <bookmark href="https://testnet.binance.org/faucet-smart" id="700">
             <title>Binance Smart Chain: Faucet</title>
           </bookmark>
@@ -1839,9 +1842,6 @@
           </bookmark>
           <bookmark href="https://www.epochconverter.com/#code" id="823">
             <title>Epoch Converter - Unix Timestamp Converter</title>
-          </bookmark>
-          <bookmark href="https://github.com/0xJonasDev" id="898">
-            <title>Github</title>
           </bookmark>
         </folder>
         <folder id="584">
