@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :899: for Floccus bookmark sync browser extension -->
+<!--- highestId :900: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1474,6 +1474,9 @@
         </bookmark>
         <bookmark href="https://permissionslipcr.com/" id="560">
           <title>Permission Slip by CR | Personal Data Advocates</title>
+        </bookmark>
+        <bookmark href="https://www.freedomflyersusa.com/" id="900">
+          <title>Buy Bobwhite Quail Chicks &amp; Eggs Online | Freedom Flyers USA</title>
         </bookmark>
       </folder>
       <folder id="405">
