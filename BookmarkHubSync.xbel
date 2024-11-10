@@ -11,6 +11,9 @@
   <bookmark href="https://www.google.com/maps?authuser=0" id="4">
     <title>Google Maps</title>
   </bookmark>
+  <bookmark href="https://www.google.com/travel/flights?tcfs&amp;ved=2ahUKEwjcyIizqtGJAxUJEvkAHWzBIWYQyJABegQIABAG&amp;ictx=2" id="902">
+    <title>Google Flights</title>
+  </bookmark>
   <bookmark href="https://www.icloud.com/" id="5">
     <title>iCloud</title>
   </bookmark>
@@ -47,9 +50,6 @@
       </bookmark>
       <bookmark href="http://192.168.12.1/home" id="901">
         <title>T-Mobile Gateway: Status</title>
-      </bookmark>
-      <bookmark href="https://www.google.com/travel/flights?tcfs&amp;ved=2ahUKEwjcyIizqtGJAxUJEvkAHWzBIWYQyJABegQIABAG&amp;ictx=2" id="902">
-        <title>Google Flights - Find Cheap Flight Options &amp; Track Prices</title>
       </bookmark>
     </folder>
     <folder id="16">
