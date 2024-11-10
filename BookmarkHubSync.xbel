@@ -45,6 +45,9 @@
       <bookmark href="https://customer.stamps.com/Store/account/profile/V2/?_requestid=224617" id="62">
         <title>Stamps.com</title>
       </bookmark>
+      <bookmark href="http://192.168.12.1/home" id="901">
+        <title>T-Mobile Gateway: Status</title>
+      </bookmark>
     </folder>
     <folder id="16">
       <title>Finance</title>
@@ -2642,9 +2645,6 @@
       </bookmark>
       <bookmark href="https://www.freedomflyersusa.com/" id="900">
         <title>Quail Eggs | Freedom Flyers USA</title>
-      </bookmark>
-      <bookmark href="http://192.168.12.1/home" id="901">
-        <title>T-Mobile Gateway: Status</title>
       </bookmark>
     </folder>
   </folder>
