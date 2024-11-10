@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :901: for Floccus bookmark sync browser extension -->
+<!--- highestId :902: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -47,6 +47,9 @@
       </bookmark>
       <bookmark href="http://192.168.12.1/home" id="901">
         <title>T-Mobile Gateway: Status</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/travel/flights?tcfs&amp;ved=2ahUKEwjcyIizqtGJAxUJEvkAHWzBIWYQyJABegQIABAG&amp;ictx=2" id="902">
+        <title>Google Flights - Find Cheap Flight Options &amp; Track Prices</title>
       </bookmark>
     </folder>
     <folder id="16">
