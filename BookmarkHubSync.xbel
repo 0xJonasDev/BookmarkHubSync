@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :902: for Floccus bookmark sync browser extension -->
+<!--- highestId :903: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -540,6 +540,9 @@
     </folder>
     <bookmark href="https://www.accountkiller.com/en" id="21">
       <title>Account Killer</title>
+    </bookmark>
+    <bookmark href="https://pass.proton.me/u/0/?filters=eyJzZWFyY2giOiIiLCJzb3J0IjoicmVjZW50IiwidHlwZSI6IioiLCJzZWxlY3RlZFNoYXJlSWQiOiIwX3pZSDMzOGprSkxoZkJXZVdST0NvMG5wclVhZ0RsYTdyN3pydDNNeTJBVUdDNmZnYUJLdlJYNko3RS0xa0pfeTFWWXFaM0QxZGhHbjl4QU1lTUE0dz09In0%3D" id="903">
+      <title>Proton Pass Web App</title>
     </bookmark>
   </folder>
   <folder id="8">
