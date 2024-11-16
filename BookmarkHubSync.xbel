@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :903: for Floccus bookmark sync browser extension -->
+<!--- highestId :904: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2621,6 +2621,9 @@
       </bookmark>
       <bookmark href="https://wellwellwell.co/retiree-invents-miracle-socks-that-relieve-foot-pain-01/?lpid=1543&amp;source_id=DL&amp;utm_source=9946&amp;utm_medium=&amp;utm_term=631&amp;aff_id=9946&amp;sub_id=&amp;req_id=ee3dd3e28d6442ca937c014b57295870&amp;oid=631&amp;device_type=PC&amp;country_name=United+States" id="883">
         <title>Miracle Socks</title>
+      </bookmark>
+      <bookmark href="https://www.wayfair.com/furniture/pdp/haworth-fern-digital-knit-task-chair-gcfk1010.html?piid=72023967%2C91925234" id="904">
+        <title>Haworth Fern Digital Knit Task Chair &amp; Reviews | Wayfair</title>
       </bookmark>
     </folder>
     <folder id="838">
