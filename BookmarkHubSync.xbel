@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :919: for Floccus bookmark sync browser extension -->
+<!--- highestId :920: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -451,6 +451,9 @@
         </bookmark>
         <bookmark href="https://support.google.com/websearch/answer/12719076?hl=en" id="919">
           <title>Find and remove personal contact info in Google Search results - Google Search Help</title>
+        </bookmark>
+        <bookmark href="https://www.costco.com/.product.4000287892.html?EMID=B2C_2024_1118_pre-tday_USE&amp;correlationId=9224f6fe-d9b3-4a81-a794-3a5d1f3ed07e-0" id="920">
+          <title>LG 34&quot; Curved Ultrawide WQHD MyView Smart Monitor - 3440 x 1440 | Costco</title>
         </bookmark>
       </folder>
       <folder id="405">
