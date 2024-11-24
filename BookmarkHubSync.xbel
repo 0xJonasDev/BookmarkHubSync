@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :907: for Floccus bookmark sync browser extension -->
+<!--- highestId :908: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2660,6 +2660,9 @@
       </bookmark>
       <bookmark href="https://www.goodranchers.com/" id="907">
         <title>Good Ranchers | American Meat Subscription Box</title>
+      </bookmark>
+      <bookmark href="https://www.tannersfish.com/?srsltid=AfmBOoqcpC05sIha_HbNNeEhoDjNXkx7Px2b4c3m2ezw-Wb3EDGoWhjY" id="908">
+        <title>Tanners Alaskan Seafood 100% Fresh, Wild, Shipped Overnight</title>
       </bookmark>
     </folder>
   </folder>
