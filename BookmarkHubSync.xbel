@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :912: for Floccus bookmark sync browser extension -->
+<!--- highestId :913: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1514,6 +1514,9 @@
       </bookmark>
       <bookmark href="https://richontech.notion.site/98-November-16-2024-13fe1097111780a99130de213d301a2f" id="912">
         <title>Notable RichOnTech Links</title>
+      </bookmark>
+      <bookmark href="https://www.amazon.com/stores/Aura/page/196C2420-0CCF-48B1-BF2E-7D4ECE956756?store_ref=bl_ast_dp_brandLogo_sto&amp;linkCode=sl2&amp;tag=rot02-20&amp;linkId=f0c2bd23ed05cbfaa44d31bdf42dc2e2&amp;language=en_US&amp;ref_=as_li_ss_tl" id="913">
+        <title>Amazon.com: Aura</title>
       </bookmark>
     </folder>
     <folder id="204">
