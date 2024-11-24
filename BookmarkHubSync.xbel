@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :904: for Floccus bookmark sync browser extension -->
+<!--- highestId :905: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2555,6 +2555,9 @@
       </bookmark>
       <bookmark href="https://shieldfolio.com/products/ghost-pen?currency=EUR" id="846">
         <title>Ghost Pen | Make your Private Keys invsible | Shieldfolio</title>
+      </bookmark>
+      <bookmark href="https://www.tablotv.com/product/" id="905">
+        <title>Tablo TV</title>
       </bookmark>
     </folder>
     <folder id="837">
