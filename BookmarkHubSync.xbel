@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :920: for Floccus bookmark sync browser extension -->
+<!--- highestId :921: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2591,6 +2591,9 @@
       </bookmark>
       <bookmark href="https://www.costco.com/.product.4000287892.html?EMID=B2C_2024_1118_pre-tday_USE&amp;correlationId=9224f6fe-d9b3-4a81-a794-3a5d1f3ed07e-0" id="920">
         <title>LG 34&quot; Curved Ultrawide WQHD MyView Smart Monitor - 3440 x 1440 | Costco</title>
+      </bookmark>
+      <bookmark href="https://www.costco.com/lg-50%22-class---ut8000-series---4k-uhd-led-lcd-tv.product.4000261862.html" id="921">
+        <title>LG 50&quot; Class - UT8000 Series - 4K UHD LED LCD TV | Costco</title>
       </bookmark>
     </folder>
     <folder id="837">
