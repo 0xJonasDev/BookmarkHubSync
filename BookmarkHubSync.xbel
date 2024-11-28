@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :922: for Floccus bookmark sync browser extension -->
+<!--- highestId :923: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2597,6 +2597,9 @@
       </bookmark>
       <bookmark href="https://www.costco.com/lg-55-class---ur8000-series---4k-uhd-led-lcd-tv.product.4000153791.html" id="922">
         <title>LG 55&quot; Class - UR8000 Series - 4K UHD LED LCD TV | Costco</title>
+      </bookmark>
+      <bookmark href="https://trezor.io/trezor-safe-5-backup-bundle?utm_source=webflow&amp;utm_medium=content&amp;utm_campaign=BlackFriday_2024&amp;_gl=1*1djl7b4*_gcl_au*MTIyNzE4NzYxNC4xNzMyODIwNzIy" id="923">
+        <title>Trezor Safe 5 Backup Bundle | Hardware Wallet &amp; Backup</title>
       </bookmark>
     </folder>
     <folder id="837">
