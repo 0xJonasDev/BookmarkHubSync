@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :923: for Floccus bookmark sync browser extension -->
+<!--- highestId :924: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2600,6 +2600,9 @@
       </bookmark>
       <bookmark href="https://trezor.io/trezor-safe-5-backup-bundle?utm_source=webflow&amp;utm_medium=content&amp;utm_campaign=BlackFriday_2024&amp;_gl=1*1djl7b4*_gcl_au*MTIyNzE4NzYxNC4xNzMyODIwNzIy" id="923">
         <title>Trezor Safe 5 Backup Bundle | Hardware Wallet &amp; Backup</title>
+      </bookmark>
+      <bookmark href="https://www.costco.com/.product.4000269864.html?EMID=B2C_2024_1128_TDay_USE&amp;correlationId=60c4caf6-9883-400e-8d5d-402adfb2a4e3-0" id="924">
+        <title>Shark NeverChange Air Purifier MAX with Remote, Two Odor Neutralization Cartridges, &amp; Pet Pro Filter | Costco</title>
       </bookmark>
     </folder>
     <folder id="837">
