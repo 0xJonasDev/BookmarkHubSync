@@ -22,9 +22,6 @@
   </bookmark>
   <folder id="7">
     <title>Accounts</title>
-    <bookmark href="https://www.byjusfutureschool.com/" id="931">
-      <title>BYJU&apos;S FutureSchool| Live Online Coding for Kids</title>
-    </bookmark>
     <folder id="14">
       <title>Church</title>
       <bookmark href="https://www.mountainoffire.org/resources/prayer-points" id="56">
@@ -57,9 +54,6 @@
     </folder>
     <folder id="930">
       <title>Destiny</title>
-      <bookmark href="https://sec.gov.ng/non-mandated/" id="932">
-        <title>Unregistered Investors for E-Dividend Payment</title>
-      </bookmark>
     </folder>
     <folder id="16">
       <title>Finance</title>
@@ -118,6 +112,9 @@
         </bookmark>
         <bookmark href="https://diversyfund.com/" id="241">
           <title>Diversyfund | Real Estate Growth REIT</title>
+        </bookmark>
+        <bookmark href="https://sec.gov.ng/non-mandated/" id="932">
+          <title>Unregistered Investors for E-Dividend Payment</title>
         </bookmark>
       </folder>
       <folder id="65">
@@ -567,6 +564,9 @@
     </folder>
     <bookmark href="https://www.accountkiller.com/en" id="21">
       <title>Account Killer</title>
+    </bookmark>
+    <bookmark href="https://www.byjusfutureschool.com/" id="931">
+      <title>BYJU&apos;S FutureSchool| Live Online Coding for Kids</title>
     </bookmark>
   </folder>
   <folder id="8">
