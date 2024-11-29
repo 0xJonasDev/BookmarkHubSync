@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :936: for Floccus bookmark sync browser extension -->
+<!--- highestId :937: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1905,6 +1905,9 @@
           </bookmark>
           <bookmark href="https://blog.finxter.com/openapi-cheat-sheet/?tl_inbound=1&amp;tl_target_all=1&amp;tl_form_type=1&amp;tl_period_type=3" id="936">
             <title>Python OpenAI API Cheat Sheet</title>
+          </bookmark>
+          <bookmark href="https://genuineessiac.com/" id="937">
+            <title>Essiac tea: Genuine organic essiac tea at discount prices. – Genuine Essiac</title>
           </bookmark>
         </folder>
         <folder id="584">
