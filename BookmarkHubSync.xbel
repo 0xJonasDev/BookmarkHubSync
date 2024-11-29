@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :932: for Floccus bookmark sync browser extension -->
+<!--- highestId :933: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -115,6 +115,9 @@
         </bookmark>
         <bookmark href="https://sec.gov.ng/non-mandated/" id="932">
           <title>Unregistered Investors for E-Dividend Payment</title>
+        </bookmark>
+        <bookmark href="https://www.statefarm.com/simple-insights/auto-and-vehicles/calculate-your-vehicle-depreciation" id="933">
+          <title>Car Depreciation Calculator - State Farm® - State Farm®</title>
         </bookmark>
       </folder>
       <folder id="65">
