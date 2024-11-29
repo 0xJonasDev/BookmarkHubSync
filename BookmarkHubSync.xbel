@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :926: for Floccus bookmark sync browser extension -->
+<!--- highestId :927: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2555,9 +2555,6 @@
         <bookmark href="https://airdoctorpro.com/purifiers/?c=moderncastle" id="868">
           <title>AirDoctor Pro</title>
         </bookmark>
-        <bookmark href="https://www.amazon.com/dp/B07VVK39F7?tag=cewhitebooks-20&amp;geniuslink=true&amp;th=1" id="871">
-          <title>LEVOIT Air Purifier</title>
-        </bookmark>
         <bookmark href="https://www.sharkclean.com/products/shark-neverchange-air-purifier-max-zidHP302?clickid=26zWCd3WixyKRK1xlHSsJQF1UkC12912l2s-2Q0&amp;irgwc=1&amp;utm_source=impact&amp;utm_medium=affiliate&amp;utm_campaign=Online%20Tracking%20Link-1343548-&amp;afsrc=1&amp;SharedId=" id="869">
           <title>Shark NeverChange™ Air Purifier MAX - Shark</title>
         </bookmark>
@@ -2594,6 +2591,12 @@
       </bookmark>
       <bookmark href="https://www.costco.com/lg-55-class---ur8000-series---4k-uhd-led-lcd-tv.product.4000153791.html" id="922">
         <title>LG 55&quot; Class - UR8000 Series - 4K UHD LED LCD TV | Costco</title>
+      </bookmark>
+      <bookmark href="https://www.amazon.com/dp/B07VVK39F7?tag=cewhitebooks-20&amp;geniuslink=true&amp;th=1" id="871">
+        <title>LEVOIT Air Purifier</title>
+      </bookmark>
+      <bookmark href="https://get-guardianmonitor.com/v8/checkout?b=357&amp;funnel=hcvr&amp;downsell=2&amp;v12_0=1&amp;eaprice=1&amp;offer=70off&amp;region=us&amp;pub_id=598&amp;oid=320&amp;transaction_id=274344a2ea0a41dfb0923996a1bc2956&amp;gclid=&amp;msclkid=&amp;uid=4195&amp;affid=598&amp;sub5=GqdJcleiWu7Q6HapT1fFVnA5Bqvayz34jV" id="927">
+        <title>Get Guardian Monitor Now!</title>
       </bookmark>
     </folder>
     <folder id="837">
