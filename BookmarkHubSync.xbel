@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :938: for Floccus bookmark sync browser extension -->
+<!--- highestId :939: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1418,6 +1418,9 @@
       <title>News</title>
       <bookmark href="https://afr.net/podcasts/at-the-core/?page=1" id="938">
         <title>At The Core</title>
+      </bookmark>
+      <bookmark href="https://live.childrenshealthdefense.org/chd-tv/" id="939">
+        <title>CHD-TV | Childrens Health Defense</title>
       </bookmark>
     </folder>
   </folder>
