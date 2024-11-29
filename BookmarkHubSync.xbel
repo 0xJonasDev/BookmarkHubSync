@@ -1683,9 +1683,6 @@
       <bookmark href="https://firestickhacks.com/how-to-install-smart-iptv-on-firestick/amp/?_gl=1*5xk91j*_ga*YW1wLUFJSEc3YkROQ0xpTFk2VmN6dXNyeVQ0Y1JIYUNxR0hUSWlOTFUtNVlvLXdOaW0yM0FqdklCX3h5OEIzbkc3Mlo." id="935">
         <title>How to Install Smart IPTV on FireStick</title>
       </bookmark>
-      <bookmark href="https://blog.finxter.com/openapi-cheat-sheet/?tl_inbound=1&amp;tl_target_all=1&amp;tl_form_type=1&amp;tl_period_type=3" id="936">
-        <title>Python OpenAI API Cheat Sheet</title>
-      </bookmark>
     </folder>
     <folder id="914">
       <title>Tech Toolbox</title>
@@ -1905,6 +1902,9 @@
           </bookmark>
           <bookmark href="https://www.epochconverter.com/#code" id="823">
             <title>Epoch Converter - Unix Timestamp Converter</title>
+          </bookmark>
+          <bookmark href="https://blog.finxter.com/openapi-cheat-sheet/?tl_inbound=1&amp;tl_target_all=1&amp;tl_form_type=1&amp;tl_period_type=3" id="936">
+            <title>Python OpenAI API Cheat Sheet</title>
           </bookmark>
         </folder>
         <folder id="584">
