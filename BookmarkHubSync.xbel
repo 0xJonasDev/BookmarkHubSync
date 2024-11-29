@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :935: for Floccus bookmark sync browser extension -->
+<!--- highestId :936: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1682,6 +1682,9 @@
       </bookmark>
       <bookmark href="https://firestickhacks.com/how-to-install-smart-iptv-on-firestick/amp/?_gl=1*5xk91j*_ga*YW1wLUFJSEc3YkROQ0xpTFk2VmN6dXNyeVQ0Y1JIYUNxR0hUSWlOTFUtNVlvLXdOaW0yM0FqdklCX3h5OEIzbkc3Mlo." id="935">
         <title>How to Install Smart IPTV on FireStick</title>
+      </bookmark>
+      <bookmark href="https://blog.finxter.com/openapi-cheat-sheet/?tl_inbound=1&amp;tl_target_all=1&amp;tl_form_type=1&amp;tl_period_type=3" id="936">
+        <title>Python OpenAI API Cheat Sheet (Free) – Be on the Right Side of Change</title>
       </bookmark>
     </folder>
     <folder id="914">
