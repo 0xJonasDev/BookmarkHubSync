@@ -194,6 +194,9 @@
       </folder>
       <folder id="70">
         <title>Credit Reports</title>
+        <folder id="944">
+          <title>Credit Articles</title>
+        </folder>
         <bookmark href="https://www.experian.com/" id="262">
           <title>Experian</title>
         </bookmark>
@@ -224,9 +227,6 @@
         <bookmark href="https://www.youtube.com/watch?v=fg_AvV7ISUE&amp;t=468s" id="271">
           <title>(773) How I Fixed Credit Fast: Removed Collections, Charge-off, and Adverse Accounts - 30 Days - Secret! - YouTube</title>
         </bookmark>
-        <folder id="944">
-          <title>Credit Articles</title>
-        </folder>
       </folder>
       <folder id="71">
         <title>Crowd Funding</title>
