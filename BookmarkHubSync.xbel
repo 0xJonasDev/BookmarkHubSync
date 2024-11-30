@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :944: for Floccus bookmark sync browser extension -->
+<!--- highestId :945: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -196,6 +196,9 @@
         <title>Credit Reports</title>
         <folder id="944">
           <title>Credit Articles</title>
+          <bookmark href="https://www.youtube.com/watch?v=fg_AvV7ISUE&amp;t=468s" id="271">
+            <title>(773) How I Fixed Credit Fast: Removed Collections, Charge-off, and Adverse Accounts - 30 Days - Secret! - YouTube</title>
+          </bookmark>
         </folder>
         <bookmark href="https://www.experian.com/" id="262">
           <title>Experian</title>
@@ -223,9 +226,6 @@
         </bookmark>
         <bookmark href="https://www.nerdwallet.com/article/finance/how-to-freeze-credit" id="270">
           <title>NerdWallet | How to Freeze Your Credit</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=fg_AvV7ISUE&amp;t=468s" id="271">
-          <title>(773) How I Fixed Credit Fast: Removed Collections, Charge-off, and Adverse Accounts - 30 Days - Secret! - YouTube</title>
         </bookmark>
       </folder>
       <folder id="71">
@@ -261,6 +261,12 @@
     </folder>
     <folder id="18">
       <title>Health</title>
+      <folder id="945">
+        <title>Health Articles</title>
+        <bookmark href="https://openurologyandnephrologyjournal.com/VOLUME/2/PAGE/20/FULLTEXT/" id="942">
+          <title>Evaluation of an At-Home-Use Prostate Massage Device for Men with Lower Urinary Tract Symptoms</title>
+        </bookmark>
+      </folder>
       <bookmark href="https://mychart.parklandhealth.org/MyChart/Authentication/Login?action=logout" id="77">
         <title>MyChart | Parkland</title>
       </bookmark>
@@ -308,9 +314,6 @@
       </bookmark>
       <bookmark href="https://genuineessiac.com/" id="937">
         <title>Genuine Organic Essiac Tea</title>
-      </bookmark>
-      <bookmark href="https://openurologyandnephrologyjournal.com/VOLUME/2/PAGE/20/FULLTEXT/" id="942">
-        <title>Evaluation of an At-Home-Use Prostate Massage Device for Men with Lower Urinary Tract Symptoms</title>
       </bookmark>
     </folder>
     <folder id="19">
