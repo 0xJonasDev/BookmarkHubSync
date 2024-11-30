@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :940: for Floccus bookmark sync browser extension -->
+<!--- highestId :941: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1424,6 +1424,9 @@
       </bookmark>
       <bookmark href="https://live.childrenshealthdefense.org/chd-tv/" id="939">
         <title>CHD-TV | Childrens Health Defense</title>
+      </bookmark>
+      <bookmark href="https://www.gofundme.com/f/7hm4q-help-this-man-to-get-a-wheelchair" id="941">
+        <title>Fundraiser by Private Ineza : Raise Money To Support This Man</title>
       </bookmark>
     </folder>
   </folder>
