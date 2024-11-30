@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :943: for Floccus bookmark sync browser extension -->
+<!--- highestId :944: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -224,6 +224,9 @@
         <bookmark href="https://www.youtube.com/watch?v=fg_AvV7ISUE&amp;t=468s" id="271">
           <title>(773) How I Fixed Credit Fast: Removed Collections, Charge-off, and Adverse Accounts - 30 Days - Secret! - YouTube</title>
         </bookmark>
+        <folder id="944">
+          <title>Credit Articles</title>
+        </folder>
       </folder>
       <folder id="71">
         <title>Crowd Funding</title>
