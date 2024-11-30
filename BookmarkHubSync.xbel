@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :941: for Floccus bookmark sync browser extension -->
+<!--- highestId :942: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -305,6 +305,9 @@
       </bookmark>
       <bookmark href="https://genuineessiac.com/" id="937">
         <title>Genuine Organic Essiac Tea</title>
+      </bookmark>
+      <bookmark href="https://openurologyandnephrologyjournal.com/VOLUME/2/PAGE/20/FULLTEXT/" id="942">
+        <title>Evaluation of an At-Home-Use Prostate Massage Device for Men with Lower Urinary Tract Symptoms</title>
       </bookmark>
     </folder>
     <folder id="19">
@@ -1475,7 +1478,7 @@
       </bookmark>
     </folder>
     <bookmark href="https://www.gofundme.com/f/7hm4q-help-this-man-to-get-a-wheelchair" id="941">
-      <title>Rwanda Orphanage Fundraiser </title>
+      <title>Rwanda Orphanage Fundraiser</title>
     </bookmark>
     <bookmark href="https://donate.lovetotherescue.org/give/145680/#!/donation/checkout" id="192">
       <title>Shriners Children Hospital</title>
