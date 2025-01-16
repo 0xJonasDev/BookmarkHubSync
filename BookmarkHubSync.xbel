@@ -1469,15 +1469,15 @@
         <bookmark href="https://www.facebook.com/manyhelpinghandsirving" id="536">
           <title>MHH Facebook</title>
         </bookmark>
-        <bookmark href="https://pcocheck-ins.zendesk.com/hc/en-us" id="950">
-          <title>Support | Check-Ins</title>
-        </bookmark>
       </folder>
       <bookmark href="https://support.planningcenteronline.com/hc/en-us" id="380">
         <title>Planning Center Support</title>
       </bookmark>
       <bookmark href="https://pcopeople.zendesk.com/hc/en-us" id="381">
         <title>Support | Planning Center People</title>
+      </bookmark>
+      <bookmark href="https://pcocheck-ins.zendesk.com/hc/en-us" id="950">
+        <title>Support | Check-Ins</title>
       </bookmark>
       <bookmark href="https://pcoservices.zendesk.com/hc/en-us" id="382">
         <title>Support | Planning Center Services</title>
@@ -1744,7 +1744,7 @@
         <title>Data Removal | DBAN</title>
       </bookmark>
       <bookmark href="https://cobalt.tools/" id="951">
-        <title>Cobalt | Strip and Download videos from websites </title>
+        <title>Cobalt | Strip and Download videos from websites</title>
       </bookmark>
     </folder>
   </folder>
