@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :946: for Floccus bookmark sync browser extension -->
+<!--- highestId :956: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -24,20 +24,20 @@
     <title>Accounts</title>
     <folder id="14">
       <title>Church</title>
-      <bookmark href="https://www.mountainoffire.org/resources/prayer-points" id="56">
-        <title>Prayer Points | MFM</title>
-      </bookmark>
-      <bookmark href="https://maxlucado.com/daily-devotional/" id="57">
-        <title>Daily Devotional - Max Lucado</title>
-      </bookmark>
       <bookmark href="https://www.bible.com/" id="58">
         <title>The Bible</title>
       </bookmark>
       <bookmark href="https://www.mountainoffire.org/give/paypal" id="59">
         <title>MFM Ministries</title>
       </bookmark>
+      <bookmark href="https://www.mountainoffire.org/resources/prayer-points" id="56">
+        <title>Prayer Points | MFM</title>
+      </bookmark>
       <bookmark href="https://thewisdomcenter.tv/" id="60">
         <title>The Wisdom Center</title>
+      </bookmark>
+      <bookmark href="https://maxlucado.com/daily-devotional/" id="57">
+        <title>Daily Devotional - Max Lucado</title>
       </bookmark>
     </folder>
     <folder id="15">
@@ -48,12 +48,15 @@
       <bookmark href="https://customer.stamps.com/Store/account/profile/V2/?_requestid=224617" id="62">
         <title>Stamps.com</title>
       </bookmark>
-      <bookmark href="http://192.168.12.1/home" id="901">
-        <title>T-Mobile Gateway: Status</title>
-      </bookmark>
     </folder>
     <folder id="930">
-      <title>Destiny</title>
+      <title>Family</title>
+      <bookmark href="https://www.byjusfutureschool.com/" id="931">
+        <title>BYJU&apos;S FutureSchool| Live Online Coding for Kids</title>
+      </bookmark>
+      <bookmark href="https://onedrive.live.com/personal/e3a2a5ea7f2d6d4e/_layouts/15/Doc.aspx?sourcedoc=%7B02554b8f-7b72-434e-9ed3-c9124d716cc0%7D&amp;action=default&amp;fromShare=true&amp;redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9lM2EyYTVlYTdmMmQ2ZDRlL0VZOUxWUUp5ZTA1RG50UEpFazF4Yk1BQkJYcTdLblRuQl9iQ1RuN3pPLTZncXc_ZT00OkNWV1ZwSCZzaGFyaW5ndjI9dHJ1ZSZmcm9tU2hhcmU9dHJ1ZSZhdD05&amp;slrid=9a5c76a1-405d-7000-7c31-d8f8c1ba8b53&amp;originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9lM2EyYTVlYTdmMmQ2ZDRlL0VZOUxWUUp5ZTA1RG50UEpFazF4Yk1BQkJYcTdLblRuQl9iQ1RuN3pPLTZncXc_cnRpbWU9dENaREdmZ3gzVWc&amp;CID=f0586619-5ea5-403c-a802-ff92f0f3b732&amp;_SRM=0:G:30&amp;file=Presentation%201.pptx" id="947">
+        <title>Karty Blaque Profile</title>
+      </bookmark>
     </folder>
     <folder id="16">
       <title>Finance</title>
@@ -131,6 +134,9 @@
         <bookmark href="https://www.spectrum.com/mobile" id="245">
           <title>Spectrum Mobile</title>
         </bookmark>
+        <bookmark href="https://account.t-mobile.com/signin/v2/?redirect_uri=https:%2F%2Fwww.t-mobile.com%2Fsignin&amp;scope=TMO_ID_profile%2520associated_lines%2520ban_roles%2520billing_information%2520associated_billing_accounts%2520extended_lines%2520token%2520openid%2520vault%2520role%2520consent&amp;client_id=MYTMO&amp;access_type=ONLINE&amp;response_type=code&amp;approval_prompt=auto&amp;prompt=select_account" id="948">
+          <title>My T-Mobile Login</title>
+        </bookmark>
       </folder>
       <folder id="66">
         <title>Mortgage</title>
@@ -154,9 +160,6 @@
         </bookmark>
         <bookmark href="https://www.dallascad.org/" id="252">
           <title>Dallas Central Appraisal District</title>
-        </bookmark>
-        <bookmark href="https://prestigedallashomes.com/thank-you/" id="253">
-          <title>THANK YOU! | Lauer Real Estate</title>
         </bookmark>
       </folder>
       <folder id="67">
@@ -476,9 +479,18 @@
       </folder>
       <folder id="405">
         <title>Surveillance</title>
-        <bookmark href="http://skjm.com/icam/web/" id="561">
-          <title>SKJM | iCamWeb</title>
-        </bookmark>
+        <folder id="949">
+          <title>SKJM iCam Pro</title>
+          <bookmark href="http://skjm.com/icam/web/" id="561">
+            <title>SKJM | iCamWeb</title>
+          </bookmark>
+          <bookmark href="https://skjm.com/forum/index.php?topic=402.0" id="954">
+            <title>Troubleshooting 103 - Port Forwarding</title>
+          </bookmark>
+          <bookmark href="https://www.simpleportforwarding.com/" id="955">
+            <title>Simple Port Forwarding™ | PcWinTech.com</title>
+          </bookmark>
+        </folder>
         <bookmark href="https://manything.com/index.html" id="562">
           <title>Manything | iOS Security Cam</title>
         </bookmark>
@@ -585,9 +597,6 @@
     </folder>
     <bookmark href="https://www.accountkiller.com/en" id="21">
       <title>Account Killer</title>
-    </bookmark>
-    <bookmark href="https://www.byjusfutureschool.com/" id="931">
-      <title>BYJU&apos;S FutureSchool| Live Online Coding for Kids</title>
     </bookmark>
   </folder>
   <folder id="8">
@@ -1460,6 +1469,9 @@
         <bookmark href="https://www.facebook.com/manyhelpinghandsirving" id="536">
           <title>MHH Facebook</title>
         </bookmark>
+        <bookmark href="https://pcocheck-ins.zendesk.com/hc/en-us" id="950">
+          <title>Support | Check-Ins</title>
+        </bookmark>
       </folder>
       <bookmark href="https://support.planningcenteronline.com/hc/en-us" id="380">
         <title>Planning Center Support</title>
@@ -1521,7 +1533,7 @@
     </bookmark>
   </folder>
   <folder id="53">
-    <title>TechBytes</title>
+    <title>TechBox</title>
     <folder id="201">
       <title>AI Tools</title>
       <bookmark href="https://chatgpt.com/" id="389">
@@ -1544,6 +1556,15 @@
       </bookmark>
       <bookmark href="https://spinbot.com/" id="395">
         <title>SpinBot | Text Rewriting</title>
+      </bookmark>
+    </folder>
+    <folder id="952">
+      <title>Internet</title>
+      <bookmark href="http://192.168.12.1/home" id="901">
+        <title>T-Mobile Gateway: Status</title>
+      </bookmark>
+      <bookmark href="http://tendawifi.com/main.html" id="956">
+        <title>tendawifi.com</title>
       </bookmark>
     </folder>
     <folder id="202">
@@ -1721,6 +1742,9 @@
       </bookmark>
       <bookmark href="https://dban.org/" id="916">
         <title>Data Removal | DBAN</title>
+      </bookmark>
+      <bookmark href="https://cobalt.tools/" id="951">
+        <title>Cobalt | Strip and Download videos from websites </title>
       </bookmark>
     </folder>
   </folder>
@@ -2598,17 +2622,14 @@
     <title>Shopping Cart</title>
     <folder id="836">
       <title>Cart</title>
-      <bookmark href="https://get-guardianmonitor.com/v8/checkout?b=357&amp;funnel=hcvr&amp;downsell=2&amp;v12_0=1&amp;eaprice=1&amp;offer=70off&amp;region=us&amp;pub_id=598&amp;oid=320&amp;transaction_id=274344a2ea0a41dfb0923996a1bc2956&amp;gclid=&amp;msclkid=&amp;uid=4195&amp;affid=598&amp;sub5=GqdJcleiWu7Q6HapT1fFVnA5Bqvayz34jV" id="927">
-        <title>Guardian Monitor Security Camera</title>
-      </bookmark>
-      <bookmark href="https://www.costco.com/.product.4000287892.html?EMID=B2C_2024_1118_pre-tday_USE&amp;correlationId=9224f6fe-d9b3-4a81-a794-3a5d1f3ed07e-0" id="920">
-        <title>LG 34&quot; Curved Ultrawide WQHD MyView Smart Monitor - 3440 x 1440 | Costco</title>
-      </bookmark>
       <bookmark href="https://www.costco.com/lg-55-class---ur8000-series---4k-uhd-led-lcd-tv.product.4000153791.html" id="922">
         <title>LG 55&quot; Class - UR8000 Series - 4K UHD LED LCD TV | Costco</title>
       </bookmark>
       <bookmark href="https://www.wayfair.com/furniture/pdp/haworth-fern-digital-knit-task-chair-gcfk1010.html?piid=72023967%2C91925234" id="904">
         <title>Haworth Fern Digital Knit Chair | Wayfair</title>
+      </bookmark>
+      <bookmark href="https://30secondsmile.com/collections/30-second-smile-toothbrushestoothbrushes" id="953">
+        <title>30 Second Smile Electric Rechargeable Toothbrushes</title>
       </bookmark>
     </folder>
     <folder id="837">
