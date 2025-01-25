@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :957: for Floccus bookmark sync browser extension -->
+<!--- highestId :960: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2630,6 +2630,15 @@
       </bookmark>
       <bookmark href="https://www.wayfair.com/furniture/pdp/inbox-zero-600lbs-large-heavy-duty-office-chair-with-5d-flip-arms-big-and-tall-office-chair-with-pocket-spring-cushion-extra-wide-office-chair-with-adjustable-lumbar-supportdual-rubber-wheel-w112208890.html" id="957">
         <title>Inbox Zero 600LBS Large Heavy Duty Office Chair With 5D Flip Arms, Big And Tall Office Chair With Pocket Spring Cushion, Extra Wide Office Chair With Adjustable Lumbar Support,Dual Rubber Wheel | Wayfair</title>
+      </bookmark>
+      <bookmark href="https://www.wayfair.com/furniture/pdp/canora-grey-maurica-big-and-tall-office-chair-500lbs-adjustable-lumbar-support-and-3d-padded-armrest-w111550581.html?piid=428077885" id="958">
+        <title>Canora Grey Maurica Big And Tall Office Chair 500LBS ,Adjustable Lumbar Support and 3D Padded Armrest &amp; Reviews | Wayfair</title>
+      </bookmark>
+      <bookmark href="https://www.wayfair.com/furniture/pdp/the-twillery-co-marisol-high-back-ergonomic-executive-chair-w003379606.html?piid=275863868&amp;auctionId=3a9f593f-9533-49c8-bc3c-a23871b662fc&amp;adTypeId=1" id="959">
+        <title>The Twillery Co.® Marisol High Back Ergonomic Executive Chair &amp; Reviews | Wayfair</title>
+      </bookmark>
+      <bookmark href="https://www.wayfair.com/furniture/pdp/inbox-zero-big-and-tall-fabric-ergonomic-office-chair-with-adjustable-armrest-and-lumbar-support-w112397516.html?piid=909588964" id="960">
+        <title>Inbox Zero Big And Tall Fabric Ergonomic Office Chair With Adjustable Armrest And Lumbar Support &amp; Reviews | Wayfair</title>
       </bookmark>
     </folder>
     <folder id="837">
