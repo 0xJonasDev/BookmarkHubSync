@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :960: for Floccus bookmark sync browser extension -->
+<!--- highestId :961: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2639,6 +2639,9 @@
       </bookmark>
       <bookmark href="https://www.wayfair.com/furniture/pdp/inbox-zero-big-and-tall-fabric-ergonomic-office-chair-with-adjustable-armrest-and-lumbar-support-w112397516.html?piid=909588964" id="960">
         <title>Inbox Zero Big And Tall Fabric Ergonomic Office Chair With Adjustable Armrest And Lumbar Support &amp; Reviews | Wayfair</title>
+      </bookmark>
+      <bookmark href="https://www.sharkclean.com/products/shark-carpetxpert-hairpro-with-stainstriker-zidEX322UPG2" id="961">
+        <title>Shark® CarpetXpert™ HairPro® Pet | Pet Carpet Cleaner</title>
       </bookmark>
     </folder>
     <folder id="837">
