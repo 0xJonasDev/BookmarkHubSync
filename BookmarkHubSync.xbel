@@ -17,9 +17,12 @@
   <bookmark href="https://www.icloud.com/" id="5">
     <title>iCloud</title>
   </bookmark>
-  <bookmark href="http://www.youtube.com/" id="6">
-    <title>YouTube</title>
-  </bookmark>
+  <folder id="963">
+    <title>Quick Links</title>
+    <bookmark href="http://www.youtube.com/" id="6">
+      <title>YouTube</title>
+    </bookmark>
+  </folder>
   <folder id="7">
     <title>Accounts</title>
     <folder id="14">
@@ -2791,9 +2794,6 @@
     <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
       <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
     </bookmark>
-  </folder>
-  <folder id="963">
-    <title>Quick Links</title>
   </folder>
 </folder>
 <folder id="2">
