@@ -5,20 +5,20 @@
 
 <folder id="1">
   <title>Bookmarks Bar</title>
-  <bookmark href="https://www.google.com/" id="3">
-    <title>Google</title>
-  </bookmark>
-  <bookmark href="https://www.google.com/maps?authuser=0" id="4">
-    <title>Google Maps</title>
-  </bookmark>
-  <bookmark href="https://www.google.com/travel/flights?tcfs&amp;ved=2ahUKEwjcyIizqtGJAxUJEvkAHWzBIWYQyJABegQIABAG&amp;ictx=2" id="902">
-    <title>Google Flights</title>
-  </bookmark>
-  <bookmark href="https://www.icloud.com/" id="5">
-    <title>iCloud</title>
-  </bookmark>
   <folder id="963">
     <title>Quick Links</title>
+    <bookmark href="https://www.google.com/" id="3">
+      <title>Google</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/maps?authuser=0" id="4">
+      <title>Google Maps</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/travel/flights?tcfs&amp;ved=2ahUKEwjcyIizqtGJAxUJEvkAHWzBIWYQyJABegQIABAG&amp;ictx=2" id="902">
+      <title>Google Flights</title>
+    </bookmark>
+    <bookmark href="https://www.icloud.com/" id="5">
+      <title>iCloud</title>
+    </bookmark>
     <bookmark href="http://www.youtube.com/" id="6">
       <title>YouTube</title>
     </bookmark>
