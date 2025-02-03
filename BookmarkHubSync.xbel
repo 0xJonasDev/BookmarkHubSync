@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :962: for Floccus bookmark sync browser extension -->
+<!--- highestId :963: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2791,6 +2791,9 @@
     <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
       <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
     </bookmark>
+  </folder>
+  <folder id="963">
+    <title>Quick Links</title>
   </folder>
 </folder>
 <folder id="2">
