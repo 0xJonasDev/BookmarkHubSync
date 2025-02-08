@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :963: for Floccus bookmark sync browser extension -->
+<!--- highestId :970: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -270,60 +270,75 @@
     </folder>
     <folder id="18">
       <title>Health</title>
+      <folder id="964">
+        <title>Medical</title>
+        <bookmark href="https://genuineessiac.com/" id="937">
+          <title>Genuine Organic Essiac Tea</title>
+        </bookmark>
+        <bookmark href="https://mychart.parklandhealth.org/MyChart/Authentication/Login?action=logout" id="77">
+          <title>MyChart | Parkland</title>
+        </bookmark>
+        <bookmark href="https://mychart.minuteclinic.com/MyChartPRD/Authentication/Login?action=logout" id="78">
+          <title>MyChart | Minute Clinic</title>
+        </bookmark>
+        <bookmark href="https://mycw115.ecwcloud.com/portal15907/jsp/100mp/login_otp.jsp" id="80">
+          <title>Healthcare Associates of Texas</title>
+        </bookmark>
+        <bookmark href="https://tddctx.mygportal.com/PP6-1-10/Account/LogOn" id="82">
+          <title>GI Alliance</title>
+        </bookmark>
+        <bookmark href="https://myhealthone.com/mh1/public/mh1/Login/#/login-form" id="83">
+          <title>MyHealthOne</title>
+        </bookmark>
+        <bookmark href="https://envision.simpleepay.com/app/login" id="84">
+          <title>Envision | Simpleepay</title>
+        </bookmark>
+        <bookmark href="https://hca.epayhealthcare.com/EPAY_PATIENT/#/user-login/F283B60F-41EF-4248-88F6-C32CEE3650A3" id="85">
+          <title>ePay Patient Portal</title>
+        </bookmark>
+      </folder>
+      <folder id="965">
+        <title>Optical</title>
+        <bookmark href="https://www.1800contacts.com/" id="86">
+          <title>1-800 CONTACTS</title>
+        </bookmark>
+        <bookmark href="https://www.discountcontacts.com/login" id="459">
+          <title>Discount Contacts</title>
+        </bookmark>
+      </folder>
+      <folder id="966">
+        <title>Mental Health</title>
+        <bookmark href="https://anticipatejoy.com/about/" id="461">
+          <title>Anticipate Joy | Online Counseling and Therapy</title>
+        </bookmark>
+        <bookmark href="http://newpathwaystx.com/" id="462">
+          <title>New Pathways Counseling</title>
+        </bookmark>
+        <bookmark href="https://calmind.co.uk/" id="929">
+          <title>Calm Mind Coaching | Benneth Anyasodo</title>
+        </bookmark>
+        <bookmark href="https://stresscenter.com/" id="460">
+          <title>Midwest Center | Stress &amp; Anxiety</title>
+        </bookmark>
+        <bookmark href="https://www.rosebud.app/" id="970">
+          <title>Rosebud: Best Online Journal for Mental Health</title>
+        </bookmark>
+      </folder>
+      <folder id="967">
+        <title>Health Insurance</title>
+        <bookmark href="https://members.hcsc.net/wps/portal/bam" id="79">
+          <title>Blue Cross Blue Shield - Login</title>
+        </bookmark>
+        <bookmark href="https://www.asmeinsurance.com/" id="81">
+          <title>ASME | Insurance</title>
+        </bookmark>
+      </folder>
       <folder id="945">
         <title>Health Articles</title>
         <bookmark href="https://openurologyandnephrologyjournal.com/VOLUME/2/PAGE/20/FULLTEXT/" id="942">
           <title>Evaluation of an At-Home-Use Prostate Massage Device for Men with Lower Urinary Tract Symptoms</title>
         </bookmark>
       </folder>
-      <bookmark href="https://mychart.parklandhealth.org/MyChart/Authentication/Login?action=logout" id="77">
-        <title>MyChart | Parkland</title>
-      </bookmark>
-      <bookmark href="https://mychart.minuteclinic.com/MyChartPRD/Authentication/Login?action=logout" id="78">
-        <title>MyChart | Minute Clinic</title>
-      </bookmark>
-      <bookmark href="https://members.hcsc.net/wps/portal/bam" id="79">
-        <title>Blue Cross Blue Shield - Login</title>
-      </bookmark>
-      <bookmark href="https://mycw115.ecwcloud.com/portal15907/jsp/100mp/login_otp.jsp" id="80">
-        <title>Healthcare Associates of Texas</title>
-      </bookmark>
-      <bookmark href="https://www.asmeinsurance.com/" id="81">
-        <title>ASME | Insurance</title>
-      </bookmark>
-      <bookmark href="https://tddctx.mygportal.com/PP6-1-10/Account/LogOn" id="82">
-        <title>GI Alliance</title>
-      </bookmark>
-      <bookmark href="https://myhealthone.com/mh1/public/mh1/Login/#/login-form" id="83">
-        <title>MyHealthOne</title>
-      </bookmark>
-      <bookmark href="https://envision.simpleepay.com/app/login" id="84">
-        <title>Envision | Simpleepay</title>
-      </bookmark>
-      <bookmark href="https://hca.epayhealthcare.com/EPAY_PATIENT/#/user-login/F283B60F-41EF-4248-88F6-C32CEE3650A3" id="85">
-        <title>ePay Patient Portal</title>
-      </bookmark>
-      <bookmark href="https://www.1800contacts.com/" id="86">
-        <title>1-800 CONTACTS</title>
-      </bookmark>
-      <bookmark href="https://www.discountcontacts.com/login" id="459">
-        <title>Discount Contacts</title>
-      </bookmark>
-      <bookmark href="https://stresscenter.com/" id="460">
-        <title>Midwest Center | Stress &amp; Anxiety</title>
-      </bookmark>
-      <bookmark href="https://anticipatejoy.com/about/" id="461">
-        <title>Anticipate Joy | Online Counseling and Therapy</title>
-      </bookmark>
-      <bookmark href="http://newpathwaystx.com/" id="462">
-        <title>New Pathways Counseling</title>
-      </bookmark>
-      <bookmark href="https://calmind.co.uk/" id="929">
-        <title>Calm Mind Coaching | Benneth Anyasodo</title>
-      </bookmark>
-      <bookmark href="https://genuineessiac.com/" id="937">
-        <title>Genuine Organic Essiac Tea</title>
-      </bookmark>
     </folder>
     <folder id="19">
       <title>Travel</title>
@@ -1587,14 +1602,14 @@
       <bookmark href="https://labs.google.com/search" id="399">
         <title>Google Search Labs</title>
       </bookmark>
-      <bookmark href="https://richontech.notion.site/ec3f335cb98d464195a73bfc02c6a74c?v=32e76fc848eb42679cc48053d2b547e0" id="400">
-        <title>Rich on Tech Show Notes</title>
-      </bookmark>
-      <bookmark href="https://www.antennasdirect.com/transmitter-locator.html?zip=85706" id="401">
-        <title>Antennas Direct | TV Transmitter Locator and Mapping Tool</title>
+      <bookmark href="https://richontech.tv/t/radio-show" id="968">
+        <title>Rich on Tech | Show Notes</title>
       </bookmark>
       <bookmark href="https://richontech.notion.site/98-November-16-2024-13fe1097111780a99130de213d301a2f" id="912">
         <title>Notable RichOnTech Links</title>
+      </bookmark>
+      <bookmark href="https://www.antennasdirect.com/transmitter-locator.html?zip=85706" id="401">
+        <title>Antennas Direct | TV Transmitter Locator and Mapping Tool</title>
       </bookmark>
     </folder>
     <folder id="204">
@@ -2624,6 +2639,39 @@
       <title>Sleep With Me | The Podcast That Puts You To Sleep</title>
     </bookmark>
   </folder>
+  <folder id="886">
+    <title>Watch List</title>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x76d3142ac9891aa69bdb1a96eabb907561596ad3" id="887">
+      <title>DINU $0.0000000153 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b" id="888">
+      <title>HOKK $0.00000000109 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0" id="889">
+      <title>BabyDoge $0.00000000186 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x82d86b481f8d9d01c6ad3d979a7b4c36e5d397d5" id="890">
+      <title>SWAPZ $0.09190356 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc5e1b7e86a63d23a88b85a0fe00772f058a4dcc4" id="891">
+      <title>BabyShibaInu $0.0000000391 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xbaa97c0135e483b5d3c1c948a9e769f86b80aa95" id="892">
+      <title>SPACECUM $0.00000001282 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xa1706250473b6359095a3d8b0a674c137f065725" id="893">
+      <title>SHIBM $0.00243626 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x2bda4ea90dae215f8417477182631249eb8f929a" id="894">
+      <title>UPSHIB $0.0000000000854 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x1c6faf9ad252390ee5e6f0b2f8d2fc927a8eb4e6" id="895">
+      <title>CoShi $0.00000000543 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
+      <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
+    </bookmark>
+  </folder>
   <folder id="814">
     <title>Shopping Cart</title>
     <folder id="836">
@@ -2637,14 +2685,11 @@
       <bookmark href="https://www.sharkclean.com/products/shark-carpetxpert-hairpro-with-stainstriker-zidEX322UPG2" id="961">
         <title>Shark® CarpetXpert™ HairPro® Pet | Pet Carpet Cleaner</title>
       </bookmark>
-      <bookmark href="https://www.wayfair.com/furniture/pdp/inbox-zero-big-and-tall-fabric-ergonomic-office-chair-with-adjustable-armrest-and-lumbar-support-w112397516.html?piid=909588964" id="960">
-        <title>Inbox Zero Big And Tall Fabric Ergonomic Office Chair With Adjustable Armrest And Lumbar Support &amp; Reviews | Wayfair</title>
-      </bookmark>
       <bookmark href="https://www.wayfair.com/furniture/pdp/inbox-zero-600lbs-large-heavy-duty-office-chair-with-5d-flip-arms-big-and-tall-office-chair-with-pocket-spring-cushion-extra-wide-office-chair-with-adjustable-lumbar-supportdual-rubber-wheel-w112208890.html" id="957">
         <title>Inbox Zero 600LBS Large Heavy Duty Office Chair With 5D Flip Arms, Big And Tall Office Chair With Pocket Spring Cushion, Extra Wide Office Chair With Adjustable Lumbar Support,Dual Rubber Wheel | Wayfair</title>
       </bookmark>
-      <bookmark href="https://www.wayfair.com/furniture/pdp/the-twillery-co-marisol-high-back-ergonomic-executive-chair-w003379606.html?piid=275863868&amp;auctionId=3a9f593f-9533-49c8-bc3c-a23871b662fc&amp;adTypeId=1" id="959">
-        <title>The Twillery Co.® Marisol High Back Ergonomic Executive Chair &amp; Reviews | Wayfair</title>
+      <bookmark href="https://www.wayfair.com/furniture/pdp/latitude-run-saterfiel-500lbs-big-and-tall-fabric-office-chair-executive-ergonomic-desk-chair-with-adjustable-flip-up-arms-w110054318.html?piid=1057669990" id="969">
+        <title>Latitude Run® Saterfiel 500lbs Big and Tall Fabric Office Chair Executive Ergonomic Desk Chair with adjustable Flip Up Arms &amp; Reviews | Wayfair</title>
       </bookmark>
     </folder>
     <folder id="837">
@@ -2761,39 +2806,6 @@
         <title>Tanners Alaskan Seafood 100% Fresh, Wild, Shipped Overnight</title>
       </bookmark>
     </folder>
-  </folder>
-  <folder id="886">
-    <title>Watch List</title>
-    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x76d3142ac9891aa69bdb1a96eabb907561596ad3" id="887">
-      <title>DINU $0.0000000153 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b" id="888">
-      <title>HOKK $0.00000000109 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0" id="889">
-      <title>BabyDoge $0.00000000186 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x82d86b481f8d9d01c6ad3d979a7b4c36e5d397d5" id="890">
-      <title>SWAPZ $0.09190356 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc5e1b7e86a63d23a88b85a0fe00772f058a4dcc4" id="891">
-      <title>BabyShibaInu $0.0000000391 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xbaa97c0135e483b5d3c1c948a9e769f86b80aa95" id="892">
-      <title>SPACECUM $0.00000001282 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xa1706250473b6359095a3d8b0a674c137f065725" id="893">
-      <title>SHIBM $0.00243626 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x2bda4ea90dae215f8417477182631249eb8f929a" id="894">
-      <title>UPSHIB $0.0000000000854 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x1c6faf9ad252390ee5e6f0b2f8d2fc927a8eb4e6" id="895">
-      <title>CoShi $0.00000000543 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
-      <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
-    </bookmark>
   </folder>
 </folder>
 <folder id="2">
