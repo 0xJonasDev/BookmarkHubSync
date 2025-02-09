@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :970: for Floccus bookmark sync browser extension -->
+<!--- highestId :971: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1610,6 +1610,9 @@
       </bookmark>
       <bookmark href="https://www.antennasdirect.com/transmitter-locator.html?zip=85706" id="401">
         <title>Antennas Direct | TV Transmitter Locator and Mapping Tool</title>
+      </bookmark>
+      <bookmark href="https://pcmanager.microsoft.com/en-us" id="971">
+        <title>Cleanup PC, protection for your computer | Microsoft PC Manager</title>
       </bookmark>
     </folder>
     <folder id="204">
