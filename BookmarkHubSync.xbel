@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :975: for Floccus bookmark sync browser extension -->
+<!--- highestId :1003: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -24,6 +24,9 @@
     </bookmark>
     <bookmark href="https://chatgpt.com/" id="389">
       <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&amp;ia=chat&amp;duckai=1" id="976">
+      <title>Duck.ai</title>
     </bookmark>
   </folder>
   <folder id="7">
@@ -553,6 +556,12 @@
         </bookmark>
         <bookmark href="https://www.statefarm.com/simple-insights/auto-and-vehicles/calculate-your-vehicle-depreciation" id="933">
           <title>Car Depreciation Calculator | State Farm</title>
+        </bookmark>
+        <bookmark href="https://www.rockauto.com/" id="977">
+          <title>RockAuto | Auo Parts</title>
+        </bookmark>
+        <bookmark href="https://www.rockauto.com/en/catalog/nissan,2007,maxima,3.5l+v6,1433470" id="978">
+          <title>2007 NISSAN MAXIMA 3.5L V6 | RockAuto</title>
         </bookmark>
       </folder>
       <bookmark href="http://www.amazon.com/" id="92">
@@ -1581,6 +1590,18 @@
       <bookmark href="https://www.scam.ai/" id="975">
         <title>Scam AI - AI-Powered Deepfake &amp; Voice Clone Detection Platform</title>
       </bookmark>
+      <bookmark href="https://whispermemos.com/" id="979">
+        <title>Whisper Memos</title>
+      </bookmark>
+      <bookmark href="https://www.descript.com/?redirect=false" id="980">
+        <title>Descript | AI Video Editor</title>
+      </bookmark>
+      <bookmark href="https://otter.ai/" id="981">
+        <title>Otter.ai - AI Meeting Note Taker</title>
+      </bookmark>
+      <bookmark href="https://goodsnooze.gumroad.com/l/macwhisper" id="982">
+        <title>MacWhisper | Audio transcript for Mac</title>
+      </bookmark>
     </folder>
     <folder id="952">
       <title>Internet</title>
@@ -1659,6 +1680,9 @@
     </folder>
     <folder id="205">
       <title>Stealth Tools</title>
+      <bookmark href="https://www.brickhousesecurity.com/" id="850">
+        <title>Stealth Gadgets | Brickhouse Security</title>
+      </bookmark>
       <bookmark href="https://www.fakenamegenerator.com/" id="416">
         <title>Fake Name Generator</title>
       </bookmark>
@@ -1781,6 +1805,27 @@
       </bookmark>
       <bookmark href="https://popl.co/" id="974">
         <title>Digital Business Card | Popl</title>
+      </bookmark>
+      <bookmark href="https://www.simo.co/devices-plans" id="983">
+        <title>5G Hotspot Devices | SIMO</title>
+      </bookmark>
+      <bookmark href="https://www.ubreakifix.com/?_gl=1*1x7hxlr*_ga*MTg4NTE0NjQ2LjE3NDE0OTk2Mjg.*_ga_SX5YMP8RZ9*MTc0MTQ5OTYyOC4xLjEuMTc0MTUwMDQ5Mi4wLjAuMA.." id="984">
+        <title>uBreakiFix | Gadget repairs</title>
+      </bookmark>
+      <bookmark href="https://eero.com/" id="985">
+        <title>Eero | Wifi Extender  </title>
+      </bookmark>
+      <bookmark href="https://www.tp-link.com/us/deco-mesh-wifi/product-family/deco-x50-outdoor/" id="986">
+        <title>TP-Link | Deco X50-Outdoor WiFi Extender</title>
+      </bookmark>
+      <bookmark href="https://onlinetools.com/" id="987">
+        <title>Online Tools</title>
+      </bookmark>
+      <bookmark href="https://softorino.com/waltr" id="988">
+        <title>WALTR PRO | Transfer ANY File into Your iPhone</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces/Xenova/whisper-web" id="989">
+        <title>Whisper Web | Speech recognition</title>
       </bookmark>
     </folder>
   </folder>
@@ -2654,61 +2699,34 @@
       <title>Sleep With Me | The Podcast That Puts You To Sleep</title>
     </bookmark>
   </folder>
-  <folder id="886">
-    <title>Watch List</title>
-    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x76d3142ac9891aa69bdb1a96eabb907561596ad3" id="887">
-      <title>DINU $0.0000000153 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b" id="888">
-      <title>HOKK $0.00000000109 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0" id="889">
-      <title>BabyDoge $0.00000000186 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x82d86b481f8d9d01c6ad3d979a7b4c36e5d397d5" id="890">
-      <title>SWAPZ $0.09190356 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc5e1b7e86a63d23a88b85a0fe00772f058a4dcc4" id="891">
-      <title>BabyShibaInu $0.0000000391 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xbaa97c0135e483b5d3c1c948a9e769f86b80aa95" id="892">
-      <title>SPACECUM $0.00000001282 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xa1706250473b6359095a3d8b0a674c137f065725" id="893">
-      <title>SHIBM $0.00243626 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x2bda4ea90dae215f8417477182631249eb8f929a" id="894">
-      <title>UPSHIB $0.0000000000854 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x1c6faf9ad252390ee5e6f0b2f8d2fc927a8eb4e6" id="895">
-      <title>CoShi $0.00000000543 - Pair Explorer - DEXTools</title>
-    </bookmark>
-    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
-      <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
-    </bookmark>
-  </folder>
   <folder id="814">
     <title>Shopping Cart</title>
     <folder id="836">
       <title>Cart</title>
-      <bookmark href="https://www.costco.com/lg-55-class---ur8000-series---4k-uhd-led-lcd-tv.product.4000153791.html" id="922">
-        <title>LG 55&quot; Class - UR8000 Series - 4K UHD LED LCD TV | Costco</title>
+      <bookmark href="https://redefinedrevenue.co/anthonyoneal" id="990">
+        <title>Redefined Revenue Tax Services</title>
       </bookmark>
       <bookmark href="https://30secondsmile.com/collections/30-second-smile-toothbrushestoothbrushes" id="953">
         <title>30 Second Smile Electric Rechargeable Toothbrushes</title>
       </bookmark>
-      <bookmark href="https://www.sharkclean.com/products/shark-carpetxpert-hairpro-with-stainstriker-zidEX322UPG2" id="961">
-        <title>Shark® CarpetXpert™ HairPro® Pet | Pet Carpet Cleaner</title>
+      <bookmark href="https://neurogum.com/" id="991">
+        <title>Neuro Functional Gum and Mints</title>
       </bookmark>
-      <bookmark href="https://www.wayfair.com/furniture/pdp/inbox-zero-600lbs-large-heavy-duty-office-chair-with-5d-flip-arms-big-and-tall-office-chair-with-pocket-spring-cushion-extra-wide-office-chair-with-adjustable-lumbar-supportdual-rubber-wheel-w112208890.html" id="957">
-        <title>Inbox Zero 600LBS Large Heavy Duty Office Chair With 5D Flip Arms, Big And Tall Office Chair With Pocket Spring Cushion, Extra Wide Office Chair With Adjustable Lumbar Support,Dual Rubber Wheel | Wayfair</title>
-      </bookmark>
-      <bookmark href="https://www.wayfair.com/furniture/pdp/latitude-run-saterfiel-500lbs-big-and-tall-fabric-office-chair-executive-ergonomic-desk-chair-with-adjustable-flip-up-arms-w110054318.html?piid=1057669990" id="969">
-        <title>Latitude Run® Saterfiel 500lbs Big and Tall Fabric Office Chair Executive Ergonomic Desk Chair with adjustable Flip Up Arms &amp; Reviews | Wayfair</title>
+      <bookmark href="https://vivotune.com/" id="992">
+        <title>VivoTune Indoor Antenna</title>
       </bookmark>
     </folder>
     <folder id="837">
       <title>Catalogue</title>
+      <bookmark href="https://qatteeey.com/products/16067780825391164773543965" id="993">
+        <title>Mini wireless camera, 4K HD</title>
+      </bookmark>
+      <bookmark href="https://wearprimelifts.com/" id="994">
+        <title>Prime Lifts Shoe Inserts</title>
+      </bookmark>
+      <bookmark href="https://tiveariohome.com/" id="995">
+        <title>Tiveario Lamps</title>
+      </bookmark>
       <bookmark href="https://www.walmart.com/cart?irgwc=1&amp;im_rewards=1&amp;veh=aff&amp;wmlspartner=imp_101044&amp;affiliates_ad_id=565706&amp;campaign_id=9383&amp;sharedid=&amp;clickid=0tGVTcUNIxyPW04w6F2k0XJEUkFXuKWJ3WUUW80&amp;sourceid=imp_0tGVTcUNIxyPW04w6F2k0XJEUkFXuKWJ3WUUW80" id="840">
         <title>Sven &amp; Sons Adj Bed Frame | Walmart</title>
       </bookmark>
@@ -2720,9 +2738,6 @@
       </bookmark>
       <bookmark href="https://www.bollandbranch.com/" id="849">
         <title>Boll &amp; Branch | Beddings</title>
-      </bookmark>
-      <bookmark href="https://www.brickhousesecurity.com/" id="850">
-        <title>Stealth Gadgets | Brickhouse Security</title>
       </bookmark>
       <bookmark href="https://formlabs.com/" id="851">
         <title>Formlabs | High Resolution SLA and SLS 3D Printers</title>
@@ -2784,6 +2799,30 @@
       <bookmark href="https://getplungeblaster.com/pre4/?affId=nva&amp;uid=1432&amp;c2=347&amp;c1=61&amp;unit=1&amp;sub2=wef6uqt5fap79fu5j2mie852" id="926">
         <title>Drain Unclogger</title>
       </bookmark>
+      <bookmark href="https://www.amazon.com/stores/REOLINK/page/B784D018-24F0-4E09-8096-50DF268848A0?&amp;linkCode=sl2&amp;tag=rot02-20&amp;linkId=1bfcf5247b08a52fc704817fc31d9b26&amp;language=en_US&amp;ref_=as_li_ss_tl" id="996">
+        <title>REOLINK: Cellular Cameras</title>
+      </bookmark>
+      <bookmark href="https://www.eufy.com/collections/cellular-security-camera" id="997">
+        <title>Eufy Cellular Security Cameras | 4G Security Camera</title>
+      </bookmark>
+      <bookmark href="https://humehealth.com/" id="998">
+        <title>Hume Scale | Better Metabolic Health</title>
+      </bookmark>
+      <bookmark href="https://www.itoolmax.com/products/all-in-one-pressurized-steam-cleaner" id="999">
+        <title>2500W High Pressure Steam Cleaner – itoolmax</title>
+      </bookmark>
+      <bookmark href="https://offer.myhoneyandpine.com/products/ai-powered-bluetooth-translation-earbuds?_pos=5&amp;_sid=1c46676a4&amp;_ss=r&amp;refresh=true" id="1000">
+        <title>AI-Powered Bluetooth Translation Earbuds</title>
+      </bookmark>
+      <bookmark href="https://vividstormscreen.com/" id="1001">
+        <title>VIVIDSTORM Projector Screen</title>
+      </bookmark>
+      <bookmark href="https://thepillowhome.com/products/cozyrest-ergonomic-neck-pillow" id="1002">
+        <title>CozyRest Memory Foam Neck Pillow – The Pillow Home</title>
+      </bookmark>
+      <bookmark href="https://shop.ancientremedies.com/" id="1003">
+        <title>Ancient Remedies Revived</title>
+      </bookmark>
     </folder>
     <folder id="838">
       <title>Food</title>
@@ -2821,6 +2860,33 @@
         <title>Tanners Alaskan Seafood 100% Fresh, Wild, Shipped Overnight</title>
       </bookmark>
     </folder>
+  </folder>
+  <folder id="886">
+    <title>Watch List</title>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x76d3142ac9891aa69bdb1a96eabb907561596ad3" id="887">
+      <title>DINU $0.0000000153 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b" id="888">
+      <title>HOKK $0.00000000109 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc736ca3d9b1e90af4230bd8f9626528b3d4e0ee0" id="889">
+      <title>BabyDoge $0.00000000186 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x82d86b481f8d9d01c6ad3d979a7b4c36e5d397d5" id="890">
+      <title>SWAPZ $0.09190356 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0xc5e1b7e86a63d23a88b85a0fe00772f058a4dcc4" id="891">
+      <title>BabyShibaInu $0.0000000391 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x2bda4ea90dae215f8417477182631249eb8f929a" id="894">
+      <title>UPSHIB $0.0000000000854 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/uniswap/pair-explorer/0x1c6faf9ad252390ee5e6f0b2f8d2fc927a8eb4e6" id="895">
+      <title>CoShi $0.00000000543 - Pair Explorer - DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
+      <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="2">
