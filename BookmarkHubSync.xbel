@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1012: for Floccus bookmark sync browser extension -->
+<!--- highestId :1019: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -173,9 +173,6 @@
       </folder>
       <folder id="67">
         <title>Taxes</title>
-        <bookmark href="https://connect.stripe.com/express_login#taxes" id="254">
-          <title>DoorDash Tax Docs | Stripe Express</title>
-        </bookmark>
         <bookmark href="https://www.irs.gov/payments/view-your-tax-account" id="255">
           <title>Internal Revenue Service</title>
         </bookmark>
@@ -184,6 +181,12 @@
         </bookmark>
         <bookmark href="http://www.freetaxusa.com/" id="257">
           <title>FreeTaxUSA</title>
+        </bookmark>
+        <bookmark href="https://redefinedrevenue.co/anthonyoneal" id="990">
+          <title>Redefined Revenue Tax Services</title>
+        </bookmark>
+        <bookmark href="https://connect.stripe.com/express_login#taxes" id="254">
+          <title>DoorDash Tax Docs | Stripe Express</title>
         </bookmark>
       </folder>
       <folder id="68">
@@ -1455,12 +1458,6 @@
       <bookmark href="https://tvlinks.cc/home" id="185">
         <title>TV Links</title>
       </bookmark>
-      <bookmark href="https://www.motionpictures.org/watch-it-legally/?ihs1=6&amp;iho1=d&amp;iht=2&amp;age=0" id="186">
-        <title>Motion Picture Association</title>
-      </bookmark>
-      <bookmark href="https://agoodmovietowatch.com/all/" id="187">
-        <title>Good Movies to Watch</title>
-      </bookmark>
       <bookmark href="https://www.justwatch.com/us" id="188">
         <title>JustWatch</title>
       </bookmark>
@@ -1469,6 +1466,12 @@
       </bookmark>
       <bookmark href="https://www.stream2watch.ws/" id="190">
         <title>Stream2watch</title>
+      </bookmark>
+      <bookmark href="https://agoodmovietowatch.com/all/" id="187">
+        <title>Good Movies to Watch</title>
+      </bookmark>
+      <bookmark href="https://www.motionpictures.org/watch-it-legally/?ihs1=6&amp;iho1=d&amp;iht=2&amp;age=0" id="186">
+        <title>Motion Picture Association</title>
       </bookmark>
     </folder>
     <folder id="934">
@@ -2674,14 +2677,23 @@
         <title>Jim Warren | Art</title>
       </bookmark>
     </folder>
-    <bookmark href="https://bettermoneyhabits.bankofamerica.com/en" id="216">
-      <title>Better Money Habits | Financial Education</title>
-    </bookmark>
     <bookmark href="https://www.isitnormal.com/post/is-it-normal-to-see-the-numbers----or----everywhere-you-go--58661#comments" id="217">
       <title>Is It Normal? | 1111</title>
     </bookmark>
+    <bookmark href="https://finance.yahoo.com/news/basic-rules-for-getting-rich.html" id="222">
+      <title>Basic Rules for Getting Rich</title>
+    </bookmark>
     <bookmark href="https://www.pdfdrive.com/" id="218">
       <title>PDF Drive | Download Free Books</title>
+    </bookmark>
+    <bookmark href="http://www.dps.texas.gov/DriverLicense/driverrecords.htm" id="221">
+      <title>TxDPS | How to Order Driver Records</title>
+    </bookmark>
+    <bookmark href="https://socialskillswisdom.com/" id="651">
+      <title>How to Win Friends And Influence People</title>
+    </bookmark>
+    <bookmark href="https://bettermoneyhabits.bankofamerica.com/en" id="216">
+      <title>Better Money Habits | Financial Education</title>
     </bookmark>
     <bookmark href="https://blog.misumiusa.com/what-defines-high-end-cad/?mkt_tok=eyJpIjoiWWpFek9UWTRPR05oTldRMiIsInQiOiJEa3dkRUpFOEJOQkFyQnM3RW51SDFHeEpzNFZ6ZnI0WkRvVm03c2N3SUxLMUFzdWx6b2ZGQVlpTXZjNUc1ZjdLYkh3VVdKOXcyZitQcmNvVnpVc2ltNUR6bm0wWnV3cVFCN0JOcUZHM3EwU2Fxdlk3WHpxXC9KZmNDekk0ak9FUU4ifQ%3D%3D" id="219">
       <title>What Defines &quot;High-End&quot; CAD? | MISUMI Blog</title>
@@ -2689,26 +2701,14 @@
     <bookmark href="https://blog.misumiusa.com/top-10-reasons-to-love-an-engineer/?mkt_tok=eyJpIjoiWldJek56bGxOMlpsTW1JdyIsInQiOiJTZ3FhNE5qT2haWTV6M1Q2aHk3UW5nS1M0NGlTSnZuZk9hM3NHQ2tidzV3YnlXcnZGdm4yXC9lbmxNYzRqUlNrVkNEeUxuRmIrb0RmOHkzVzg3dlpKdmpGRjBHbGl0S3ZPOExMY1NxUnU4b2dZMDJhZHhZMXlZU3l6V0dyRG1hVHYifQ%3D%3D" id="220">
       <title>Top 10 Reasons to Love an Engineer | MISUMI Blog</title>
     </bookmark>
-    <bookmark href="http://www.dps.texas.gov/DriverLicense/driverrecords.htm" id="221">
-      <title>TxDPS | How to Order Driver Records</title>
-    </bookmark>
-    <bookmark href="https://finance.yahoo.com/news/basic-rules-for-getting-rich.html" id="222">
-      <title>Basic Rules for Getting Rich</title>
-    </bookmark>
     <bookmark href="https://www.youtube.com/watch?time_continue=1847&amp;v=PHe0bXAIuk0&amp;feature=emb_logo" id="223">
       <title>How The Economic Machine Works by Ray Dalio</title>
     </bookmark>
-    <bookmark href="https://www.bennyhinn.org/enewsletter/the-key-to-having-gods-anointing/?utm_source=There%2bis%2ba%2bmajor%2bshift%2bin%2batmosphere%2bcoming%2b&amp;utm_medium=email&amp;utm_campaign=There%2bis%2ba%2bmajor%2bshift%2bin%2batmosphere%2bcoming%2b" id="224">
-      <title>The Key to Having God&apos;s Anointing | Benny Hinn Ministries</title>
-    </bookmark>
-    <bookmark href="https://medium.com/kaizen-habits/39-websites-that-can-make-you-unbelievably-smarter-just-in-10-minutes-a-day-f6e727764519" id="650">
-      <title>39 Websites That Can Make You Unbelievably Smarter Just in 10 Minutes a Day</title>
-    </bookmark>
-    <bookmark href="https://socialskillswisdom.com/" id="651">
-      <title>How to Win Friends And Influence People</title>
-    </bookmark>
     <bookmark href="http://www.sleepwithmepodcast.com/" id="652">
       <title>Sleep With Me | The Podcast That Puts You To Sleep</title>
+    </bookmark>
+    <bookmark href="https://www.bennyhinn.org/enewsletter/the-key-to-having-gods-anointing/?utm_source=There%2bis%2ba%2bmajor%2bshift%2bin%2batmosphere%2bcoming%2b&amp;utm_medium=email&amp;utm_campaign=There%2bis%2ba%2bmajor%2bshift%2bin%2batmosphere%2bcoming%2b" id="224">
+      <title>The Key to Having God&apos;s Anointing | Benny Hinn Ministries</title>
     </bookmark>
   </folder>
   <folder id="886">
@@ -2737,14 +2737,32 @@
     <bookmark href="https://www.dextools.io/app/pancakeswap/pair-explorer/0x31ec8f77a11aa0277948ed5f9b7b1daf23de3fda" id="896">
       <title>TRONPAD $0.10871272 - Pair Explorer - DEXTools</title>
     </bookmark>
+    <bookmark href="https://www.dextools.io/app/en/bnb/pair-explorer/0xa1706250473b6359095a3d8b0a674c137f065725?t=1743490712625" id="1013">
+      <title>SHIBM $0.0000287 USD price today, Shiba Moon live chart, forecast | DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.dextools.io/app/en/bnb/pair-explorer/0x447750c15b2ff823b43d91ceda54127531302ff6?t=1743491036784" id="1014">
+      <title>bYSL $2.120 USD price today, bYSL live chart, forecast | DEXTools</title>
+    </bookmark>
+    <bookmark href="https://www.geckoterminal.com/eth/pools/0xcf6daab95c476106eca715d48de4b13287ffdeaa?utm_campaign=livechart-btn&amp;utm_medium=referral&amp;utm_source=coingecko" id="1015">
+      <title>SHIB $7.53B - $0.00001275 - SHIBA INU Price on Shibaswap | GeckoTerminal</title>
+    </bookmark>
+    <bookmark href="https://www.geckoterminal.com/eth/pools/0x820d30dfb86edef782a0310f0e8f41ce37b82c40?utm_source=coingecko&amp;utm_medium=referral&amp;utm_campaign=searchresults" id="1016">
+      <title>uDOO $25,736.37 - $0.0000368 - uDOO Price on Uniswap V2 | GeckoTerminal</title>
+    </bookmark>
+    <bookmark href="https://www.geckoterminal.com/eth/pools/0xf76b608532ce4dc94a2d6079f7fbcfce6c816916?utm_campaign=livechart-btn&amp;utm_medium=referral&amp;utm_source=coingecko" id="1017">
+      <title>GDT $1.26M - $0.003377 - GDT Price on Uniswap V2 | GeckoTerminal</title>
+    </bookmark>
+    <bookmark href="https://www.geckoterminal.com/bsc/pools/0xc309a6d2f1537922e06f15aa2eb21caa1b2eedb6?utm_campaign=contract_selector&amp;utm_medium=referral&amp;utm_source=coingecko" id="1018">
+      <title>FINE $684K - $0.001365 - Refinable Price on Pancakeswap V2 (BSC) | GeckoTerminal</title>
+    </bookmark>
+    <bookmark href="https://www.geckoterminal.com/arbitrum/pools/0x205422a09453061819abd61978f7f3dd7d673015?utm_campaign=livechart-btn&amp;utm_medium=referral&amp;utm_source=coingecko" id="1019">
+      <title>XNF $9,129.41 - $0.01504 - XNF Price on Uniswap V3 (Arbitrum) with 1% Fee | GeckoTerminal</title>
+    </bookmark>
   </folder>
   <folder id="814">
     <title>Shopping Cart</title>
     <folder id="836">
       <title>Cart</title>
-      <bookmark href="https://redefinedrevenue.co/anthonyoneal" id="990">
-        <title>Redefined Revenue Tax Services</title>
-      </bookmark>
       <bookmark href="https://www.sharkclean.com/sharkus/deals?filters=CategoryNameLevel0%3DShark%252BCatalog%252BUS%26searchfilter_cat%3DCorded%252BVacuums%26productFilter%3Dfallback_searchquerydefinition%26category%3Dsharkus%252Fdeals&amp;page=1#productListing" id="1008">
         <title>Shark®Vacuum</title>
       </bookmark>
@@ -2781,12 +2799,6 @@
       <bookmark href="https://www.bollandbranch.com/" id="849">
         <title>Boll &amp; Branch | Beddings</title>
       </bookmark>
-      <bookmark href="https://formlabs.com/" id="851">
-        <title>Formlabs | High Resolution SLA and SLS 3D Printers</title>
-      </bookmark>
-      <bookmark href="https://www.williams-sonoma.com/?bnrid=3100311&amp;cm_ite=head_logo&amp;tp=i-1NGB-Q2T-1sFP-1cNTgqA-1n-4Mg34-1c-1cNLl2z-l4JE2l8zji-23OGMm&amp;cm_ven=Promo&amp;cm_cat=Prsp&amp;cm_pla=2020-02-27_WSBrand_PRSPBottomHalf&amp;cm_em=01:4BB6AEB1113294EB971964DF062D1A58C9477EE6&amp;dtm_em=8ff31125a50b59083b2bab41ca081237&amp;os_ehash=8ff31125a50b59083b2bab41ca081237&amp;om_mid=446859" id="852">
-        <title>Williams Sonoma | Cookware, Cooking Utensils, Kitchen Decor</title>
-      </bookmark>
       <bookmark href="https://myversattire.com/collections/versattire-shirts/products/the-versatile?variant=18544516931" id="853">
         <title>Versattire | The Versatile Dress Shirt</title>
       </bookmark>
@@ -2810,15 +2822,6 @@
       </bookmark>
       <bookmark href="https://www.hotelcollection.com/collections/scent-diffusers" id="877">
         <title>Scent Diffusers | Hotel Collection</title>
-      </bookmark>
-      <bookmark href="http://get.furniture/living-room/sectional-sofas.html?" id="879">
-        <title>Modern and Contemporary Sectional Sofas | Get.Furniture</title>
-      </bookmark>
-      <bookmark href="https://www.ebay.com/itm/264465773370?chn=ps&amp;mkevt=1&amp;mkcid=28&amp;srsltid=AR57-fDTHtoetyN6PRV6QpkKe-Zz7tX7S83Dd_SPUihwtVOddHGa5aC4isY" id="880">
-        <title>2006-2007 Nissan Nav Map Update DVD North America X7 7.10 GPS | eBay</title>
-      </bookmark>
-      <bookmark href="https://www.gizmogo.com/" id="881">
-        <title>Sell Used Electronics for Top Dollar | Gizmogo</title>
       </bookmark>
       <bookmark href="https://www.wayfair.com/furniture/pdp/ivy-bronx-prescott-rectangular-2-shelf-bar-unit-zpcd2130.html?categoryid=0&amp;placement=14&amp;slot=0&amp;sponsoredid=2fb840a446eb5cd5e2e1be1fb4604529d1db37ad9aadf1977e6ceea3d13e0211&amp;_txid=I%2FcmXGVsLkYv3T72wn%2FHAg%3D%3D&amp;isB2b=0&amp;auctionId=583c5300-3d97-4a7d-a1aa-4ab80210de7a&amp;piid=22165012" id="882">
         <title>Ivy Bronx Prescott Bar Unit | Wayfair</title>
@@ -2844,23 +2847,14 @@
       <bookmark href="https://www.amazon.com/stores/REOLINK/page/B784D018-24F0-4E09-8096-50DF268848A0?&amp;linkCode=sl2&amp;tag=rot02-20&amp;linkId=1bfcf5247b08a52fc704817fc31d9b26&amp;language=en_US&amp;ref_=as_li_ss_tl" id="996">
         <title>REOLINK: Cellular Cameras</title>
       </bookmark>
-      <bookmark href="https://www.eufy.com/collections/cellular-security-camera" id="997">
-        <title>Eufy Cellular Security Cameras | 4G Security Camera</title>
-      </bookmark>
       <bookmark href="https://humehealth.com/" id="998">
         <title>Hume Scale | Better Metabolic Health</title>
-      </bookmark>
-      <bookmark href="https://www.itoolmax.com/products/all-in-one-pressurized-steam-cleaner" id="999">
-        <title>2500W High Pressure Steam Cleaner – itoolmax</title>
       </bookmark>
       <bookmark href="https://offer.myhoneyandpine.com/products/ai-powered-bluetooth-translation-earbuds?_pos=5&amp;_sid=1c46676a4&amp;_ss=r&amp;refresh=true" id="1000">
         <title>AI-Powered Bluetooth Translation Earbuds</title>
       </bookmark>
       <bookmark href="https://vividstormscreen.com/" id="1001">
         <title>VIVIDSTORM Projector Screen</title>
-      </bookmark>
-      <bookmark href="https://thepillowhome.com/products/cozyrest-ergonomic-neck-pillow" id="1002">
-        <title>CozyRest Memory Foam Neck Pillow – The Pillow Home</title>
       </bookmark>
       <bookmark href="https://shop.ancientremedies.com/" id="1003">
         <title>Ancient Remedies Revived</title>
@@ -2873,6 +2867,30 @@
       </bookmark>
       <bookmark href="https://secure.getquietlab.com/checkout-pro?products=481:1;52:1" id="1011">
         <title>QuietLab | Snoring Mouthpiece</title>
+      </bookmark>
+      <bookmark href="https://www.gizmogo.com/" id="881">
+        <title>Sell Used Electronics for Top Dollar | Gizmogo</title>
+      </bookmark>
+      <bookmark href="https://www.itoolmax.com/products/all-in-one-pressurized-steam-cleaner" id="999">
+        <title>2500W High Pressure Steam Cleaner – itoolmax</title>
+      </bookmark>
+      <bookmark href="https://formlabs.com/" id="851">
+        <title>Formlabs | High Resolution SLA and SLS 3D Printers</title>
+      </bookmark>
+      <bookmark href="https://www.eufy.com/collections/cellular-security-camera" id="997">
+        <title>Eufy Cellular Security Cameras | 4G Security Camera</title>
+      </bookmark>
+      <bookmark href="https://thepillowhome.com/products/cozyrest-ergonomic-neck-pillow" id="1002">
+        <title>CozyRest Memory Foam Neck Pillow – The Pillow Home</title>
+      </bookmark>
+      <bookmark href="http://get.furniture/living-room/sectional-sofas.html?" id="879">
+        <title>Modern and Contemporary Sectional Sofas | Get.Furniture</title>
+      </bookmark>
+      <bookmark href="https://www.williams-sonoma.com/?bnrid=3100311&amp;cm_ite=head_logo&amp;tp=i-1NGB-Q2T-1sFP-1cNTgqA-1n-4Mg34-1c-1cNLl2z-l4JE2l8zji-23OGMm&amp;cm_ven=Promo&amp;cm_cat=Prsp&amp;cm_pla=2020-02-27_WSBrand_PRSPBottomHalf&amp;cm_em=01:4BB6AEB1113294EB971964DF062D1A58C9477EE6&amp;dtm_em=8ff31125a50b59083b2bab41ca081237&amp;os_ehash=8ff31125a50b59083b2bab41ca081237&amp;om_mid=446859" id="852">
+        <title>Williams Sonoma | Cookware, Cooking Utensils, Kitchen Decor</title>
+      </bookmark>
+      <bookmark href="https://www.ebay.com/itm/264465773370?chn=ps&amp;mkevt=1&amp;mkcid=28&amp;srsltid=AR57-fDTHtoetyN6PRV6QpkKe-Zz7tX7S83Dd_SPUihwtVOddHGa5aC4isY" id="880">
+        <title>2006-2007 Nissan Nav Map Update DVD North America X7 7.10 GPS | eBay</title>
       </bookmark>
     </folder>
     <folder id="838">
