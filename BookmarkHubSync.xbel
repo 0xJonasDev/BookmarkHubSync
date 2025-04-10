@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1019: for Floccus bookmark sync browser extension -->
+<!--- highestId :1020: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1472,6 +1472,9 @@
       </bookmark>
       <bookmark href="https://www.motionpictures.org/watch-it-legally/?ihs1=6&amp;iho1=d&amp;iht=2&amp;age=0" id="186">
         <title>Motion Picture Association</title>
+      </bookmark>
+      <bookmark href="https://www.amazon.com/Little-Giant-Multi-Use-Ladder-15417-001/dp/B00E1AQED2/ref=asc_df_B00E1AQED2?mcid=74a9c9dcabb13c3681ca66a374c3d8d6&amp;hvocijid=11881341801695301855-B00E1AQED2-&amp;hvexpln=73&amp;tag=hyprod-20&amp;linkCode=df0&amp;hvadid=721245378154&amp;hvpos=&amp;hvnetw=g&amp;hvrand=11881341801695301855&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9060266&amp;hvtargid=pla-2281435181218&amp;th=1" id="1020">
+        <title>Little Giant Ladders, Velocity with Wheels, M17, 17 Ft, Multi-Position Ladder, Aluminum, Type 1A, 300 lbs Weight Rating, (15417-001) - Telescoping Ladders - Amazon.com</title>
       </bookmark>
     </folder>
     <folder id="934">
