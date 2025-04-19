@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1025: for Floccus bookmark sync browser extension -->
+<!--- highestId :1026: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -55,6 +55,9 @@
         <title>Apple</title>
         <bookmark href="https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=20379f32034f8867d352666ff2904d2152d5ff6843ee2db5ab5df863c14b1aef&amp;path=%2F__logged_in%2Freportaproblem.apple.com%2F%3Fs%3D6&amp;authResult=FAILED" id="1025">
           <title>Apple | Purchase History | Request Refund</title>
+        </bookmark>
+        <bookmark href="https://support.apple.com/billing" id="1026">
+          <title>Subscriptions and Billing - Official Apple Support</title>
         </bookmark>
       </folder>
       <bookmark href="https://reg.usps.com/login?app=Payment&amp;appURL=https%3A%2F%2Fpay.usps.com%2Fpayment%2FCheckout_input" id="61">
