@@ -16,9 +16,6 @@
     <bookmark href="https://www.google.com/travel/flights?tcfs&amp;ved=2ahUKEwjcyIizqtGJAxUJEvkAHWzBIWYQyJABegQIABAG&amp;ictx=2" id="902">
       <title>Google Flights</title>
     </bookmark>
-    <bookmark href="https://www.icloud.com/" id="5">
-      <title>iCloud</title>
-    </bookmark>
     <bookmark href="http://www.youtube.com/" id="6">
       <title>YouTube</title>
     </bookmark>
@@ -61,6 +58,9 @@
         </bookmark>
         <bookmark href="https://www.icloud.com/plan/" id="1027">
           <title>Your iCloud Account | Apple Support</title>
+        </bookmark>
+        <bookmark href="https://www.icloud.com/" id="5">
+          <title>iCloud Account</title>
         </bookmark>
       </folder>
       <bookmark href="https://reg.usps.com/login?app=Payment&amp;appURL=https%3A%2F%2Fpay.usps.com%2Fpayment%2FCheckout_input" id="61">
