@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1033: for Floccus bookmark sync browser extension -->
+<!--- highestId :1034: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1718,6 +1718,9 @@
       </bookmark>
       <bookmark href="https://support.microsoft.com/en-us/topic/remove-specific-prevalent-malware-with-windows-malicious-software-removal-tool-kb890830-ba51b71f-39cd-cdec-73eb-61979b0661e0" id="661">
         <title>Windows Malicious Software Removal Tool (KB890830) - Microsoft Support</title>
+      </bookmark>
+      <bookmark href="https://support.apple.com/en-us/102662" id="1034">
+        <title>How to download and install macOS - Apple Support</title>
       </bookmark>
     </folder>
     <folder id="205">
