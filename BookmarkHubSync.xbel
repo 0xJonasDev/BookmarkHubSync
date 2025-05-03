@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1031: for Floccus bookmark sync browser extension -->
+<!--- highestId :1032: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -261,6 +261,9 @@
           <title>Credit Freeze</title>
           <bookmark href="https://www.equifax.com/personal/credit-report-services/credit-freeze" id="1030">
             <title>Security Freeze | Equifax®</title>
+          </bookmark>
+          <bookmark href="https://www.experian.com/help/credit-freeze/" id="1032">
+            <title>Freeze or Unfreeze Your Credit File for Free - Experian</title>
           </bookmark>
         </folder>
       </folder>
