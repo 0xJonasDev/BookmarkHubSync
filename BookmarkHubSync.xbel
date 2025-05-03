@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1030: for Floccus bookmark sync browser extension -->
+<!--- highestId :1031: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -257,6 +257,12 @@
         <bookmark href="https://www.nerdwallet.com/article/finance/how-to-freeze-credit" id="270">
           <title>NerdWallet | How to Freeze Your Credit</title>
         </bookmark>
+        <folder id="1031">
+          <title>Credit Freeze</title>
+          <bookmark href="https://www.equifax.com/personal/credit-report-services/credit-freeze" id="1030">
+            <title>Security Freeze | Freeze or Unfreeze Your Credit | Equifax®</title>
+          </bookmark>
+        </folder>
       </folder>
       <folder id="71">
         <title>Crowd Funding</title>
@@ -2798,9 +2804,6 @@
       </bookmark>
       <bookmark href="https://30secondsmile.com/collections/30-second-smile-toothbrushestoothbrushes" id="953">
         <title>30 Second Smile Electric Rechargeable Toothbrushes</title>
-      </bookmark>
-      <bookmark href="https://www.equifax.com/personal/credit-report-services/credit-freeze" id="1030">
-        <title>Security Freeze | Freeze or Unfreeze Your Credit | Equifax®</title>
       </bookmark>
     </folder>
     <folder id="837">
