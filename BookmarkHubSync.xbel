@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1038: for Floccus bookmark sync browser extension -->
+<!--- highestId :1039: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1886,10 +1886,13 @@
       <title>Troubleshoot</title>
       <folder id="1037">
         <title>HP OfficeJet Pro 9015</title>
+        <bookmark href="https://support.hp.com/us-en/help/printer" id="1038">
+          <title>HP Printer Issues - Diagnose and Solve</title>
+        </bookmark>
+        <bookmark href="https://support.hp.com/us-en/drivers/hp-officejet-pro-9010-all-in-one-printer-series/model/24208582?serialnumber=TH93U460ZR" id="1039">
+          <title>HP OfficeJet Pro 9015 All-in-One Printer Software and Driver Downloads | HP® Support</title>
+        </bookmark>
       </folder>
-      <bookmark href="https://support.hp.com/us-en/help/printer" id="1038">
-        <title>HP Printer Issues - Diagnose and Solve | HP® Support</title>
-      </bookmark>
     </folder>
   </folder>
   <folder id="54">
