@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1037: for Floccus bookmark sync browser extension -->
+<!--- highestId :1038: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1885,8 +1885,11 @@
     <folder id="1036">
       <title>Troubleshoot</title>
       <folder id="1037">
-        <title></title>
+        <title>HP OfficeJet Pro 9015</title>
       </folder>
+      <bookmark href="https://support.hp.com/us-en/help/printer" id="1038">
+        <title>HP Printer Issues - Diagnose and Solve | HP® Support</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="54">
