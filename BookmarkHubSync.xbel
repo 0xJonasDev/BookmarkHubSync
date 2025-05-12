@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1035: for Floccus bookmark sync browser extension -->
+<!--- highestId :1037: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1881,6 +1881,12 @@
       <bookmark href="https://file.pizza/" id="1007">
         <title>FilePizza | Large File Transfer</title>
       </bookmark>
+    </folder>
+    <folder id="1036">
+      <title>Troubleshoot</title>
+      <folder id="1037">
+        <title></title>
+      </folder>
     </folder>
   </folder>
   <folder id="54">
