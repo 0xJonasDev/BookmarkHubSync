@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1042: for Floccus bookmark sync browser extension -->
+<!--- highestId :1043: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -271,6 +271,9 @@
         </bookmark>
         <bookmark href="https://www.nerdwallet.com/article/finance/how-to-freeze-credit" id="270">
           <title>NerdWallet | How to Freeze Your Credit</title>
+        </bookmark>
+        <bookmark href="https://candb.interior.gov.ng/citizenship/dashboard" id="1043">
+          <title>Citizen Dashboard | Citizenship and Business Portal</title>
         </bookmark>
       </folder>
       <folder id="71">
