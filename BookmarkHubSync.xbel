@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1043: for Floccus bookmark sync browser extension -->
+<!--- highestId :1044: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -274,6 +274,9 @@
         </bookmark>
         <bookmark href="https://candb.interior.gov.ng/citizenship/dashboard" id="1043">
           <title>Ministry of Interior Nigeria | Citizen Portal</title>
+        </bookmark>
+        <bookmark href="https://www.walmart.com/shoppingcart?clickid=2-XS8MRykxyKW30WnI1IdyC9UksQ1PRktxSURU0&amp;irgwc=1&amp;sourceid=imp_2-XS8MRykxyKW30WnI1IdyC9UksQ1PRktxSURU0&amp;veh=aff&amp;wmlspartner=imp_78091&amp;affiliates_ad_id=565706&amp;campaign_id=9383&amp;sharedid=" id="1044">
+          <title>walmart.com/shoppingcart?clickid=2-XS8MRykxyKW30WnI1IdyC9UksQ1PRktxSURU0&amp;irgwc=1&amp;sourceid=imp_2-XS8MRykxyKW30WnI1IdyC9UksQ1PRktxSURU0&amp;veh=aff&amp;wmlspartner=imp_78091&amp;affiliates_ad_id=565706&amp;campaign_id=9383&amp;sharedid=</title>
         </bookmark>
       </folder>
       <folder id="71">
