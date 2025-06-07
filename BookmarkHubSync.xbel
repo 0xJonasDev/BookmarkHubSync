@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1047: for Floccus bookmark sync browser extension -->
+<!--- highestId :1048: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2852,6 +2852,9 @@
       </bookmark>
       <bookmark href="https://store.kardia.com/products/kardiamobile6l" id="1047">
         <title>EKG Monitor with 6 Leads | KardiaMobile 6L by AliveCor</title>
+      </bookmark>
+      <bookmark href="https://myactivity.google.com/results-about-you?summary=true&amp;pli=1" id="1048">
+        <title>Results about you</title>
       </bookmark>
     </folder>
     <folder id="837">
