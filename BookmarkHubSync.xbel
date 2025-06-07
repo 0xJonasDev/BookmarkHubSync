@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1045: for Floccus bookmark sync browser extension -->
+<!--- highestId :1046: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1907,6 +1907,9 @@
       </folder>
       <bookmark href="edge://settings/content/cookies/siteData" id="1045">
         <title>Cookies Settings</title>
+      </bookmark>
+      <bookmark href="https://www.paiback.app/dashboard" id="1046">
+        <title>Dashboard</title>
       </bookmark>
     </folder>
   </folder>
