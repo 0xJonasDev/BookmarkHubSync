@@ -729,6 +729,21 @@
     </folder>
     <folder id="25">
       <title>Office Tools</title>
+      <folder id="1037">
+        <title>HP OfficeJet Pro 9015</title>
+        <bookmark href="https://portal.hpsmart.com/us/en/?t1=4a69bf4b-f65c-414c-89a5-167782e45a4d" id="1040">
+          <title>HP Smart Account</title>
+        </bookmark>
+        <bookmark href="https://support.hp.com/us-en/help/printer" id="1038">
+          <title>HP Printer Issues - Diagnose and Solve</title>
+        </bookmark>
+        <bookmark href="https://support.hp.com/us-en/drivers/hp-officejet-pro-9010-all-in-one-printer-series/model/24208582?serialnumber=TH93U460ZR" id="1039">
+          <title>HP OfficeJet Pro 9015 | Software and Driver Downloads</title>
+        </bookmark>
+        <bookmark href="https://instantink.hpconnected.com/us/en/l/v2" id="1041">
+          <title>HP Instant Ink – Ink Monthly Subscription</title>
+        </bookmark>
+      </folder>
       <bookmark href="https://us04web.zoom.us/" id="110">
         <title>Zoom</title>
       </bookmark>
@@ -1899,21 +1914,6 @@
     </folder>
     <folder id="1036">
       <title>Troubleshoot</title>
-      <folder id="1037">
-        <title>HP OfficeJet Pro 9015</title>
-        <bookmark href="https://portal.hpsmart.com/us/en/?t1=4a69bf4b-f65c-414c-89a5-167782e45a4d" id="1040">
-          <title>HP Smart Account</title>
-        </bookmark>
-        <bookmark href="https://support.hp.com/us-en/help/printer" id="1038">
-          <title>HP Printer Issues - Diagnose and Solve</title>
-        </bookmark>
-        <bookmark href="https://support.hp.com/us-en/drivers/hp-officejet-pro-9010-all-in-one-printer-series/model/24208582?serialnumber=TH93U460ZR" id="1039">
-          <title>HP OfficeJet Pro 9015 | Software and Driver Downloads</title>
-        </bookmark>
-        <bookmark href="https://instantink.hpconnected.com/us/en/l/v2" id="1041">
-          <title>HP Instant Ink – Ink Monthly Subscription</title>
-        </bookmark>
-      </folder>
       <bookmark href="edge://settings/content/cookies/siteData" id="1045">
         <title>Cookies Settings</title>
       </bookmark>
