@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1049: for Floccus bookmark sync browser extension -->
+<!--- highestId :1050: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2858,6 +2858,9 @@
       </bookmark>
       <bookmark href="https://30secondsmile.com/collections/30-second-smile-toothbrushestoothbrushes" id="953">
         <title>30 Second Smile Electric Rechargeable Toothbrushes</title>
+      </bookmark>
+      <bookmark href="https://www.twc.health/products/smile" id="1050">
+        <title>SMILE– The Wellness Company</title>
       </bookmark>
     </folder>
     <folder id="837">
