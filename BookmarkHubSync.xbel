@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1052: for Floccus bookmark sync browser extension -->
+<!--- highestId :1066: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -39,8 +39,11 @@
       <bookmark href="https://www.mountainoffire.org/resources/prayer-points" id="56">
         <title>Prayer Points | MFM</title>
       </bookmark>
+      <bookmark href="https://www.dkoebooks.com/" id="1053">
+        <title>DKO eBooks: Spritual eBooks by MFM</title>
+      </bookmark>
       <bookmark href="https://thewisdomcenter.tv/" id="60">
-        <title>The Wisdom Center</title>
+        <title>The Wisdom Center | Mike Murduck</title>
       </bookmark>
       <bookmark href="https://maxlucado.com/daily-devotional/" id="57">
         <title>Daily Devotional - Max Lucado</title>
@@ -83,6 +86,12 @@
       </bookmark>
       <bookmark href="https://myotr.sheridancollege.ca/index.html" id="1042">
         <title>Sheridan College: myOTR</title>
+      </bookmark>
+      <bookmark href="https://myaccount.google.com/family/details?utm_source=googleaccount&amp;utm_medium=default" id="1054">
+        <title>Your family on Google</title>
+      </bookmark>
+      <bookmark href="https://familylink.google.com/member/1/controls" id="1055">
+        <title>Family Link</title>
       </bookmark>
     </folder>
     <folder id="16">
@@ -155,6 +164,9 @@
         <bookmark href="https://www.tep.com/" id="243">
           <title>Tucson Electric Power</title>
         </bookmark>
+        <bookmark href="https://myaccount.swgas.com/Portal/#/login" id="1056">
+          <title>Southwest Gas</title>
+        </bookmark>
         <bookmark href="https://ipn2.paymentus.com/cp/twaz" id="244">
           <title>Tucson utilities | Water &amp; Trash</title>
         </bookmark>
@@ -214,6 +226,9 @@
         </bookmark>
         <bookmark href="https://studentaid.gov/dashboard/" id="259">
           <title>Federal Student Aid</title>
+        </bookmark>
+        <bookmark href="https://yrefy.com/" id="1057">
+          <title>Yrefy.com – Student Loan Refinance</title>
         </bookmark>
       </folder>
       <folder id="69">
@@ -311,6 +326,9 @@
       <title>Health</title>
       <folder id="964">
         <title>Medical</title>
+        <bookmark href="https://mycw115.ecwcloud.com/portal15907/jsp/100mp/login_otp.jsp" id="80">
+          <title>Healthcare Associates of Texas</title>
+        </bookmark>
         <bookmark href="https://genuineessiac.com/" id="937">
           <title>Genuine Organic Essiac Tea</title>
         </bookmark>
@@ -319,9 +337,6 @@
         </bookmark>
         <bookmark href="https://mychart.minuteclinic.com/MyChartPRD/Authentication/Login?action=logout" id="78">
           <title>MyChart | Minute Clinic</title>
-        </bookmark>
-        <bookmark href="https://mycw115.ecwcloud.com/portal15907/jsp/100mp/login_otp.jsp" id="80">
-          <title>Healthcare Associates of Texas</title>
         </bookmark>
         <bookmark href="https://tddctx.mygportal.com/PP6-1-10/Account/LogOn" id="82">
           <title>GI Alliance</title>
@@ -452,29 +467,29 @@
       <title>Security</title>
       <folder id="402">
         <title>Internet Security</title>
+        <bookmark href="https://proton.me/pass/black-friday" id="541">
+          <title>Proton Pass Black Friday deals | Proton</title>
+        </bookmark>
+        <bookmark href="https://pass.proton.me/u/0/?filters=eyJzZWFyY2giOiIiLCJzb3J0IjoicmVjZW50IiwidHlwZSI6IioiLCJzZWxlY3RlZFNoYXJlSWQiOiIwX3pZSDMzOGprSkxoZkJXZVdST0NvMG5wclVhZ0RsYTdyN3pydDNNeTJBVUdDNmZnYUJLdlJYNko3RS0xa0pfeTFWWXFaM0QxZGhHbjl4QU1lTUE0dz09In0%3D" id="903">
+          <title>Proton Pass Web App</title>
+        </bookmark>
+        <bookmark href="http://js.redirect.hp.com/jumpstation?bd=lastpass&amp;c=*&amp;locale=*&amp;pf=*&amp;s=*&amp;tp=edge" id="540">
+          <title>LastPass password manager</title>
+        </bookmark>
         <bookmark href="https://coveryourtracks.eff.org/" id="537">
           <title>Cover Your Tracks | Test Web Browser Security</title>
         </bookmark>
         <bookmark href="https://haveibeenpwned.com/" id="538">
           <title>Have I Been Pwned | Data Breach</title>
         </bookmark>
+        <bookmark href="https://cybernews.com/password-leak-check/" id="1051">
+          <title>Leaked Password Check: CyberNews</title>
+        </bookmark>
         <bookmark href="https://www.kaspersky.com/downloads/free-antivirus" id="539">
           <title>Kaspersky Free Cloud Antivirus Download | Kaspersky</title>
         </bookmark>
-        <bookmark href="http://js.redirect.hp.com/jumpstation?bd=lastpass&amp;c=*&amp;locale=*&amp;pf=*&amp;s=*&amp;tp=edge" id="540">
-          <title>LastPass password manager</title>
-        </bookmark>
-        <bookmark href="https://proton.me/pass/black-friday" id="541">
-          <title>Proton Pass Black Friday deals | Proton</title>
-        </bookmark>
         <bookmark href="https://pentester.com/" id="542">
           <title>Penetration Testing &amp; Cybersecurity Software | Pentester</title>
-        </bookmark>
-        <bookmark href="https://pass.proton.me/u/0/?filters=eyJzZWFyY2giOiIiLCJzb3J0IjoicmVjZW50IiwidHlwZSI6IioiLCJzZWxlY3RlZFNoYXJlSWQiOiIwX3pZSDMzOGprSkxoZkJXZVdST0NvMG5wclVhZ0RsYTdyN3pydDNNeTJBVUdDNmZnYUJLdlJYNko3RS0xa0pfeTFWWXFaM0QxZGhHbjl4QU1lTUE0dz09In0%3D" id="903">
-          <title>Proton Pass Web App</title>
-        </bookmark>
-        <bookmark href="https://cybernews.com/password-leak-check/" id="1051">
-          <title>Leaked Password Check: CyberNews</title>
         </bookmark>
       </folder>
       <folder id="403">
@@ -509,9 +524,6 @@
       </folder>
       <folder id="404">
         <title>Personal Data</title>
-        <bookmark href="https://transparentcalifornia.com/salaries/2012/university-of-california/obiesie-bertram-uzochukw/" id="552">
-          <title>Transparent California</title>
-        </bookmark>
         <bookmark href="https://app.idx.us/en-US/login" id="899">
           <title>IDX | Credit and Identity Monitoring</title>
         </bookmark>
@@ -540,13 +552,19 @@
           <title>Permission Slip by CR | Personal Data Advocates</title>
         </bookmark>
         <bookmark href="https://support.google.com/websearch/answer/12719076?hl=en" id="919">
-          <title>Find and remove personal contact info in Google Search results - Google Search Help</title>
+          <title>Find and remove personal contact info in Google Search results</title>
         </bookmark>
         <bookmark href="https://web.krollmonitoring.com/" id="1029">
           <title>Kroll Monitoring | Credit and Identity Monitoring</title>
         </bookmark>
+        <bookmark href="https://transparentcalifornia.com/salaries/2012/university-of-california/obiesie-bertram-uzochukw/" id="552">
+          <title>Transparent California</title>
+        </bookmark>
         <bookmark href="https://myactivity.google.com/results-about-you?summary=true&amp;pli=1" id="1048">
-          <title>Results about you</title>
+          <title>Results about you on Google</title>
+        </bookmark>
+        <bookmark href="https://intelbase.is/" id="1058">
+          <title>IntelBase | Data Breach Lookup</title>
         </bookmark>
       </folder>
       <folder id="405">
@@ -563,17 +581,29 @@
             <title>Simple Port Forwarding™ | PcWinTech.com</title>
           </bookmark>
         </folder>
+        <folder id="1059">
+          <title>FlexiSpy</title>
+          <bookmark href="http://www.flexispy.com/index.html" id="564">
+            <title>FlexiSpy</title>
+          </bookmark>
+          <bookmark href="https://portal.flexispy.com/" id="1065">
+            <title>Flexispy | Portal</title>
+          </bookmark>
+        </folder>
         <bookmark href="https://manything.com/index.html" id="562">
           <title>Manything | iOS Security Cam</title>
         </bookmark>
         <bookmark href="https://www.thetileapp.com/?ref=tiledotcom&amp;utm_source=tiledotcom" id="563">
           <title>Tile | Bluetooth Tracker Device</title>
         </bookmark>
-        <bookmark href="http://www.flexispy.com/index.html" id="564">
-          <title>FlexiSpy</title>
-        </bookmark>
         <bookmark href="https://ssd.eff.org/" id="565">
           <title>EFF Surveillance Self-Defense Project</title>
+        </bookmark>
+        <bookmark href="https://landairsea.com/pages/consumer-products" id="1060">
+          <title>GPS Trackers for Vehicle &amp; Personal Use | LandAirSea</title>
+        </bookmark>
+        <bookmark href="https://tracki.com/products/tracki-pro-gps-tracker" id="1061">
+          <title>Tracki Pro GPS Tracker</title>
         </bookmark>
       </folder>
     </folder>
@@ -805,33 +835,6 @@
   </folder>
   <folder id="9">
     <title>Career</title>
-    <folder id="29">
-      <title>Societies &amp; Networking</title>
-      <bookmark href="http://www.asme.org/" id="125">
-        <title>American Society Of Mechanical Engineers | ASME</title>
-      </bookmark>
-      <bookmark href="https://www.nsbe.org/" id="126">
-        <title>National Society of Black Engineers | NSBE</title>
-      </bookmark>
-      <bookmark href="http://www.order-of-the-engineer.org/" id="127">
-        <title>Order Of The Engineer</title>
-      </bookmark>
-      <bookmark href="http://www.blackenterprise.com/" id="128">
-        <title>Black Enterprise</title>
-      </bookmark>
-      <bookmark href="https://www.linkedin.com/" id="129">
-        <title>LinkedIn</title>
-      </bookmark>
-      <bookmark href="https://my.solidworks.com/#_ga=2.64129961.768363763.1573773651-53478b80-072a-11ea-8583-432aba0b6680" id="130">
-        <title>MySolidWorks</title>
-      </bookmark>
-      <bookmark href="https://knowledge.autodesk.com/" id="131">
-        <title>Autodesk Knowledge Network</title>
-      </bookmark>
-      <bookmark href="https://fgceset2000.blogspot.com/" id="132">
-        <title>FGC Enugu Alumni</title>
-      </bookmark>
-    </folder>
     <folder id="30">
       <title>Engineering</title>
       <folder id="133">
@@ -845,14 +848,14 @@
         <bookmark href="https://rtx.benefithub.com/Account/Login?ReturnUrl=%2f" id="304">
           <title>RTX Savings</title>
         </bookmark>
+        <bookmark href="https://www.hingehealth.com/for/rtx/?template_id=92014&amp;template_name=enso_po&amp;utm_medium=directmail&amp;utm_source=pfl&amp;aud_segment=baseline&amp;mailformat=snap&amp;experience=e4e&amp;sequence=2" id="928">
+          <title>RTX and Hinge Health</title>
+        </bookmark>
         <bookmark href="https://sleepio.com/sleepio/RTX/147#1/1" id="305">
           <title>Onboarding Sleep Test - Sleepio</title>
         </bookmark>
         <bookmark href="https://www.dcsa.mil/Personnel-Security/Background-Investigations-for-Applicants/Access-Your-Records/" id="306">
           <title>Security Clearance | DCASA</title>
-        </bookmark>
-        <bookmark href="https://www.hingehealth.com/for/rtx/?template_id=92014&amp;template_name=enso_po&amp;utm_medium=directmail&amp;utm_source=pfl&amp;aud_segment=baseline&amp;mailformat=snap&amp;experience=e4e&amp;sequence=2" id="928">
-          <title>RTX and Hinge Health</title>
         </bookmark>
       </folder>
       <folder id="134">
@@ -1247,6 +1250,9 @@
         <bookmark href="https://www.flexjobs.com/homeVariant/desktopV2" id="350">
           <title>FlexJobs | Best Remote Jobs</title>
         </bookmark>
+        <bookmark href="https://roadmap.sh/ai-engineer" id="1062">
+          <title>AI Engineer Roadmap</title>
+        </bookmark>
       </folder>
       <folder id="150">
         <title>Git Resources</title>
@@ -1345,6 +1351,33 @@
         <title>Interview Kickstart | The Best Technical Interview Prep Courses</title>
       </bookmark>
     </folder>
+    <folder id="29">
+      <title>Societies &amp; Networking</title>
+      <bookmark href="http://www.asme.org/" id="125">
+        <title>American Society Of Mechanical Engineers | ASME</title>
+      </bookmark>
+      <bookmark href="https://www.nsbe.org/" id="126">
+        <title>National Society of Black Engineers | NSBE</title>
+      </bookmark>
+      <bookmark href="http://www.order-of-the-engineer.org/" id="127">
+        <title>Order Of The Engineer</title>
+      </bookmark>
+      <bookmark href="http://www.blackenterprise.com/" id="128">
+        <title>Black Enterprise</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/" id="129">
+        <title>LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://my.solidworks.com/#_ga=2.64129961.768363763.1573773651-53478b80-072a-11ea-8583-432aba0b6680" id="130">
+        <title>MySolidWorks</title>
+      </bookmark>
+      <bookmark href="https://knowledge.autodesk.com/" id="131">
+        <title>Autodesk Knowledge Network</title>
+      </bookmark>
+      <bookmark href="https://fgceset2000.blogspot.com/" id="132">
+        <title>FGC Enugu Alumni</title>
+      </bookmark>
+    </folder>
     <folder id="33">
       <title>Training Resources</title>
       <folder id="161">
@@ -1407,6 +1440,9 @@
           <title>cmc-py/cmc/modules/cryptocurrency at main · Devansh3712/cmc-py</title>
         </bookmark>
       </folder>
+      <bookmark href="https://roadmap.sh/" id="1063">
+        <title>Developer Roadmaps - roadmap.sh</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="10">
@@ -1775,6 +1811,9 @@
       </bookmark>
       <bookmark href="https://www.businer.com/tools.php#" id="420">
         <title>Businer.com | Random Generator</title>
+      </bookmark>
+      <bookmark href="https://www.plaud.ai/" id="1064">
+        <title>PLAUD.AI - The World&apos;s No.1 AI Note-taking Brand</title>
       </bookmark>
     </folder>
     <folder id="206">
@@ -3017,6 +3056,9 @@
       </bookmark>
       <bookmark href="https://www.tannersfish.com/?srsltid=AfmBOoqcpC05sIha_HbNNeEhoDjNXkx7Px2b4c3m2ezw-Wb3EDGoWhjY" id="908">
         <title>Tanners Alaskan Seafood 100% Fresh, Wild, Shipped Overnight</title>
+      </bookmark>
+      <bookmark href="https://paleovalley.com/" id="1066">
+        <title>Paleovalley | Grass-Fed Clean Beef Products</title>
       </bookmark>
     </folder>
   </folder>
