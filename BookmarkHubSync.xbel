@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1068: for Floccus bookmark sync browser extension -->
+<!--- highestId :1069: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -654,6 +654,21 @@
           <title>CNET | Tech Product Reviews</title>
         </bookmark>
       </folder>
+      <folder id="1069">
+        <title>Mobile Plans</title>
+        <bookmark href="https://www.t-mobile.com/benefits" id="467">
+          <title>T-Mobile Phone Plan Benefits</title>
+        </bookmark>
+        <bookmark href="https://www.visible.com/get/?3S9FJZP" id="910">
+          <title>Visible | Verizon MVNO</title>
+        </bookmark>
+        <bookmark href="https://www.usmobile.com/referrals?referrer=1B66AE22&amp;name=Rich&amp;utm_page_url=monster_referral" id="909">
+          <title>US Mobile | Best MVNO</title>
+        </bookmark>
+        <bookmark href="https://www.whistleout.com/" id="469">
+          <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
+        </bookmark>
+      </folder>
       <bookmark href="http://www.amazon.com/" id="92">
         <title>Amazon</title>
       </bookmark>
@@ -689,18 +704,6 @@
       </bookmark>
       <bookmark href="https://www.groupon.com/" id="466">
         <title>Groupon | Deals and Coupons</title>
-      </bookmark>
-      <bookmark href="https://www.t-mobile.com/benefits" id="467">
-        <title>T-Mobile Phone Plan Benefits</title>
-      </bookmark>
-      <bookmark href="https://www.visible.com/get/?3S9FJZP" id="910">
-        <title>Visible | Verizon MVNO</title>
-      </bookmark>
-      <bookmark href="https://www.usmobile.com/referrals?referrer=1B66AE22&amp;name=Rich&amp;utm_page_url=monster_referral" id="909">
-        <title>US Mobile | Best MVNO</title>
-      </bookmark>
-      <bookmark href="https://www.whistleout.com/" id="469">
-        <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
       </bookmark>
       <bookmark href="https://camelcamelcamel.com/" id="468">
         <title>CamelCamelCamel | Amazon price tracker</title>
