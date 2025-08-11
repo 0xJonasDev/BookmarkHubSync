@@ -644,6 +644,15 @@
       </folder>
       <folder id="1068">
         <title>Product Reviews</title>
+        <bookmark href="http://www.clark.com/" id="463">
+          <title>Clark Howard | Consumer Advice</title>
+        </bookmark>
+        <bookmark href="https://www.producthunt.com/" id="465">
+          <title>Product Hunt | Tech Product Reviews</title>
+        </bookmark>
+        <bookmark href="http://www.cnet.com/" id="464">
+          <title>CNET | Tech Product Reviews</title>
+        </bookmark>
       </folder>
       <bookmark href="http://www.amazon.com/" id="92">
         <title>Amazon</title>
@@ -677,15 +686,6 @@
       </bookmark>
       <bookmark href="https://www.wayfair.com/Get-The-Look?page=13" id="100">
         <title>Wayfair | Furniture</title>
-      </bookmark>
-      <bookmark href="http://www.clark.com/" id="463">
-        <title>Clark Howard | Consumer Advice</title>
-      </bookmark>
-      <bookmark href="http://www.cnet.com/" id="464">
-        <title>CNET | Tech Product Reviews</title>
-      </bookmark>
-      <bookmark href="https://www.producthunt.com/" id="465">
-        <title>Product Hunt | Tech Product Reviews</title>
       </bookmark>
       <bookmark href="https://www.groupon.com/" id="466">
         <title>Groupon | Deals and Coupons</title>
