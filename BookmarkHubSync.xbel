@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1067: for Floccus bookmark sync browser extension -->
+<!--- highestId :1068: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -641,6 +641,9 @@
         <bookmark href="https://www.rockauto.com/en/catalog/nissan,2007,maxima,3.5l+v6,1433470" id="978">
           <title>2007 NISSAN MAXIMA 3.5L V6 | RockAuto</title>
         </bookmark>
+      </folder>
+      <folder id="1068">
+        <title>Product Reviews</title>
       </folder>
       <bookmark href="http://www.amazon.com/" id="92">
         <title>Amazon</title>
