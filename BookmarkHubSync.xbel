@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1069: for Floccus bookmark sync browser extension -->
+<!--- highestId :1070: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -667,6 +667,9 @@
         </bookmark>
         <bookmark href="https://www.whistleout.com/" id="469">
           <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
+        </bookmark>
+        <bookmark href="https://vetted.ai/" id="1070">
+          <title>Vetted | Find the Best Product &amp; Price</title>
         </bookmark>
       </folder>
       <bookmark href="http://www.amazon.com/" id="92">
