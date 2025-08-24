@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1070: for Floccus bookmark sync browser extension -->
+<!--- highestId :1071: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -655,6 +655,9 @@
         </bookmark>
         <bookmark href="https://vetted.ai/" id="1070">
           <title>Vetted | AI assist for Best Product &amp; Price</title>
+        </bookmark>
+        <bookmark href="https://academic.zenithprepacademy.com/?visi_source=google&amp;creative=757772708101&amp;keyword&amp;gad_source=2&amp;gad_campaignid=22670612875" id="1071">
+          <title>College Consulting | Zenith Prep Academy</title>
         </bookmark>
       </folder>
       <folder id="1069">
