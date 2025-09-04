@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1074: for Floccus bookmark sync browser extension -->
+<!--- highestId :1075: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -98,6 +98,9 @@
       </bookmark>
       <bookmark href="https://entrata.theballparkaustin.com/Apartments/module/application_authentication/action/view_login/returning_applicant/1/property[id]/1086620" id="1074">
         <title>Dalu&apos;s Guarantor Account | Ballpark North Apts</title>
+      </bookmark>
+      <bookmark href="https://dealhurryup.com/" id="1075">
+        <title>DealHurryUp: Best Daily Deals, Discounts Coupons Hot Sales</title>
       </bookmark>
     </folder>
     <folder id="16">
