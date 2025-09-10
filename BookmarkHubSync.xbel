@@ -161,9 +161,6 @@
         <bookmark href="https://sec.gov.ng/non-mandated/" id="932">
           <title>Unregistered Investors for E-Dividend Payment</title>
         </bookmark>
-        <bookmark href="https://alightfs.netxinvestor.com/nxi/welcome?sessiontimedout=true&amp;isMfe=true&amp;isModern=true" id="1078">
-          <title>Alight Financial Solutions - SDBA</title>
-        </bookmark>
       </folder>
       <folder id="65">
         <title>Monthly Bills</title>
@@ -2790,6 +2787,9 @@
           <title>BioPharmCatalyst</title>
         </bookmark>
       </folder>
+      <bookmark href="https://alightfs.netxinvestor.com/nxi/welcome?sessiontimedout=true&amp;isMfe=true&amp;isModern=true" id="1078">
+        <title>Alight Financial Solutions - SDBA</title>
+      </bookmark>
     </folder>
     <folder id="211">
       <title>Options</title>
