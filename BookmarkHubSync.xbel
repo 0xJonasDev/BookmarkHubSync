@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1175: for Floccus bookmark sync browser extension -->
+<!--- highestId :1176: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3338,6 +3338,9 @@
       </bookmark>
       <bookmark href="https://millersbiofarm.com/" id="1159">
         <title>Miller&apos;s Bio Farm | Healthy Dairy</title>
+      </bookmark>
+      <bookmark href="https://slickdeals.net/promo-codes" id="1176">
+        <title>Slickdeals promo codes and discounts for December 2025</title>
       </bookmark>
     </folder>
   </folder>
