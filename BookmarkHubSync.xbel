@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1177: for Floccus bookmark sync browser extension -->
+<!--- highestId :1178: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1021,6 +1021,9 @@
         </bookmark>
         <bookmark href="https://deltadentalma.com/rtx" id="1177">
           <title>RTX - Delta Dental Massachusetts</title>
+        </bookmark>
+        <bookmark href="https://www.ilovepdf.com/" id="1178">
+          <title>iLovePDF | Online PDF tools for PDF lovers</title>
         </bookmark>
       </folder>
       <folder id="134">
