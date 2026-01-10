@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1176: for Floccus bookmark sync browser extension -->
+<!--- highestId :1177: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3185,6 +3185,9 @@
       </bookmark>
       <bookmark href="https://slickdeals.net/promo-codes" id="1176">
         <title>Slickdeals | Promo Codes</title>
+      </bookmark>
+      <bookmark href="https://deltadentalma.com/rtx" id="1177">
+        <title>RTX Corporation - Delta Dental Mass</title>
       </bookmark>
     </folder>
     <folder id="837">
