@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1178: for Floccus bookmark sync browser extension -->
+<!--- highestId :1179: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -27,6 +27,9 @@
     </bookmark>
     <bookmark href="https://www.xe.com/" id="234">
       <title>Exchange Rates &amp; Intl Money Transfer</title>
+    </bookmark>
+    <bookmark href="https://wildalaskancompany.com/?discount=SCALLOPSNEW&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Search_WABranded_410398311&amp;utm_term=1341404842921354&amp;utm_content=83838176168150&amp;msclkid=dc038416c53e1ddb426ded7f757bbc33" id="1179">
+      <title>Wild Alaskan Company | Order Seafood Online | Wild-Caught Alaskan Seafood Delivery</title>
     </bookmark>
   </folder>
   <folder id="7">
