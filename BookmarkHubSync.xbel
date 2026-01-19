@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1179: for Floccus bookmark sync browser extension -->
+<!--- highestId :1180: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3380,6 +3380,9 @@
       </bookmark>
       <bookmark href="https://wildalaskancompany.com/?discount=SCALLOPSNEW&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Search_WABranded_410398311&amp;utm_term=1341404842921354&amp;utm_content=83838176168150&amp;msclkid=dc038416c53e1ddb426ded7f757bbc33" id="1179">
         <title>Wild Alaskan Company | Wild-Caught Alaskan Seafood Delivery</title>
+      </bookmark>
+      <bookmark href="https://login.legalplans.com/login?next=https%3A%2F%2Fmembers.legalplans.com&amp;home=https%3A%2F%2Fmembers.legalplans.com" id="1180">
+        <title>MetLife Legal Plans</title>
       </bookmark>
     </folder>
   </folder>
