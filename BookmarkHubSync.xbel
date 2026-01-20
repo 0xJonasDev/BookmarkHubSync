@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1180: for Floccus bookmark sync browser extension -->
+<!--- highestId :1181: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -395,6 +395,9 @@
       </bookmark>
       <bookmark href="https://www.tidc.texas.gov/my-rights/" id="72">
         <title>My Rights | Texas Indigent Defense Commission</title>
+      </bookmark>
+      <bookmark href="https://selfhelp.lacourt.org/" id="1181">
+        <title>SelfHelp</title>
       </bookmark>
     </folder>
     <folder id="18">
