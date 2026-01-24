@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1181: for Floccus bookmark sync browser extension -->
+<!--- highestId :1182: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3342,14 +3342,17 @@
       <bookmark href="https://www.instagram.com/9jasoulfood/" id="858">
         <title>9jasoulfood</title>
       </bookmark>
+      <folder id="1182">
+        <title>Recipes</title>
+        <bookmark href="https://www.177milkstreet.com/" id="860">
+          <title>Milk Street | Recipes</title>
+        </bookmark>
+      </folder>
       <bookmark href="https://app.servewithtabul.com/#!/restaurant/26" id="857">
         <title>9ja Soul Food | Website</title>
       </bookmark>
       <bookmark href="http://www.food.com/recipes/nigerian/popular" id="859">
         <title>Popular Nigerian Recipes</title>
-      </bookmark>
-      <bookmark href="https://www.177milkstreet.com/" id="860">
-        <title>Milk Street | Recipes</title>
       </bookmark>
       <bookmark href="https://www.finecooking.com/" id="862">
         <title>FineCooking | Recipes</title>
