@@ -92,9 +92,6 @@
       </bookmark>
       <folder id="1080">
         <title>Destiny</title>
-        <bookmark href="https://www.cse.ca.gov/CustomerConnect/login" id="1023">
-          <title>Cal Child Support Services</title>
-        </bookmark>
         <folder id="1092">
           <title>Name Change</title>
           <bookmark href="https://www.occourts.org/system/files/selfhelp/shc-nc-01.pdf" id="1103">
@@ -113,6 +110,9 @@
             <title>Self-Help Center | LA Superior Court</title>
           </bookmark>
         </folder>
+        <bookmark href="https://www.cse.ca.gov/CustomerConnect/login" id="1023">
+          <title>Cal Child Support Services</title>
+        </bookmark>
         <bookmark href="https://www.rossms.us/" id="1093">
           <title>Ross Middle School</title>
         </bookmark>
