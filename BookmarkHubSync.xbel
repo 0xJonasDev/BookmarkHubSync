@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1191: for Floccus bookmark sync browser extension -->
+<!--- highestId :1192: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3218,6 +3218,9 @@
       </bookmark>
       <bookmark href="https://slickdeals.net/promo-codes" id="1176">
         <title>Slickdeals | Promo Codes</title>
+      </bookmark>
+      <bookmark href="https://us.aura-displays.com/products/triple-aero-15-6-pro-max" id="1192">
+        <title>Triple Aero 15.6&quot; Pro Max – Full Specs | Aura Displays</title>
       </bookmark>
     </folder>
     <folder id="837">
