@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1194: for Floccus bookmark sync browser extension -->
+<!--- highestId :1195: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -971,6 +971,9 @@
       </bookmark>
       <bookmark href="https://ainichepredictor.com/" id="1194">
         <title>AI Niche Predictor - Find Profitable Local Service Niches</title>
+      </bookmark>
+      <bookmark href="https://www.fathershaverights.com/" id="1195">
+        <title>Prenup</title>
       </bookmark>
     </folder>
     <folder id="27">
