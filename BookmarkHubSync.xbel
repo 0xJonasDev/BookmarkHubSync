@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1195: for Floccus bookmark sync browser extension -->
+<!--- highestId :1196: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
   <folder id="963">
     <title>Quick Links</title>
+    <bookmark href="about:blank" id="1196">
+      <title>about:blank</title>
+    </bookmark>
     <bookmark href="https://www.google.com/" id="3">
       <title>Google</title>
     </bookmark>
