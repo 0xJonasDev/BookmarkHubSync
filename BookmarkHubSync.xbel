@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1196: for Floccus bookmark sync browser extension -->
+<!--- highestId :1197: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -160,6 +160,9 @@
         </bookmark>
         <bookmark href="https://classicallearner.com/" id="1189">
           <title>Classical Learner – An Education Worthy Of Freedom</title>
+        </bookmark>
+        <bookmark href="https://abcusd.aeries.net/" id="1197">
+          <title>Aeries Student Information System Portal</title>
         </bookmark>
       </folder>
       <folder id="1081">
