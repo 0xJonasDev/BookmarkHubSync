@@ -724,6 +724,9 @@
           <bookmark href="https://portal.flexispy.com/" id="1065">
             <title>Flexispy | Portal</title>
           </bookmark>
+          <bookmark href="http://www.flexispy.com/index.html" id="564">
+            <title>FlexiSpy</title>
+          </bookmark>
         </folder>
         <bookmark href="https://manything.com/index.html" id="562">
           <title>Manything | iOS Security Cam</title>
@@ -739,9 +742,6 @@
         </bookmark>
         <bookmark href="https://tracki.com/products/tracki-pro-gps-tracker" id="1061">
           <title>Tracki Pro GPS Tracker</title>
-        </bookmark>
-        <bookmark href="http://www.flexispy.com/index.html" id="564">
-          <title>FlexiSpy</title>
         </bookmark>
       </folder>
     </folder>
