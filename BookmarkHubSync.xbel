@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1213: for Floccus bookmark sync browser extension -->
+<!--- highestId :1214: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1928,6 +1928,9 @@
       </bookmark>
       <bookmark href="https://www.synology.com/en-global/dsm/feature/drive" id="1213">
         <title>Synology Drive | Network File Synchrology</title>
+      </bookmark>
+      <bookmark href="https://www.skechers.com/kids/collections-features/wheres-my-skechers/" id="1214">
+        <title>Kids&apos; Shoes compatible with most locator tags | Where&apos;s My Skechers | SKECHERS</title>
       </bookmark>
     </folder>
     <folder id="202">
