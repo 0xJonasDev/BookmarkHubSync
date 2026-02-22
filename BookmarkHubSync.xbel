@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1205: for Floccus bookmark sync browser extension -->
+<!--- highestId :1206: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -577,6 +577,9 @@
         </bookmark>
         <bookmark href="https://www.visittucson.org/?gclid=Cj0KCQjw8qmhBhClARIsANAtboeiUCIX4rdDI48gmPOZYIisl1mnlNKNMqSmsNAabhgBoO7u3yDO6-8aArHpEALw_wcB" id="290">
           <title>Arizona | Hotels, Restaurants &amp; Things To Do</title>
+        </bookmark>
+        <bookmark href="https://www.t-mobile.com/content/digx/tmobile/us/en/benefits/live-translation.html#How-to-use-Live-Translation" id="1206">
+          <title>T-Mobile Live Translation</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.withfaye.com/" id="1087">
