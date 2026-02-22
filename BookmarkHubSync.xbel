@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1200: for Floccus bookmark sync browser extension -->
+<!--- highestId :1201: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -854,6 +854,9 @@
       </bookmark>
       <bookmark href="https://www.antennasdirect.com/" id="946">
         <title>Antennas Direct | TV Antennas Reinvented</title>
+      </bookmark>
+      <bookmark href="https://buyersguide.macrumors.com/#homeaccessories" id="1201">
+        <title>MacRumors Buyer&apos;s Guide: Know When to Buy iPhone, Mac, iPad</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.accountkiller.com/en" id="21">
