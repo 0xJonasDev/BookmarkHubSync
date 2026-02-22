@@ -782,6 +782,15 @@
         <bookmark href="https://vetted.ai/" id="1070">
           <title>Vetted | AI assist for Best Product &amp; Price</title>
         </bookmark>
+        <bookmark href="http://www.clark.com/" id="463">
+          <title>Clark Howard | Consumer Advice</title>
+        </bookmark>
+        <bookmark href="http://www.cnet.com/" id="464">
+          <title>CNET | Tech Product Reviews</title>
+        </bookmark>
+        <bookmark href="https://www.producthunt.com/" id="465">
+          <title>Product Hunt | Tech Product Reviews</title>
+        </bookmark>
       </folder>
       <folder id="1069">
         <title>Mobile Plans</title>
@@ -795,21 +804,6 @@
           <title>US Mobile | Best MVNO</title>
         </bookmark>
         <bookmark href="https://www.whistleout.com/" id="469">
-          <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
-        </bookmark>
-      </folder>
-      <folder id="1107">
-        <title>Mobile Phone Plans</title>
-        <bookmark href="https://www.t-mobile.com/benefits" id="1117">
-          <title>T-Mobile Phone Plan Benefits</title>
-        </bookmark>
-        <bookmark href="https://www.visible.com/get/?3S9FJZP" id="1118">
-          <title>Visible | Verizon MVNO</title>
-        </bookmark>
-        <bookmark href="https://www.usmobile.com/referrals?referrer=1B66AE22&amp;name=Rich&amp;utm_page_url=monster_referral" id="1119">
-          <title>US Mobile | Best MVNO</title>
-        </bookmark>
-        <bookmark href="https://www.whistleout.com/" id="1120">
           <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
         </bookmark>
       </folder>
@@ -857,15 +851,6 @@
       </bookmark>
       <bookmark href="https://dealhurryup.com/" id="1075">
         <title>DealHurryUp | Amazon Discounts Coupons</title>
-      </bookmark>
-      <bookmark href="http://www.clark.com/" id="463">
-        <title>Clark Howard | Consumer Advice</title>
-      </bookmark>
-      <bookmark href="http://www.cnet.com/" id="464">
-        <title>CNET | Tech Product Reviews</title>
-      </bookmark>
-      <bookmark href="https://www.producthunt.com/" id="465">
-        <title>Product Hunt | Tech Product Reviews</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.accountkiller.com/en" id="21">
