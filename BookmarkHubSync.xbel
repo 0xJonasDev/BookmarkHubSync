@@ -1651,9 +1651,6 @@
     <bookmark href="https://one.google.com/storage?g1_landing_page=1" id="1217">
       <title>Google One Storage</title>
     </bookmark>
-    <bookmark href="https://www.speedtest.net/performance/united-states" id="1218">
-      <title>Local ISP Speedtest | Speedtest</title>
-    </bookmark>
   </folder>
   <folder id="11">
     <title>Projects</title>
@@ -1694,24 +1691,6 @@
       </bookmark>
       <bookmark href="https://www.wgawregistry.org/" id="174">
         <title>WGA West</title>
-      </bookmark>
-    </folder>
-    <folder id="42">
-      <title>Amazon FBA</title>
-      <bookmark href="https://docs.google.com/spreadsheets/d/1P0Hx5NXfQzwV956Oj6ss2l_3O0w8S1nYYE6x-06uX8w/edit#gid=38503506" id="175">
-        <title>Amazon FBA</title>
-      </bookmark>
-    </folder>
-    <folder id="43">
-      <title>Neuro Feedback</title>
-      <bookmark href="https://shop.openbci.com/collections/frontpage" id="176">
-        <title>OpenBCI Featured Products</title>
-      </bookmark>
-      <bookmark href="https://www.google.com/search?q=10-20+system+eeg+electrodes&amp;tbm=isch&amp;ved=2ahUKEwjMmf-jxcLuAhUYwCoKHaX0C2IQ2-cCegQIABAA&amp;oq=10-20+system&amp;gs_lcp=CgNpbWcQARgEMgQIIxAnMgQIIxAnMgIIADICCAAyAggAMgIIADIECAAQQzIGCAAQBRAeMgYIABAFEB4yBggAEAUQHlD2DFj2DGDENWgAcAB4AIABwwGIAcMBkgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&amp;sclient=img&amp;ei=I7sUYIz8E5iAqwGl6a-QBg&amp;bih=1057&amp;biw=1920#imgrc=jB3UmGNvvVqHsM" id="177">
-        <title>10-20 System EEG electrodes</title>
-      </bookmark>
-      <bookmark href="https://trello.com/b/WuXl96Vv/project-management" id="178">
-        <title>Project Management | Trello</title>
       </bookmark>
     </folder>
     <bookmark href="https://awesomely.com/programs/paper-flips" id="1004">
@@ -1919,6 +1898,9 @@
       </bookmark>
       <bookmark href="http://www.speedtest.net/index.php" id="397">
         <title>Speedtest.net</title>
+      </bookmark>
+      <bookmark href="https://www.speedtest.net/performance/united-states" id="1218">
+        <title>Local ISP Speedtest | Speedtest</title>
       </bookmark>
     </folder>
     <folder id="1210">
