@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1212: for Floccus bookmark sync browser extension -->
+<!--- highestId :1213: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1923,6 +1923,12 @@
       <bookmark href="https://www.carbonite.com/" id="1212">
         <title>Carbonite | Backup</title>
       </bookmark>
+      <bookmark href="https://www.idrive.com/" id="856">
+        <title>IDrive | Online Cloud Backup</title>
+      </bookmark>
+      <bookmark href="https://www.synology.com/en-global/dsm/feature/drive" id="1213">
+        <title>Synology Drive | Your private cloud for file management and sharing anywhere | Synology Inc.</title>
+      </bookmark>
     </folder>
     <folder id="202">
       <title>Research</title>
@@ -3293,9 +3299,6 @@
       </folder>
       <folder id="1154">
         <title>Health &amp; Wellness</title>
-        <bookmark href="https://www.idrive.com/" id="856">
-          <title>IDrive | Online Cloud Backup</title>
-        </bookmark>
         <bookmark href="https://gluxkind.com/" id="875">
           <title>Glüxkind AI Stroller</title>
         </bookmark>
