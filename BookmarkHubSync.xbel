@@ -2202,14 +2202,14 @@
       <bookmark href="edge://settings/content/cookies/siteData" id="1045">
         <title>Cookies Settings</title>
       </bookmark>
+      <bookmark href="chrome://settings/content/all?search=cookie" id="1113">
+        <title>Cookie Settings - Brave</title>
+      </bookmark>
       <bookmark href="https://www.microsoft.com/en-us/download/details.aspx?id=9905" id="1111">
         <title>Download Windows Malicious Software Removal Tool 64-bit</title>
       </bookmark>
       <bookmark href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" id="1112">
         <title>Microsoft Safety Scanner Download</title>
-      </bookmark>
-      <bookmark href="chrome://settings/content/all?search=cookie" id="1113">
-        <title>Cookie Settings - Brave</title>
       </bookmark>
     </folder>
   </folder>
