@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1198: for Floccus bookmark sync browser extension -->
+<!--- highestId :1199: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -163,9 +163,6 @@
         </bookmark>
         <bookmark href="https://abcusd.aeries.net/" id="1197">
           <title>Aeries Student Information System Portal</title>
-        </bookmark>
-        <bookmark href="https://deepmind.google/models/lyria/" id="1198">
-          <title>Lyria 3 — Google DeepMind</title>
         </bookmark>
       </folder>
       <folder id="1081">
@@ -1925,6 +1922,12 @@
       </bookmark>
       <bookmark href="https://facecheck.id/" id="1193">
         <title>FaceCheck | Face Recognition Search Engine</title>
+      </bookmark>
+      <bookmark href="https://deepmind.google/models/lyria/" id="1198">
+        <title>Lyria 3 — AI Music Creation</title>
+      </bookmark>
+      <bookmark href="https://support.microsoft.com/en-us/windows/change-or-reset-your-password-in-windows-8271d17c-9f9e-443f-835a-8318c8f68b9c" id="1199">
+        <title>Change or reset your password in Windows - Microsoft Support</title>
       </bookmark>
     </folder>
     <folder id="952">
