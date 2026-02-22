@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1219: for Floccus bookmark sync browser extension -->
+<!--- highestId :1220: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1683,6 +1683,12 @@
       <bookmark href="http://www.stencyl.com/" id="172">
         <title>Stencyl - Flash Games without code</title>
       </bookmark>
+      <bookmark href="https://theappaccelerator.com/" id="1219">
+        <title>The App Accelerator</title>
+      </bookmark>
+      <bookmark href="https://www.diskwipe.org/" id="1220">
+        <title>Disk Wipe - Free software</title>
+      </bookmark>
     </folder>
     <folder id="41">
       <title>Movie Concept</title>
@@ -1901,9 +1907,6 @@
       </bookmark>
       <bookmark href="https://www.speedtest.net/performance/united-states" id="1218">
         <title>Local ISP Speedtest | Speedtest</title>
-      </bookmark>
-      <bookmark href="https://theappaccelerator.com/" id="1219">
-        <title>The App Accelerator</title>
       </bookmark>
     </folder>
     <folder id="1210">
