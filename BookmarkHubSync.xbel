@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1216: for Floccus bookmark sync browser extension -->
+<!--- highestId :1217: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1648,6 +1648,9 @@
     <bookmark href="https://mail.zoho.com/zm/#mail/folder/inbox" id="38">
       <title>Zoho Mail</title>
     </bookmark>
+    <bookmark href="https://one.google.com/storage?g1_landing_page=1" id="1217">
+      <title>Google One Storage</title>
+    </bookmark>
   </folder>
   <folder id="11">
     <title>Projects</title>
@@ -1950,6 +1953,9 @@
       <bookmark href="https://www.antennasdirect.com/transmitter-locator.html?zip=85706" id="401">
         <title>Antennas Direct | TV Transmitter Locator and Mapping Tool</title>
       </bookmark>
+      <bookmark href="https://www.bbb.org/scamtracker/lookupscam?q=all%3Dwuffy%26from%3D0" id="1216">
+        <title>BBB Scam Tracker | Better Business Bureau</title>
+      </bookmark>
     </folder>
     <folder id="204">
       <title>Software</title>
@@ -2192,9 +2198,6 @@
       </bookmark>
       <bookmark href="https://callnerds.com/" id="1215">
         <title>Nerds On Call Computer Repair and Tech Support</title>
-      </bookmark>
-      <bookmark href="https://www.bbb.org/scamtracker/lookupscam?q=all%3Dwuffy%26from%3D0" id="1216">
-        <title>Search for Scams | BBB Scam Tracker | Better Business Bureau</title>
       </bookmark>
     </folder>
   </folder>
