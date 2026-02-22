@@ -644,6 +644,27 @@
       </folder>
       <folder id="404">
         <title>Personal Data</title>
+        <folder id="1203">
+          <title>Background Check</title>
+          <bookmark href="https://backgroundchecks.org/" id="554">
+            <title>Free Online Background Check</title>
+          </bookmark>
+          <bookmark href="https://www.truthfinder.com/dashboard" id="553">
+            <title>TruthFinder | Background Check</title>
+          </bookmark>
+          <bookmark href="https://personal.checkr.com/profiles?returnPathname=%2Fprofiles%2Fhome" id="1090">
+            <title>Checkr | Background Check</title>
+          </bookmark>
+          <bookmark href="https://www.beenverified.com/login" id="1089">
+            <title>BeenVerified | Background Check</title>
+          </bookmark>
+          <bookmark href="https://www.instantcheckmate.com/login" id="1088">
+            <title>Instant Checkmate | Background Check</title>
+          </bookmark>
+          <bookmark href="https://www.idcrawl.com/" id="1091">
+            <title>IDCrawl | Free People Search Engine</title>
+          </bookmark>
+        </folder>
         <folder id="1202">
           <title>Delete Personal Information</title>
           <bookmark href="https://www.richontech.tv/blog/how-to-get-your-personal-information-off-google-search-results/" id="555">
@@ -664,26 +685,8 @@
           <bookmark href="https://permissionslipcr.com/" id="560">
             <title>Permission Slip by CR | Personal Data Advocates</title>
           </bookmark>
-        </folder>
-        <folder id="1203">
-          <title>Background Check</title>
-          <bookmark href="https://backgroundchecks.org/" id="554">
-            <title>Free Online Background Check</title>
-          </bookmark>
-          <bookmark href="https://www.truthfinder.com/dashboard" id="553">
-            <title>TruthFinder | Background Check</title>
-          </bookmark>
-          <bookmark href="https://personal.checkr.com/profiles?returnPathname=%2Fprofiles%2Fhome" id="1090">
-            <title>Checkr | Background Checker</title>
-          </bookmark>
-          <bookmark href="https://www.beenverified.com/login" id="1089">
-            <title>BeenVerified | Background Check</title>
-          </bookmark>
-          <bookmark href="https://www.instantcheckmate.com/login" id="1088">
-            <title>Instant Checkmate</title>
-          </bookmark>
-          <bookmark href="https://www.idcrawl.com/" id="1091">
-            <title>IDCrawl | Free People Search Engine</title>
+          <bookmark href="https://joindeleteme.com/blog/opt-out-guides/" id="556">
+            <title>Opt-Out Guides | JoinDeleteMe</title>
           </bookmark>
         </folder>
         <bookmark href="https://web.krollmonitoring.com/" id="1029">
@@ -691,9 +694,6 @@
         </bookmark>
         <bookmark href="https://app.idx.us/en-US/login" id="899">
           <title>IDX | Credit and Identity Monitoring</title>
-        </bookmark>
-        <bookmark href="https://joindeleteme.com/blog/opt-out-guides/" id="556">
-          <title>Opt-Out Guides | JoinDeleteMe</title>
         </bookmark>
         <bookmark href="https://www.mylife.com/" id="559">
           <title>MyLife.com | Reputation Profiles &amp; Scores</title>
