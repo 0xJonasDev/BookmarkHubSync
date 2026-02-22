@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1199: for Floccus bookmark sync browser extension -->
+<!--- highestId :1200: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -807,6 +807,12 @@
           <title>WhistleOut | Compare Cell Phone/Internet Plans</title>
         </bookmark>
       </folder>
+      <folder id="1200">
+        <title>Digital Coupons</title>
+        <bookmark href="https://wikibuy.com/capitalone?utm_source=pony&amp;utm_campaign=batch&amp;utm_term=namedont1&amp;utm_date=06242019" id="99">
+          <title>Wikibuy | Coupon Hunter</title>
+        </bookmark>
+      </folder>
       <bookmark href="http://www.amazon.com/" id="92">
         <title>Amazon</title>
       </bookmark>
@@ -836,9 +842,6 @@
       </bookmark>
       <bookmark href="https://www.facebook.com/marketplace/dallas/?ref=bookmark" id="98">
         <title>Facebook Marketplace</title>
-      </bookmark>
-      <bookmark href="https://wikibuy.com/capitalone?utm_source=pony&amp;utm_campaign=batch&amp;utm_term=namedont1&amp;utm_date=06242019" id="99">
-        <title>Wikibuy | Coupon Hunter</title>
       </bookmark>
       <bookmark href="https://www.wayfair.com/Get-The-Look?page=13" id="100">
         <title>Wayfair | Furniture</title>
