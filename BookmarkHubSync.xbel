@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1215: for Floccus bookmark sync browser extension -->
+<!--- highestId :1216: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2192,6 +2192,9 @@
       </bookmark>
       <bookmark href="https://callnerds.com/" id="1215">
         <title>Nerds On Call Computer Repair and Tech Support</title>
+      </bookmark>
+      <bookmark href="https://www.bbb.org/scamtracker/lookupscam?q=all%3Dwuffy%26from%3D0" id="1216">
+        <title>Search for Scams | BBB Scam Tracker | Better Business Bureau</title>
       </bookmark>
     </folder>
   </folder>
