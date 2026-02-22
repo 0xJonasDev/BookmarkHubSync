@@ -665,12 +665,6 @@
             <title>Remove Online Information</title>
           </bookmark>
         </folder>
-        <bookmark href="https://www.truthfinder.com/dashboard" id="553">
-          <title>TruthFinder | Background Check</title>
-        </bookmark>
-        <bookmark href="https://backgroundchecks.org/" id="554">
-          <title>Free Online Background Check</title>
-        </bookmark>
         <bookmark href="https://joindeleteme.com/blog/opt-out-guides/" id="556">
           <title>Opt-Out Guides | JoinDeleteMe</title>
         </bookmark>
@@ -679,6 +673,21 @@
         </bookmark>
         <folder id="1203">
           <title>Background Check</title>
+          <bookmark href="https://backgroundchecks.org/" id="554">
+            <title>Free Online Background Check</title>
+          </bookmark>
+          <bookmark href="https://www.truthfinder.com/dashboard" id="553">
+            <title>TruthFinder | Background Check</title>
+          </bookmark>
+          <bookmark href="https://personal.checkr.com/profiles?returnPathname=%2Fprofiles%2Fhome" id="1090">
+            <title>Checkr | Background Checker</title>
+          </bookmark>
+          <bookmark href="https://www.beenverified.com/login" id="1089">
+            <title>BeenVerified</title>
+          </bookmark>
+          <bookmark href="https://www.instantcheckmate.com/login" id="1088">
+            <title>Instant Checkmate</title>
+          </bookmark>
         </folder>
         <bookmark href="https://permissionslipcr.com/" id="560">
           <title>Permission Slip by CR | Personal Data Advocates</title>
@@ -691,15 +700,6 @@
         </bookmark>
         <bookmark href="https://intelbase.is/" id="1058">
           <title>IntelBase | Data Breach Lookup</title>
-        </bookmark>
-        <bookmark href="https://www.instantcheckmate.com/login" id="1088">
-          <title>Instant Checkmate</title>
-        </bookmark>
-        <bookmark href="https://www.beenverified.com/login" id="1089">
-          <title>BeenVerified</title>
-        </bookmark>
-        <bookmark href="https://personal.checkr.com/profiles?returnPathname=%2Fprofiles%2Fhome" id="1090">
-          <title>Checkr | Background Checker</title>
         </bookmark>
         <bookmark href="https://www.idcrawl.com/" id="1091">
           <title>IDCrawl | Free People Search Engine</title>
