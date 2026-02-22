@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1203: for Floccus bookmark sync browser extension -->
+<!--- highestId :1204: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3437,6 +3437,9 @@
       <title>Bridgers</title>
     </bookmark>
   </folder>
+  <bookmark href="https://support.microsoft.com/en-us/windows/reset-your-pc-0ef73740-b927-549b-b7c9-e6f2b48d275e" id="1204">
+    <title>Reset your PC - Microsoft Support</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
