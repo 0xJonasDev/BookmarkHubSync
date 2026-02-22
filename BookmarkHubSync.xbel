@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1201: for Floccus bookmark sync browser extension -->
+<!--- highestId :1202: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -647,20 +647,23 @@
         <bookmark href="https://app.idx.us/en-US/login" id="899">
           <title>IDX | Credit and Identity Monitoring</title>
         </bookmark>
+        <folder id="1202">
+          <title>Delete Personal Information</title>
+          <bookmark href="https://www.richontech.tv/blog/how-to-get-your-personal-information-off-google-search-results/" id="555">
+            <title>Delete Personal Info | Google Search Results</title>
+          </bookmark>
+          <bookmark href="https://joindeleteme.com/" id="557">
+            <title>DeleteMe | Remove Personal Info from Google</title>
+          </bookmark>
+        </folder>
         <bookmark href="https://www.truthfinder.com/dashboard" id="553">
           <title>TruthFinder | Background Check</title>
         </bookmark>
         <bookmark href="https://backgroundchecks.org/" id="554">
           <title>Free Online Background Check</title>
         </bookmark>
-        <bookmark href="https://www.richontech.tv/blog/how-to-get-your-personal-information-off-google-search-results/" id="555">
-          <title>Delete Personal Info | Google Search Results</title>
-        </bookmark>
         <bookmark href="https://joindeleteme.com/blog/opt-out-guides/" id="556">
           <title>Opt-Out Guides | JoinDeleteMe</title>
-        </bookmark>
-        <bookmark href="https://joindeleteme.com/" id="557">
-          <title>DeleteMe | Remove Personal Info from Google</title>
         </bookmark>
         <bookmark href="https://what-is-privacy.com/" id="558">
           <title>Remove Online Information</title>
