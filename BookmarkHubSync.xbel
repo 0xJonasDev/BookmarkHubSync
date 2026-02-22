@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1202: for Floccus bookmark sync browser extension -->
+<!--- highestId :1203: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -677,6 +677,9 @@
         <bookmark href="https://www.mylife.com/" id="559">
           <title>MyLife.com | Reputation Profiles &amp; Scores</title>
         </bookmark>
+        <folder id="1203">
+          <title>Background Check</title>
+        </folder>
         <bookmark href="https://permissionslipcr.com/" id="560">
           <title>Permission Slip by CR | Personal Data Advocates</title>
         </bookmark>
