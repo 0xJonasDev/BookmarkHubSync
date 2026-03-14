@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1222: for Floccus bookmark sync browser extension -->
+<!--- highestId :1223: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3197,6 +3197,9 @@
       </bookmark>
       <bookmark href="https://dumbwireless.com/" id="1222">
         <title>dumbwireless | Non-Smart Phones</title>
+      </bookmark>
+      <bookmark href="https://deeppersonality.app/" id="1223">
+        <title>Deep Personality Test</title>
       </bookmark>
     </folder>
     <folder id="837">
