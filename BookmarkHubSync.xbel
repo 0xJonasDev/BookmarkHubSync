@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1225: for Floccus bookmark sync browser extension -->
+<!--- highestId :1226: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3310,6 +3310,9 @@
         </bookmark>
         <bookmark href="https://www.inmoxr.com/" id="1225">
           <title>INMO XR | Never just glasses</title>
+        </bookmark>
+        <bookmark href="https://privacy.ca.gov/drop/" id="1226">
+          <title>Delete request and opt-out platform (DROP) - privacy.ca.gov</title>
         </bookmark>
       </folder>
       <folder id="1154">
