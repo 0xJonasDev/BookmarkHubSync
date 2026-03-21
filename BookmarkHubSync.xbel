@@ -700,9 +700,6 @@
           <bookmark href="https://privacy.ca.gov/drop/" id="1226">
             <title>Delete Request - CA Residents only | privacy.ca.gov</title>
           </bookmark>
-          <bookmark href="https://www.midjourney.com/home" id="1227">
-            <title>Midjourney | Opensource AI Models</title>
-          </bookmark>
         </folder>
         <bookmark href="https://web.krollmonitoring.com/" id="1029">
           <title>Kroll Monitoring | Credit and Identity Monitoring</title>
@@ -1892,6 +1889,9 @@
       </bookmark>
       <bookmark href="https://deepmind.google/models/lyria/" id="1198">
         <title>Lyria 3 — AI Music Creation</title>
+      </bookmark>
+      <bookmark href="https://www.midjourney.com/home" id="1227">
+        <title>Midjourney | Opensource AI Models</title>
       </bookmark>
     </folder>
     <folder id="952">
