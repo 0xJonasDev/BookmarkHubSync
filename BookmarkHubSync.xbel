@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1238: for Floccus bookmark sync browser extension -->
+<!--- highestId :1239: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3237,6 +3237,9 @@
       <bookmark href="https://wellwellwell.co/retiree-invents-miracle-socks-that-relieve-foot-pain-01/?lpid=1543&amp;source_id=DL&amp;utm_source=9946&amp;utm_medium=&amp;utm_term=631&amp;aff_id=9946&amp;sub_id=&amp;req_id=ee3dd3e28d6442ca937c014b57295870&amp;oid=631&amp;device_type=PC&amp;country_name=United+States" id="883">
         <title>Miracle Socks</title>
       </bookmark>
+      <folder id="1239">
+        <title>Clothing &amp; Assesories</title>
+      </folder>
       <bookmark href="https://www.tungstenfashions.com/tungsten-rings.html?msn-arkansasCypressUSA&amp;taboola" id="847">
         <title>Tungsten Rings | Mens</title>
       </bookmark>
