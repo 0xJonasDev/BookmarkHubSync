@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1233: for Floccus bookmark sync browser extension -->
+<!--- highestId :1234: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1518,15 +1518,24 @@
           <title>WorkInTexas</title>
         </bookmark>
       </folder>
-      <bookmark href="https://www.palantir.com/" id="155">
-        <title>Palantir</title>
-      </bookmark>
       <folder id="1233">
         <title>Resume &amp; Interview Prep</title>
         <bookmark href="https://prepfully.com/practice-interviews" id="154">
           <title>Prepfully</title>
         </bookmark>
+        <bookmark href="https://www.techseries.dev/interview" id="531">
+          <title>Tech Interview Pro</title>
+        </bookmark>
+        <bookmark href="https://cvmkr.com/" id="530">
+          <title>CV Maker | Resumes Creator</title>
+        </bookmark>
+        <bookmark href="https://www.interviewkickstart.com/?utm_source=quora&amp;utm_medium=answers&amp;utm_campaign=post&amp;utm_term=decided_to_quit_my_job_and_spend_4000_hours_preparing" id="532">
+          <title>Interview Kickstart | The Best Technical Interview Prep Courses</title>
+        </bookmark>
       </folder>
+      <bookmark href="https://www.palantir.com/" id="155">
+        <title>Palantir</title>
+      </bookmark>
       <bookmark href="http://www.careerbuilder.com/" id="156">
         <title>CareerBuilder</title>
       </bookmark>
@@ -1539,14 +1548,8 @@
       <bookmark href="https://www.artech.com/" id="160">
         <title>Artech Information Systems</title>
       </bookmark>
-      <bookmark href="https://cvmkr.com/" id="530">
-        <title>CV Maker | Resumes Creator</title>
-      </bookmark>
-      <bookmark href="https://www.techseries.dev/interview" id="531">
-        <title>Tech Interview Pro</title>
-      </bookmark>
-      <bookmark href="https://www.interviewkickstart.com/?utm_source=quora&amp;utm_medium=answers&amp;utm_campaign=post&amp;utm_term=decided_to_quit_my_job_and_spend_4000_hours_preparing" id="532">
-        <title>Interview Kickstart | The Best Technical Interview Prep Courses</title>
+      <bookmark href="https://weworkremotely.com/" id="1234">
+        <title>We Work Remotely: Advanced Remote Job Search</title>
       </bookmark>
     </folder>
     <folder id="29">
