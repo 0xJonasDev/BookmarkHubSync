@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1241: for Floccus bookmark sync browser extension -->
+<!--- highestId :1243: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -111,9 +111,6 @@
           </bookmark>
           <bookmark href="https://www.lacourt.ca.gov/pages/lp/efiling/cp/e-filing-service-providers" id="1240">
             <title>Superior Court of LA County | Approved Electronic Filing Service Providers</title>
-          </bookmark>
-          <bookmark href="https://code.claude.com/docs/en/overview" id="1241">
-            <title>Claude Code overview - Claude Code Docs</title>
           </bookmark>
         </folder>
         <folder id="1183">
@@ -1919,6 +1916,15 @@
       </bookmark>
       <bookmark href="https://www.midjourney.com/home" id="1227">
         <title>Midjourney | Opensource AI Models</title>
+      </bookmark>
+      <bookmark href="https://code.claude.com/docs/en/overview" id="1241">
+        <title>Claude Code Docs | AI Coding</title>
+      </bookmark>
+      <bookmark href="https://gemini.google.com/app" id="1242">
+        <title>Google Gemini</title>
+      </bookmark>
+      <bookmark href="https://cursor.com/" id="1243">
+        <title>Cursor | Code with AI</title>
       </bookmark>
     </folder>
     <folder id="952">
