@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1243: for Floccus bookmark sync browser extension -->
+<!--- highestId :1244: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1922,6 +1922,9 @@
       </bookmark>
       <bookmark href="https://cursor.com/" id="1243">
         <title>Cursor | Code with AI</title>
+      </bookmark>
+      <bookmark href="https://proton.me/blog/born-private" id="1244">
+        <title>Born Private: Reserve your child’s first email address | Proton</title>
       </bookmark>
     </folder>
     <folder id="952">
