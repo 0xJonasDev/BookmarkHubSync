@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1245: for Floccus bookmark sync browser extension -->
+<!--- highestId :1246: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3159,6 +3159,9 @@
     </bookmark>
     <bookmark href="https://www.balsamdayspa.com/dt_service/spa-packages/" id="1245">
       <title>Balsam Day Spa Newmarket</title>
+    </bookmark>
+    <bookmark href="https://broadbandmap.fcc.gov/home?version=jun2025" id="1246">
+      <title>Home | FCC National Broadband Map</title>
     </bookmark>
   </folder>
   <folder id="886">
