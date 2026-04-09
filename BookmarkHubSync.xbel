@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1246: for Floccus bookmark sync browser extension -->
+<!--- highestId :1247: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2216,6 +2216,9 @@
       </bookmark>
       <bookmark href="https://broadbandmap.fcc.gov/home?version=jun2025" id="1246">
         <title>FCC National Broadband Map | IP Search for an Address</title>
+      </bookmark>
+      <bookmark href="https://www.highspeedinternet.com/" id="1247">
+        <title>HighSpeedInternet.com | Find Internet Plans and Providers</title>
       </bookmark>
     </folder>
     <folder id="1036">
