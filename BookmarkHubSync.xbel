@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1250: for Floccus bookmark sync browser extension -->
+<!--- highestId :1251: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -403,6 +403,9 @@
         </bookmark>
         <bookmark href="https://www.mymoneytaxservice.com/booking" id="1250">
           <title>My Money Tax Service LLC | Houston TX</title>
+        </bookmark>
+        <bookmark href="https://tmsearch.uspto.gov/search/search-results/79336745" id="1251">
+          <title>Trademark search</title>
         </bookmark>
       </folder>
       <folder id="68">
