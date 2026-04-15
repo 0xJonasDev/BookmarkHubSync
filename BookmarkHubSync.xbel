@@ -404,9 +404,6 @@
         <bookmark href="https://www.mymoneytaxservice.com/booking" id="1250">
           <title>My Money Tax Service LLC | Houston TX</title>
         </bookmark>
-        <bookmark href="https://tmsearch.uspto.gov/search/search-results/79336745" id="1251">
-          <title>Trademark search</title>
-        </bookmark>
       </folder>
       <folder id="68">
         <title>Loans</title>
@@ -1029,6 +1026,9 @@
     </folder>
     <bookmark href="https://www.zoho.com/mail/" id="28">
       <title>Zoho Mail</title>
+    </bookmark>
+    <bookmark href="https://tmsearch.uspto.gov/search/search-results/79336745" id="1251">
+      <title>Trademark search</title>
     </bookmark>
   </folder>
   <folder id="9">
