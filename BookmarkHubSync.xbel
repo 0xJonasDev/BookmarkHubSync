@@ -461,6 +461,9 @@
         <bookmark href="https://mychart.parklandhealth.org/MyChart/Authentication/Login?action=logout" id="77">
           <title>MyChart | Parkland</title>
         </bookmark>
+        <bookmark href="https://tddctx.mygportal.com/PP6-1-10/Account/LogOn" id="82">
+          <title>GI Alliance</title>
+        </bookmark>
         <bookmark href="https://mychart.minuteclinic.com/MyChartPRD/Authentication/Login?action=logout" id="78">
           <title>MyChart | Minute Clinic</title>
         </bookmark>
@@ -469,9 +472,6 @@
         </bookmark>
         <bookmark href="https://sleepio.bighealth.com/rtx#1/1" id="1252">
           <title>Sleepio for RTX</title>
-        </bookmark>
-        <bookmark href="https://tddctx.mygportal.com/PP6-1-10/Account/LogOn" id="82">
-          <title>GI Alliance</title>
         </bookmark>
         <bookmark href="https://myhealthone.com/mh1/public/mh1/Login/#/login-form" id="83">
           <title>MyHealthOne</title>
