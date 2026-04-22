@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1252: for Floccus bookmark sync browser extension -->
+<!--- highestId :1253: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3171,6 +3171,9 @@
     </bookmark>
     <bookmark href="https://www.balsamdayspa.com/dt_service/spa-packages/" id="1245">
       <title>Balsam Day Spa Newmarket</title>
+    </bookmark>
+    <bookmark href="https://nibss-plc.com.ng/bank-verification-numberbvn/diaspora-enrolment/" id="1253">
+      <title>Diaspora Enrolment - NIBSS</title>
     </bookmark>
   </folder>
   <folder id="886">
