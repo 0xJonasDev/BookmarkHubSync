@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1358: for Floccus bookmark sync browser extension -->
+<!--- highestId :1359: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -37,7 +37,7 @@
         <title>Grok</title>
       </bookmark>
       <bookmark href="https://claude.ai/login" id="1261">
-        <title> Claude</title>
+        <title>Claude</title>
       </bookmark>
       <bookmark href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&amp;ia=chat&amp;duckai=1" id="976">
         <title>Duck.ai</title>
@@ -212,7 +212,7 @@
             <title>Order Birth Certificates | VitalChek</title>
           </bookmark>
           <bookmark href="https://www.lavote.gov/home/records/birth-records/birth-records-request/online-request" id="1274">
-            <title>LA County Clerk Registrar | Records </title>
+            <title>LA County Clerk Registrar | Records</title>
           </bookmark>
         </folder>
         <folder id="1275">
@@ -696,7 +696,7 @@
           <title>US National Park Finder</title>
         </bookmark>
         <bookmark href="https://www.viator.com/Rome/d511-ttd?mcid=54929&amp;sv1=affiliate&amp;sv_campaign_id=520849&amp;awin_plat_id=11018&amp;awc=11018_1784533588_7063eb8f03cb516e2742c58a7ce679d7&amp;aid=awinUSDEEPLINK_520849&amp;clickref=c93f03147b2d4269884777832-541008" id="1290">
-          <title>Best 20 Tours &amp; Excursions in Rome, Italy </title>
+          <title>Best 20 Tours &amp; Excursions in Rome, Italy</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.withfaye.com/" id="1087">
@@ -827,7 +827,7 @@
             <title>Delete Request - CA Residents only | privacy.ca.gov</title>
           </bookmark>
           <bookmark href="https://justdeleteme.xyz/#facebook" id="1295">
-            <title>Just Delete Me |  Direct links to delete your account </title>
+            <title>Just Delete Me |  Direct links to delete your account</title>
           </bookmark>
           <bookmark href="https://incogni.com/" id="1296">
             <title>Data Broker Removal Service | Incogni</title>
@@ -923,16 +923,16 @@
             <title>European Auto Parts Online Store | eEuroparts</title>
           </bookmark>
           <bookmark href="https://www.fcpeuro.com/" id="1300">
-            <title> OEM European Car Parts Online | FCP Euro</title>
+            <title>OEM European Car Parts Online | FCP Euro</title>
           </bookmark>
           <bookmark href="https://newparts.com/" id="1301">
-            <title> Newparts.com | OEM &amp; Aftermarket Auto Parts Online</title>
+            <title>Newparts.com | OEM &amp; Aftermarket Auto Parts Online</title>
           </bookmark>
           <bookmark href="https://partsavatar.ca/" id="1302">
             <title>Parts Avatar | OEM &amp; Aftermarket Parts</title>
           </bookmark>
           <bookmark href="https://www.tirerack.com/" id="1303">
-            <title> Tire Rack | Tires, Wheel Accessories</title>
+            <title>Tire Rack | Tires, Wheel Accessories</title>
           </bookmark>
         </folder>
         <folder id="1304">
@@ -2392,7 +2392,7 @@
         <title>BroadbandNow | Find Internet Providers by Address</title>
       </bookmark>
       <bookmark href="https://www.numberbarn.com/" id="1316">
-        <title>NumberBarn | Number Parking </title>
+        <title>NumberBarn | Number Parking</title>
       </bookmark>
       <bookmark href="https://www.vccgenerator.org/" id="1317">
         <title>VCCGenerator - Valid Credit Card Generator</title>
@@ -2403,7 +2403,10 @@
     </folder>
     <folder id="1036">
       <title>Troubleshoot</title>
-      <bookmark href="edge://settings/content/cookies/siteData" id="1045">
+      <bookmark href="chrome://settings/content/cookies/siteData" id="1319">
+        <title>Cookies Settings</title>
+      </bookmark>
+      <bookmark href="chrome://settings/content/cookies/siteData" id="1359">
         <title>Cookies Settings</title>
       </bookmark>
       <bookmark href="chrome://settings/content/all?search=cookie" id="1113">
@@ -2415,17 +2418,14 @@
       <bookmark href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" id="1112">
         <title>Microsoft Safety Scanner Download</title>
       </bookmark>
-      <bookmark href="https://callnerds.com/" id="1215">
-        <title>Nerds On Call Computer Repair and Tech Support</title>
-      </bookmark>
-      <bookmark href="chrome://settings/content/cookies/siteData" id="1319">
-        <title>Cookies Settings</title>
-      </bookmark>
       <bookmark href="https://support.apple.com/en-us/102603" id="1320">
         <title>Mac Safe Mode | Startup Keys | Apple Support</title>
       </bookmark>
       <bookmark href="https://flights.booking.com/flights/PHX.CITY-LAX.CITY/?type=ROUNDTRIP&amp;adults=1&amp;cabinClass=ECONOMY&amp;children=&amp;from=PHX.CITY&amp;to=LAX.CITY&amp;fromCountry=US&amp;toCountry=US&amp;fromLocationName=Phoenix&amp;toLocationName=Los+Angeles&amp;depart=2026-07-27&amp;return=2026-07-28&amp;sort=BEST&amp;travelPurpose=leisure&amp;ca_source=flights_index_sb&amp;aid=1607597&amp;label=v3.cmrsx6r8255f00770xk0qvysl" id="1321">
         <title>Search flights: Phoenix – Los Angeles – Booking.com</title>
+      </bookmark>
+      <bookmark href="https://callnerds.com/" id="1215">
+        <title>Nerds On Call Computer Repair and Tech Support</title>
       </bookmark>
     </folder>
   </folder>
@@ -3460,7 +3460,7 @@
         <title>Bondi 9 Men&apos;s Cushioned Road Running Shoe | HOKA®</title>
       </bookmark>
       <bookmark href="https://shop.lcsign.com/pages/custom-neon-design" id="1328">
-        <title>  Unique LED Neon Sign | LC SIGN SHOP</title>
+        <title>Unique LED Neon Sign | LC SIGN SHOP</title>
       </bookmark>
       <bookmark href="https://www.bespokepost.com/store/marcellin-cast-iron-reversible-griddle-grill-press?rl=image" id="1329">
         <title>Marcellin Cast Iron Reversible Griddle &amp; Grill Press | Cast Iron Pan | Bespoke Post</title>
@@ -3469,10 +3469,10 @@
         <title>Staub Cast Iron 7-Quart Dutch Oven | Enameled Dutch Oven | Bespoke Post</title>
       </bookmark>
       <bookmark href="https://hervns.com/" id="1331">
-        <title>Hervns - Travel Carry Satchel </title>
+        <title>Hervns - Travel Carry Satchel</title>
       </bookmark>
       <bookmark href="https://bullseyeblower.com/" id="1332">
-        <title>Bullseye Air Blower </title>
+        <title>Bullseye Air Blower</title>
       </bookmark>
       <bookmark href="https://incogni.com/rich" id="1333">
         <title>Incogni | Personal Information Removal Service</title>
@@ -3621,7 +3621,7 @@
           <title>Aparthy - Hair Growth</title>
         </bookmark>
         <bookmark href="https://shop.app/checkout/66591064385/cn/hWNFfygPooUq1rJm0py0XHy4/en-us/shoppay?_mcs=3.AMPS&amp;_r=AQABXF_Yy9jAswbZ8uuJceGHLZJhh0AfSLHLz8SgFQGwekc&amp;preview_theme_id=183732109633&amp;redirect_source=checkout_universal_redirect&amp;tracking_unique=98f5989d-bd1f-4d16-9bc6-3a9cd1bf3ff5&amp;tracking_visit=256342e1-d293-419e-9910-79b7493d8516&amp;_cs=3.AMPS" id="1337">
-          <title> Flakes Shampoo</title>
+          <title>Flakes Shampoo</title>
         </bookmark>
         <bookmark href="https://brytelabs.shop/products/hydroxyapatite-remineralizing-toothpaste-bogo" id="1338">
           <title>Hydroxyapatite Remineralizing Toothpaste – Brytelabs</title>
@@ -3676,7 +3676,7 @@
         <title>Farmers Markets | Family Farms | Organic Food</title>
       </bookmark>
       <bookmark href="https://wildpastures.com/" id="1012">
-        <title>Wild Pastures | Pasture-Raised Beef, Pork, and Chicken </title>
+        <title>Wild Pastures | Pasture-Raised Beef, Pork, and Chicken</title>
       </bookmark>
       <bookmark href="https://www.tannersfish.com/?srsltid=AfmBOoqcpC05sIha_HbNNeEhoDjNXkx7Px2b4c3m2ezw-Wb3EDGoWhjY" id="908">
         <title>Tanners Alaskan Seafood 100% Fresh, Wild, Shipped Overnight</title>
@@ -3766,7 +3766,7 @@
     <folder id="1343">
       <title>Appeal Court Order</title>
       <bookmark href="https://appellatecases.courtinfo.ca.gov/search.cfm?dist=2" id="1344">
-        <title> Appellate Court Case Information | Case Search</title>
+        <title>Appellate Court Case Information | Case Search</title>
       </bookmark>
       <bookmark href="https://courts.ca.gov/system/files?file=2025-07/app001info.pdf" id="1345">
         <title>APP-001-INFO on Appeal for Unlimited Civil Cases</title>
@@ -3775,7 +3775,7 @@
         <title>How to appeal your case | Self Help Guide</title>
       </bookmark>
       <bookmark href="https://selfhelp.courts.ca.gov/appeals/step-3-designating-record" id="1347">
-        <title> Designating the record | Self Help Guide</title>
+        <title>Designating the record | Self Help Guide</title>
       </bookmark>
     </folder>
     <folder id="1348">
@@ -3818,7 +3818,7 @@
       <title>Civil Case Access | Superior Court of LA County</title>
     </bookmark>
     <bookmark href="https://lacc.lacourt.org/" id="1357">
-      <title>Online Hearing | LACourtConnect  </title>
+      <title>Online Hearing | LACourtConnect</title>
     </bookmark>
     <bookmark href="https://lawhelpinteractive.org/FindForms" id="1358">
       <title>Legal Form Filler | Law Help Interactive</title>
