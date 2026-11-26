@@ -3531,9 +3531,6 @@
     <title>Shopping Cart</title>
     <folder id="836">
       <title>Cart</title>
-      <bookmark href="https://slickdeals.net/promo-codes" id="1176">
-        <title>Slickdeals | Promo Codes</title>
-      </bookmark>
       <bookmark href="https://www.sharkninja.com/shark-steam-scrub-steam-scrubbing-and-sanitizing-steam-blaster-mop/S8201.html?dwvar_S8201_color=DFE1DE" id="1361">
         <title>Shark® Steam Scrubbing &amp; Mop</title>
       </bookmark>
@@ -3808,6 +3805,9 @@
         <title>Butchers Box | Gift Certificate</title>
       </bookmark>
     </folder>
+    <bookmark href="https://slickdeals.net/promo-codes" id="1176">
+      <title>Slickdeals | Promo Codes</title>
+    </bookmark>
     <bookmark href="https://daily.slickdeals.net/stores/" id="1341">
       <title>Slickdeals | Promo Codes</title>
     </bookmark>
