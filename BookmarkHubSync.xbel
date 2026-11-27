@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1362: for Floccus bookmark sync browser extension -->
+<!--- highestId :1363: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -3736,6 +3736,9 @@
         </bookmark>
         <bookmark href="https://www.crabtree-evelyn.com/" id="1362">
           <title>Crabtree &amp; Evelyn | Luxury Bath, Body &amp; Hair Care</title>
+        </bookmark>
+        <bookmark href="https://www.tommyjohn.com/products/second-skin-relaxed-fit-boxer-6-3-pack?variant=67547089731629" id="1363">
+          <title>Second Skin Relaxed Fit Boxer 6&quot; (3-Pack) – Tommy John</title>
         </bookmark>
       </folder>
       <bookmark href="https://skydivestore.com/skydiving-gear/?page=1" id="1155">
